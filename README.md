@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5554092.svg)](https://doi.org/10.5281/zenodo.5554092)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5554358.svg)](https://doi.org/10.5281/zenodo.5554358)
 
 # Metoprolol model
 This repository provides the metoprolol physiological based pharmacokinetics/pharmacodynamics model (PBPK/PD).
@@ -22,7 +22,7 @@ The whole-body submodel is available from [`metoprolol_body.xml`](./models/metop
 
 > König, Matthias, & Ogata, Paula. (2021).  
 > *Metoprolol physiological based pharmacokinetics/pharmacodynamics model (PBPK/PD) (0.7.0).*   
-> Zenodo. [https://doi.org/10.5281/zenodo.5554092](https://doi.org/10.5281/zenodo.5554092)
+> Zenodo. [https://doi.org/10.5281/zenodo.5554358](https://doi.org/10.5281/zenodo.5554358)
 
 ## License
 
