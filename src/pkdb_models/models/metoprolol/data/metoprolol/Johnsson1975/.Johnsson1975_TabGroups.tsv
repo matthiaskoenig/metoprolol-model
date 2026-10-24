@@ -1,0 +1,7 @@
+study	name	parent	group_count	measurement	substance	choice	count	mean	min	max	sd	unit	comments
+Johnsson1975	all	NA	5	species	NA	homo sapiens	5	NA	NA	NA	NA	NA	NA
+Johnsson1975	all	NA	5	healthy	NA	Y	5	NA	NA	NA	NA	NA	NA
+Johnsson1975	all	NA	5	sex	NA	M	5	NA	NA	NA	NA	NA	NA
+Johnsson1975	all	NA	5	age	NA	NA	5	NA	23.0	28.0	NA	yr	NA
+Johnsson1975	all	NA	5	weight	NA	NA	5	NA	62.0	70.0	NA	kg	NA
+Johnsson1975	all	NA	5	fasting	NA	Y	5	NA	NA	NA	NA	NA	NA

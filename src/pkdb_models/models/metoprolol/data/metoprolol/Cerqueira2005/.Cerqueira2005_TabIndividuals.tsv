@@ -1,0 +1,109 @@
+study	name	group	measurement	substance	choice	value	unit	comment
+Cerqueira2005	S1	crf	sex	NA	M	NA	NA	NA
+Cerqueira2005	S2	crf	sex	NA	M	NA	NA	NA
+Cerqueira2005	S3	crf	sex	NA	M	NA	NA	NA
+Cerqueira2005	S4	crf	sex	NA	F	NA	NA	NA
+Cerqueira2005	S5	crf	sex	NA	F	NA	NA	NA
+Cerqueira2005	S6	crf	sex	NA	M	NA	NA	NA
+Cerqueira2005	S8	control	sex	NA	M	NA	NA	NA
+Cerqueira2005	S9	control	sex	NA	F	NA	NA	NA
+Cerqueira2005	S10	control	sex	NA	M	NA	NA	NA
+Cerqueira2005	S12	control	sex	NA	F	NA	NA	NA
+Cerqueira2005	S13	control	sex	NA	F	NA	NA	NA
+Cerqueira2005	S14	control	sex	NA	M	NA	NA	NA
+Cerqueira2005	S15	control	sex	NA	M	NA	NA	NA
+Cerqueira2005	S1	crf	age	NA	NA	53.0	yr	NA
+Cerqueira2005	S2	crf	age	NA	NA	57.0	yr	NA
+Cerqueira2005	S3	crf	age	NA	NA	59.0	yr	NA
+Cerqueira2005	S4	crf	age	NA	NA	51.0	yr	NA
+Cerqueira2005	S5	crf	age	NA	NA	63.0	yr	NA
+Cerqueira2005	S6	crf	age	NA	NA	54.0	yr	NA
+Cerqueira2005	S8	control	age	NA	NA	47.0	yr	NA
+Cerqueira2005	S9	control	age	NA	NA	50.0	yr	NA
+Cerqueira2005	S10	control	age	NA	NA	46.0	yr	NA
+Cerqueira2005	S12	control	age	NA	NA	64.0	yr	NA
+Cerqueira2005	S13	control	age	NA	NA	42.0	yr	NA
+Cerqueira2005	S14	control	age	NA	NA	57.0	yr	NA
+Cerqueira2005	S15	control	age	NA	NA	45.0	yr	NA
+Cerqueira2005	S1	crf	weight	NA	NA	83.5	kg	NA
+Cerqueira2005	S2	crf	weight	NA	NA	80.0	kg	NA
+Cerqueira2005	S3	crf	weight	NA	NA	78.8	kg	NA
+Cerqueira2005	S4	crf	weight	NA	NA	79.0	kg	NA
+Cerqueira2005	S5	crf	weight	NA	NA	102.0	kg	NA
+Cerqueira2005	S6	crf	weight	NA	NA	98.8	kg	NA
+Cerqueira2005	S8	control	weight	NA	NA	80.0	kg	NA
+Cerqueira2005	S9	control	weight	NA	NA	92.9	kg	NA
+Cerqueira2005	S10	control	weight	NA	NA	95.4	kg	NA
+Cerqueira2005	S12	control	weight	NA	NA	72.5	kg	NA
+Cerqueira2005	S13	control	weight	NA	NA	91.7	kg	NA
+Cerqueira2005	S14	control	weight	NA	NA	107.0	kg	NA
+Cerqueira2005	S15	control	weight	NA	NA	80.0	kg	NA
+Cerqueira2005	S1	crf	height	NA	NA	1.6	m	NA
+Cerqueira2005	S2	crf	height	NA	NA	1.59	m	NA
+Cerqueira2005	S3	crf	height	NA	NA	1.71	m	NA
+Cerqueira2005	S4	crf	height	NA	NA	1.62	m	NA
+Cerqueira2005	S6	crf	height	NA	NA	1.7	m	NA
+Cerqueira2005	S8	control	height	NA	NA	1.74	m	NA
+Cerqueira2005	S9	control	height	NA	NA	1.56	m	NA
+Cerqueira2005	S10	control	height	NA	NA	1.75	m	NA
+Cerqueira2005	S12	control	height	NA	NA	1.56	m	NA
+Cerqueira2005	S13	control	height	NA	NA	1.62	m	NA
+Cerqueira2005	S14	control	height	NA	NA	1.87	m	NA
+Cerqueira2005	S15	control	height	NA	NA	1.7	m	NA
+Cerqueira2005	S1	crf	medication	NA	N	NA	NA	NA
+Cerqueira2005	S2	crf	medication	NA	N	NA	NA	NA
+Cerqueira2005	S3	crf	medication	simvastatin	Y	NA	NA	simvastatin clobazam
+Cerqueira2005	S4	crf	medication	NA	N	NA	NA	NA
+Cerqueira2005	S5	crf	medication	simvastatin	Y	NA	NA	simvastatin bezofibrate
+Cerqueira2005	S6	crf	medication	NA	N	NA	NA	NA
+Cerqueira2005	S8	control	medication	NA	N	NA	NA	NA
+Cerqueira2005	S9	control	medication	NA	N	NA	NA	NA
+Cerqueira2005	S10	control	medication	NA	N	NA	NA	NA
+Cerqueira2005	S12	control	medication	diazepam	Y	NA	NA	NA
+Cerqueira2005	S13	control	medication	NA	N	NA	NA	NA
+Cerqueira2005	S14	control	medication	NA	N	NA	NA	NA
+Cerqueira2005	S15	control	medication	NA	N	NA	NA	NA
+Cerqueira2005	S1	crf	clearance	creatinine	NA	48.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S2	crf	clearance	creatinine	NA	51.5	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S3	crf	clearance	creatinine	NA	25.8	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S4	crf	clearance	creatinine	NA	51.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S5	crf	clearance	creatinine	NA	39.3	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S6	crf	clearance	creatinine	NA	59.8	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S8	control	clearance	creatinine	NA	82.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S9	control	clearance	creatinine	NA	123.4	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S10	control	clearance	creatinine	NA	90.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S12	control	clearance	creatinine	NA	80.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S13	control	clearance	creatinine	NA	87.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S14	control	clearance	creatinine	NA	112.1	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S15	control	clearance	creatinine	NA	88.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S1	crf	gfr	NA	NA	48.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S2	crf	gfr	NA	NA	51.5	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S3	crf	gfr	NA	NA	25.8	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S4	crf	gfr	NA	NA	51.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S5	crf	gfr	NA	NA	39.3	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S6	crf	gfr	NA	NA	59.8	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S8	control	gfr	NA	NA	82.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S9	control	gfr	NA	NA	123.4	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S10	control	gfr	NA	NA	90.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S12	control	gfr	NA	NA	80.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S13	control	gfr	NA	NA	87.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S14	control	gfr	NA	NA	112.1	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S15	control	gfr	NA	NA	88.0	ml/min/(1.73*m^2)	NA
+Cerqueira2005	S1	crf	cyp2d6 genotype	NA	*1/*1	NA	NA	NA
+Cerqueira2005	S1	crf	cyp2d6 genotype	NA	*1/*5	NA	NA	NA
+Cerqueira2005	S2	crf	cyp2d6 genotype	NA	*1/*1	NA	NA	NA
+Cerqueira2005	S2	crf	cyp2d6 genotype	NA	*1/*5	NA	NA	NA
+Cerqueira2005	S3	crf	cyp2d6 genotype	NA	*1/*1	NA	NA	NA
+Cerqueira2005	S3	crf	cyp2d6 genotype	NA	*1/*5	NA	NA	NA
+Cerqueira2005	S4	crf	cyp2d6 genotype	NA	*1/*1	NA	NA	NA
+Cerqueira2005	S4	crf	cyp2d6 genotype	NA	*1/*5	NA	NA	NA
+Cerqueira2005	S5	crf	cyp2d6 genotype	NA	*1/*1	NA	NA	NA
+Cerqueira2005	S5	crf	cyp2d6 genotype	NA	*1/*5	NA	NA	NA
+Cerqueira2005	S6	crf	cyp2d6 genotype	NA	*1/*4	NA	NA	NA
+Cerqueira2005	S8	control	cyp2d6 genotype	NA	*1/*4	NA	NA	NA
+Cerqueira2005	S9	control	cyp2d6 genotype	NA	*1/*3	NA	NA	NA
+Cerqueira2005	S10	control	cyp2d6 genotype	NA	*1/*4	NA	NA	NA
+Cerqueira2005	S13	control	cyp2d6 genotype	NA	*1/*1	NA	NA	NA
+Cerqueira2005	S13	control	cyp2d6 genotype	NA	*1/*5	NA	NA	NA
+Cerqueira2005	S14	control	cyp2d6 genotype	NA	*1/*3	NA	NA	NA
+Cerqueira2005	S15	control	cyp2d6 genotype	NA	*1/*3	NA	NA	NA

@@ -1,0 +1,14 @@
+study	individual	group	intervention	measurement	substance	tissue	time	time_unit	mean	sd	min	max	unit	label	comments
+Cerqueira2005	S1	crf	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.41	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S2	crf	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.53	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S3	crf	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.19	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S4	crf	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.68	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S5	crf	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.03	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S6	crf	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.5	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S8	control	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.55	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S9	control	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.22	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S10	control	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.9	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S12	control	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.62	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S13	control	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.57	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S14	control	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.35	NA	NA	NA	dimensionless	NA	NA
+Cerqueira2005	S15	control	DEB	metabolic ratio	deb/4hdeb	urine	8	hr	0.24	NA	NA	NA	dimensionless	NA	NA

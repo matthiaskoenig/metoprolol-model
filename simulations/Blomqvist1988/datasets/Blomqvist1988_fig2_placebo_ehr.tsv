@@ -1,0 +1,7 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit
+Blomqvist1988	all	placebo	EHR	placebo	heart	0	72	hr	148.245						Fig2_placebo_ehr	1/min
+Blomqvist1988	all	placebo	EHR	placebo	heart	2	74	hr	148.735						Fig2_placebo_ehr	1/min
+Blomqvist1988	all	placebo	EHR	placebo	heart	4	76	hr	157.143						Fig2_placebo_ehr	1/min
+Blomqvist1988	all	placebo	EHR	placebo	heart	8	80	hr	153.143						Fig2_placebo_ehr	1/min
+Blomqvist1988	all	placebo	EHR	placebo	heart	12	84	hr	150.367						Fig2_placebo_ehr	1/min
+Blomqvist1988	all	placebo	EHR	placebo	heart	24	96	hr	147.592						Fig2_placebo_ehr	1/min

@@ -1,0 +1,11 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	sd	min	max	unit	label
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	cmax	metoprolol	plasma 	NA	NA	136.0	76.0	NA	NA	nmol/l	NA
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	cmin	metoprolol	plasma 	24.0	hr	40.0	37.0	NA	NA	nmol/l	NA
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	tmax	metoprolol	plasma 	NA	NA	3.2	1.4	NA	NA	hr	NA
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	auc_end	metoprolol	plasma 	24.0	hr	1994.0	1344.0	NA	NA	nmol/l*hr	NA
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	ptf	metoprolol	plasma 	24.0	hr	125.0	37.0	NA	NA	percent	NA
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	cmax	metoprolol	plasma 	NA	NA	207.0	88.0	NA	NA	nmol/l	NA
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	cmin	metoprolol	plasma 	24.0	hr	12.0	14.0	NA	NA	nmol/l	NA
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	tmax	metoprolol	plasma 	NA	NA	2.8	2.1	NA	NA	hr	NA
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	auc_end	metoprolol	plasma 	24.0	hr	2184.0	1178.0	NA	NA	nmol/l*hr	NA
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	ptf	metoprolol	plasma 	24.0	hr	231.0	57.0	NA	NA	percent	NA

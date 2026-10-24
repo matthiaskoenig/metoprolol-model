@@ -1,0 +1,41 @@
+{
+  "sets": [
+    {
+      "sid": "PK_20261017_183259__fc82a_0",
+      "values": {
+        "Kp_met": 2.779283727551947,
+        "ftissue_met": 45.79903767349085,
+        "LI__METOH_Vmax": 0.0023049429210370365,
+        "LI__ODM2D6_Vmax": 0.012600231875494033,
+        "LI__ODM_Vmax": 0.0015838242245694552,
+        "KI__METEX_f": 0.8152302426602156,
+        "KI__METOHEX_f": 6.764764951701017,
+        "KI__MAMEX_f": 1.534176691407226,
+        "Kp_metoh": 1.7657289265907172,
+        "Ka_abs_met": 1.000379076797966,
+        "Ka_dis_met": 2.5258999654194736,
+        "Ka_dis_sr_met": 0.2578368231586391,
+        "Ka_dis_cr_met": 0.07003350696802764,
+        "F_cr_met": 1.0
+      },
+      "units": {
+        "Kp_met": "dimensionless",
+        "ftissue_met": "l/(min)",
+        "LI__METOH_Vmax": "(mmol)/(min)/l",
+        "LI__ODM2D6_Vmax": "(mmol)/(min)/l",
+        "LI__ODM_Vmax": "(mmol)/(min)/l",
+        "KI__METEX_f": "dimensionless",
+        "KI__METOHEX_f": "dimensionless",
+        "KI__MAMEX_f": "dimensionless",
+        "Kp_metoh": "dimensionless",
+        "Ka_abs_met": "1/hr",
+        "Ka_dis_met": "1/hr",
+        "Ka_dis_sr_met": "1/hr",
+        "Ka_dis_cr_met": "1/hr",
+        "F_cr_met": "dimensionless"
+      },
+      "cost": 25.757982372460248,
+      "provenance": "optimization 'PK_20261017_183259__fc82a', run '2'"
+    }
+  ]
+}

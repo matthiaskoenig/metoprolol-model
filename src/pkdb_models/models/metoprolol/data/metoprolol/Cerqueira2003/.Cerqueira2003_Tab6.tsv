@@ -1,0 +1,25 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	sd	min	max	unit	label	comments
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cmax	(1S,2R)-alpha-hydroxymetoprolol	plasma	NA	NA	10.15	4.06090998179184	7.24	13.05	ng/ml	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cmax	(1S,2S)-alpha-hydroxymetoprolol	plasma	NA	NA	10.64	4.18672130652894	7.65	13.64	ng/ml	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cmax	(1R,2R)-alpha-hydroxymetoprolol	plasma	NA	NA	27.87	10.5052456155476	20.35	35.38	ng/ml	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cmax	(1R,2S)-alpha-hydroxymetoprolol	plasma	NA	NA	33.68	15.0624113782469	22.9	44.45	ng/ml	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	tmax	(1S,2R)-alpha-hydroxymetoprolol	plasma	NA	NA	2.48	2.20169818289919	0.9	4.05	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	tmax	(1S,2S)-alpha-hydroxymetoprolol	plasma	NA	NA	2.78	2.25062480918584	1.17	4.39	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	tmax	(1R,2R)-alpha-hydroxymetoprolol	plasma	NA	NA	2.68	2.24363529114489	1.07	4.28	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	tmax	(1R,2S)-alpha-hydroxymetoprolol	plasma	NA	NA	2.78	2.25062480918584	1.17	4.39	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	auc_end	(1S,2R)-alpha-hydroxymetoprolol	plasma	24.0	hr	100.97	48.0948736397757	66.57	135.38	ng/ml*hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	auc_end	(1S,2S)-alpha-hydroxymetoprolol	plasma	24.0	hr	113.6	47.6475444851549	79.52	147.69	ng/ml*hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	auc_end	(1R,2R)-alpha-hydroxymetoprolol	plasma	24.0	hr	287.51	113.712469008213	206.17	368.86	ng/ml*hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	auc_end	(1R,2S)-alpha-hydroxymetoprolol	plasma	24.0	hr	351.91	152.210734377764	243.02	460.79	ng/ml*hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	thalf	(1S,2R)-alpha-hydroxymetoprolol	plasma	NA	NA	7.83	1.81727469064695	6.53	9.13	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	thalf	(1S,2S)-alpha-hydroxymetoprolol	plasma	NA	NA	8.06	1.36994553602616	7.08	9.04	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	thalf	(1R,2R)-alpha-hydroxymetoprolol	plasma	NA	NA	7.7	1.21617613912527	6.83	8.57	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	thalf	(1R,2S)-alpha-hydroxymetoprolol	plasma	NA	NA	7.91	1.52371493292706	6.82	9.0	hr	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1S,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	11.99	5.26310708483521	8.22	15.75	1/(hr*kg)	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1S,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	11.63	5.06041106164767	8.01	15.25	1/(hr*kg)	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1R,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	11.35	4.75986178588682	7.94	14.75	1/(hr*kg)	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1R,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	12.08	5.78732093790645	8.66	16.94	1/(hr*kg)	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1S,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	3.61	3.43884287614731	1.15	6.07	1/(hr*kg)	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1S,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	3.98	3.41088480398351	1.54	6.42	1/(hr*kg)	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1R,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	7.61	6.43035659767383	3.01	12.21	1/(hr*kg)	NA	NA
+Cerqueira2003	all	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1R,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	10.82	10.1557697135001	3.57	18.1	1/(hr*kg)	NA	NA

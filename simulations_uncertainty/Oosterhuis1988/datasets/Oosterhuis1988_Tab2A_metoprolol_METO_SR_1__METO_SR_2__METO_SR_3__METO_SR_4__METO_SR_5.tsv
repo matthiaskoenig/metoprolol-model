@@ -1,0 +1,7 @@
+study	group	intervention	measurement	substance	tissue	time_rel	time	time_unit	mean	mean_sd	mean_se	min	max	label	mean_unit
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	0.0	96.0	hr	4.7	3.8				Tab2_SR	percent
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	2.0	98.0	hr	18.8	3.5				Tab2_SR	percent
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	4.0	100.0	hr	18.8	2.8				Tab2_SR	percent
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	8.0	104.0	hr	16.7	4.8				Tab2_SR	percent
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	12.0	108.0	hr	13.4	4.7				Tab2_SR	percent
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	24.0	120.0	hr	4.6	4.8				Tab2_SR	percent

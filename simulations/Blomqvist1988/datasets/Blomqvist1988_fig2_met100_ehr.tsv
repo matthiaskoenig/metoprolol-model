@@ -1,0 +1,7 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	0	72	hr	130.776						Fig2_MET100_ehr	1/min
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	2	74	hr	124.245						Fig2_MET100_ehr	1/min
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	4	76	hr	130.694						Fig2_MET100_ehr	1/min
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	8	80	hr	132.408						Fig2_MET100_ehr	1/min
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	12	84	hr	131.673						Fig2_MET100_ehr	1/min
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	24	96	hr	130.041						Fig2_MET100_ehr	1/min

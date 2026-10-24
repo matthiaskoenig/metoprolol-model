@@ -1,0 +1,9 @@
+study	name	substance	measurement	application	route	form	value	unit	time	time_unit	comments
+Johnsson1975	metoprolol_oral20	metoprolol	dosing	single dose	oral	tablet	20.0	mg	0	hr	rapidly dissolving tablets
+Johnsson1975	metoprolol_oral50	metoprolol	dosing	single dose	oral	tablet	50.0	mg	0	hr	rapidly dissolving tablets
+Johnsson1975	metoprolol_oral100	metoprolol	dosing	single dose	oral	tablet	100.0	mg	0	hr	rapidly dissolving tablets
+Johnsson1975	metoprolol_iv5	metoprolol	dosing	single dose	iv	solution	5.0	mg	0	hr	NA
+Johnsson1975	metoprolol_iv10	metoprolol	dosing	single dose	iv	solution	10.0	mg	0	hr	NA
+Johnsson1975	metoprolol_iv15	metoprolol	dosing	single dose	iv	solution	15.0	mg	0	hr	NA
+Johnsson1975	metoprolol_iv20	metoprolol	dosing	single dose	iv	solution	20.0	mg	0	hr	NA
+Johnsson1975	placebo	placebo	qualitative dosing	single dose	NR	NR	NA	NA	0	hr	NA

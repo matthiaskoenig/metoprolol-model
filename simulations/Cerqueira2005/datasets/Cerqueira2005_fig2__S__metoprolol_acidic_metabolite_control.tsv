@@ -1,0 +1,15 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	comments	mean_unit
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	0.0	144.0	hr	53.48	32.535	55.4152612102479	20.945			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	0.5	144.5	hr	74.78	61.74	34.5005970962823	13.04			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	1.0	145.0	hr	328.21	249.18	209.093726113435	79.03			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	1.5	145.5	hr	508.1	424.6	220.920234473893	83.5			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	2.0	146.0	hr	549.2	458.9	238.911343389133	90.3000000000001			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	3.0	147.0	hr	542.5	481.3	161.919980237153	61.2			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	4.0	148.0	hr	484.0	439.8	116.942207949055	44.2			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	6.0	150.0	hr	394.67	337.76	150.569707112686	56.91			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	8.0	152.0	hr	262.52	211.61	134.695199246298	50.91			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	10.0	154.0	hr	208.99	154.91	143.082230902373	54.08			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	12.0	156.0	hr	170.4	122.58	126.519827695109	47.82			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	16.0	160.0	hr	81.01	46.98	90.034917115528	34.03			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	20.0	164.0	hr	82.4	41.881	107.203197373026	40.519			Fig2_control_SMAM		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(S)-metoprolol acidic metabolite	plasma	24.0	168.0	hr	38.475	19.094	51.2773061597428	19.381			Fig2_control_SMAM		ng/ml

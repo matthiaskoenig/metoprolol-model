@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	0.3496	hr	2.9218225913337452e-05						Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	0.7322	hr	0.00012917224364661893	47.724	0.00011029634171035637	4.932602354678045e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	1.2232	hr	0.0001544785732885295	49.394	6.767652389446494e-05	3.026586158178249e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	1.5706	hr	0.0001809705527230037	55.333	5.8108809690897514e-05	2.5987049712089073e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	2.0468	hr	0.0001730562468521372	52.731	5.404420383168968e-05	2.416930271150254e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	2.6968	hr	0.00017605590342512157	54.765	6.434789605091616e-05	2.8777253955787764e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	3.2035	hr	0.0001544785732885295	46.91	4.690187172518035e-05	2.0975154689895718e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	4.209	hr	0.00013742690955257468	41.731	4.171657206940081e-05	1.8656218187089854e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	5.6989	hr	9.220016730752845e-05	28.779	3.452405964364204e-05	1.5439628844488152e-05			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	8.7008	hr	4.997532576756611e-05	15.1235	1.4735450747609724e-05	6.589893910151088e-06			Fig5_metoral50	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_oral50	concentration	metoprolol	plasma	11.7637	hr	2.085509362257304e-05	7.0944	1.2699802463389163e-05	5.67952432179149e-06			Fig5_metoral50	mole/meter^3	dimensionless

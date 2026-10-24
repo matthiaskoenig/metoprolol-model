@@ -1,0 +1,6 @@
+study	name	substance	measurement	application	route	form	value	unit	time	time_unit	comments
+Blomqvist1988	MET100	metoprolol	dosing	single dose	oral	tablet	100	mg	0|24|48|72	hr	CR; 95 mg of metoprolol succinate
+Blomqvist1988	MET200	metoprolol	dosing	single dose	oral	tablet	200	mg	0|24|48|72	hr	CR; 2 tablets of 100 mg
+Blomqvist1988	ATE50	atenolol	dosing	single dose	oral	tablet	50	mg	0|24|48|72	hr	NA
+Blomqvist1988	ATE100	atenolol	dosing	single dose	oral	tablet	100	mg	0|24|48|72	hr	NA
+Blomqvist1988	placebo	placebo	dosing	single dose	oral	tablet	100	mg	0|24|48|72	hr	it were used 100 mg and 50 mg tablets

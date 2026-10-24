@@ -1,0 +1,19 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	sd	min	max	unit	label	comment
+Bae2014	genotype1	met	auc_end	metoprolol	plasma	24.0	hr	556.0	173.0	NA	NA	ng/ml*hr	NA	NA
+Bae2014	genotype1	met	cmax	metoprolol	plasma	NA	NA	178.0	44.9	NA	NA	ng/ml	NA	NA
+Bae2014	genotype1	met	thalf	metoprolol	plasma	NA	NA	2.49	0.446	NA	NA	hr	NA	NA
+Bae2014	genotype1	met	tmax	metoprolol	plasma	NA	NA	1.0	NA	0.67	1.0	hr	NA	NA
+Bae2014	genotype10	met	auc_end	metoprolol	plasma	24.0	hr	3500.0	1700.0	NA	NA	ng/ml*hr	NA	NA
+Bae2014	genotype10	met	cmax	metoprolol	plasma	NA	NA	507.0	155.0	NA	NA	ng/ml	NA	NA
+Bae2014	genotype10	met	thalf	metoprolol	plasma	NA	NA	5.94	0.736	NA	NA	hr	NA	NA
+Bae2014	genotype10	met	tmax	metoprolol	plasma	NA	NA	1.5	NA	1.0	1.5	hr	NA	NA
+Bae2014	genotype1	met	auc_end	alpha-hydroxymetoprolol	plasma	24.0	hr	499.0	93.4	NA	NA	ng/ml*hr	NA	NA
+Bae2014	genotype1	met	cmax	alpha-hydroxymetoprolol	plasma	NA	NA	82.8	12.5	NA	NA	ng/ml	NA	NA
+Bae2014	genotype1	met	thalf	alpha-hydroxymetoprolol	plasma	NA	NA	6.08	0.643	NA	NA	hr	NA	NA
+Bae2014	genotype1	met	tmax	alpha-hydroxymetoprolol	plasma	NA	NA	1.0	NA	0.67	1.5	hr	NA	NA
+Bae2014	genotype10	met	auc_end	alpha-hydroxymetoprolol	plasma	24.0	hr	207.0	76.1	NA	NA	ng/ml*hr	NA	NA
+Bae2014	genotype10	met	cmax	alpha-hydroxymetoprolol	plasma	NA	NA	19.3	9.8	NA	NA	ng/ml	NA	NA
+Bae2014	genotype10	met	thalf	alpha-hydroxymetoprolol	plasma	NA	NA	7.85	0.884	NA	NA	hr	NA	NA
+Bae2014	genotype10	met	tmax	alpha-hydroxymetoprolol	plasma	NA	NA	1.0	NA	0.67	2.0	hr	NA	NA
+Bae2014	genotype1	met	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	24.0	hr	0.931	0.178	NA	NA	dimensionless	NA	NA
+Bae2014	genotype10	met	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	24.0	hr	0.0724	0.0443	NA	NA	dimensionless	NA	NA

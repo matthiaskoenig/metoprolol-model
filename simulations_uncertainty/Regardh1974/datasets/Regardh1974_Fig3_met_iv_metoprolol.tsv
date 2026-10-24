@@ -1,0 +1,21 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	0.26666666666666666	hr	8.062792611449397e-05	23.756	1.839108700493432e-05	8.224744144629225e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	0.33426666666666666	hr	6.408867254125595e-05	19.051	1.602424861366716e-05	7.166261837703319e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	0.42456666666666665	hr	6.757829795596221e-05	19.136	8.93209682640737e-06	3.994555137091412e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	0.5082666666666666	hr	5.664189419111642e-05	16.109	8.070668012624663e-06	3.6093124600123783e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	0.5827666666666667	hr	5.372078224161418e-05	15.077	5.971457990688086e-06	2.670517198392573e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	0.6822666666666666	hr	4.939820979598071e-05	13.926	6.010765907433515e-06	2.6880962331719082e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	0.8643666666666666	hr	4.4434189591909814e-05	12.3617	4.02780695842491e-06	1.801290031856951e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	1.0293666666666668	hr	4.365921597355275e-05	12.6384	8.074849705895454e-06	3.6111825700952827e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	1.1947666666666668	hr	4.03259317617776e-05	11.2684	4.0704602297869706e-06	1.8203651547026087e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	1.5411666666666668	hr	3.875990157835046e-05	11.2202	7.1690949434423355e-06	3.206116726137418e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	1.8715666666666668	hr	3.486708042976925e-05	9.8294	4.241909653889339e-06	1.8970396681018353e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	2.2181666666666664	hr	3.2926280185727365e-05	9.2007	3.3236098116238677e-06	1.4863634938952462e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	3.2004666666666663	hr	2.6765389528595366e-05	7.5122	2.9782019474566165e-06	1.3318924010470522e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	4.215966666666667	hr	2.072605602685239e-05	5.7661	1.8792529558930125e-06	8.404274712588355e-07			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	5.205566666666667	hr	1.9065398273230118e-05	5.519	3.526003765930106e-06	1.5768768219079954e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	6.204666666666667	hr	1.4763397038508634e-05	4.5062	4.675133076743184e-06	2.0907830726911043e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	7.203366666666667	hr	1.216095184713391e-05	3.5204	2.2497509796850093e-06	1.0061192246044847e-06			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	8.202066666666665	hr	9.88577592026808e-06	2.8491	1.7228576275654713e-06	7.704853541580812e-07			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	10.167466666666666	hr	5.772655803920304e-06	1.7388	1.634205730224719e-06	7.308390204004324e-07			Fig3_metiv	mole/meter^3
+Regardh1974	all	met_iv	concentration	metoprolol	plasma	12.172966666666666	hr	3.917057775255706e-06	1.12393	6.410535784121037e-07	2.866878757097913e-07			Fig3_metiv	mole/meter^3

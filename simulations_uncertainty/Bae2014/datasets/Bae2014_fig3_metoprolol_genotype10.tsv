@@ -1,0 +1,14 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_se	mean_sd	min	max	label	mean_unit	count_unit
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	0.34103468	hr	3.418458749523215e-05	13.828623	1.0125299619686933e-05	1.753751833549431e-05			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	0.6691932	hr	0.00043974980320831596	149.38869	6.870298215982306e-05	0.0001189966006635001			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	1.0	hr	0.0013646324930729253	616.10223	0.0005425525970330927	0.0009397265764410863			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	1.5	hr	0.0018496903509126923	631.5169	0.0002957893274612874	0.0005123203974328026			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	2.0	hr	0.0016082350895936077	551.7994	0.00026305005828385086	0.00045561491949886737			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	3.0	hr	0.0011507470678356999	447.3018	0.00030152719921766564	0.0005222619026335414			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	4.0	hr	0.0010567464707469528	416.94092	0.0002902365966031171	0.0005027042913864899			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	5.0	hr	0.0009899539930478282	404.48026	0.0003018914966618161	0.0005228902596213985			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	6.0	hr	0.0008691549054820183	353.3561	0.0002612364255254467	0.00045247313455958196			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	8.0	hr	0.0006666502969697409	261.7252	0.00018028310025652676	0.0003122593869614579			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	10.0	hr	0.0005593470084260428	246.31317	0.00020895375793758875	0.0003619186641250125			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	12.0	hr	0.0004860155786154258	207.70229	0.00016791456619019005	0.0002908369019397305			Fig3_met10	mole/meter^3	dimensionless
+Bae2014	genotype10	3.0	met	concentration	metoprolol	plasma	24.0	hr	0.0001149309140192952	48.8729	3.9181424391037927e-05	6.786442479864712e-05			Fig3_met10	mole/meter^3	dimensionless

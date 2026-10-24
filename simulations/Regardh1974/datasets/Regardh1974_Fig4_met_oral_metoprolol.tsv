@@ -1,0 +1,17 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	0.3353	hr	5.577191898054763e-06	1.8205	2.7545649913347737e-06	1.2318789138131341e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	0.4873	hr	1.518978213741165e-05	4.8764	6.817832708695982e-06	3.049027479173145e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	0.6595	hr	1.7063632440485428e-05	5.2988	6.160470526527811e-06	2.755046174140013e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	0.8321	hr	1.96529868612798e-05	5.9525	5.837643806022794e-06	2.6106736757395184e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	1.0104	hr	2.0485185848173844e-05	6.2564	6.5184234705074286e-06	2.915127597236935e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	1.252	hr	1.5894439616651368e-05	4.8542	5.056503503039229e-06	2.26133711225231e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	1.5141	hr	1.576053973471516e-05	4.9762	6.376245899300556e-06	2.851543854418064e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	1.7667	hr	1.432130301490919e-05	4.3377	4.25445473370171e-06	1.9026499983505631e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	2.0202	hr	1.3566152563430954e-05	4.2127	4.897599158749232e-06	2.190272929101808e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	2.5202	hr	1.26894449565637e-05	4.0569	5.554961340917403e-06	2.48425423413494e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	3.0188	hr	1.1059831030317701e-05	3.5506	4.964506251081878e-06	2.220194690428335e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	4.0179	hr	9.206177916139325e-06	2.9432	4.029479635733226e-06	1.8020380758901145e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	5.0301	hr	6.877890862918911e-06	2.3113	3.950863802242367e-06	1.7668800063314447e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	6.0283	hr	5.491802671669186e-06	1.8765	3.41385075240752e-06	1.526720469484404e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	7.0217	hr	5.050980322926121e-06	1.6974	2.9016769606011642e-06	1.2976693865298365e-06			Fig4_metoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoprolol	plasma	8.0316	hr	3.3728557411294883e-06	1.18652	2.381390683849475e-06	1.0649902900144274e-06			Fig4_metoral	mole/meter^3

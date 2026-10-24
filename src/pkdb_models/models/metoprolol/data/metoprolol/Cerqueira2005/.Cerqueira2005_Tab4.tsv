@@ -1,0 +1,41 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	sd	min	max	unit	label	comments	t
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1S,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	1.09	0.513599160577699	0.62	1.57	mg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1S,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	0.66	0.313565803300069	0.37	0.95	percent	NA	Fel/f	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1S,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.073	0.0167595515556933	0.057	0.088	1/hr	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1S,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.01	0.00486567625810452	0.006	0.015	l/hr/kg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1S,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.119	0.041087932846216	0.081	0.157	l/hr/kg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1S,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	1.23	0.551443309251846	0.72	1.74	mg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1S,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	0.74	0.329784724160418	0.44	1.05	percent	NA	Fel/f	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1S,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.068	0.0194627050324181	0.05	0.086	1/hr	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1S,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.009	0.00486567625810452	0.005	0.014	l/hr/kg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1S,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.121	0.0383847793694912	0.086	0.157	l/hr/kg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1R,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	2.93	1.38401458008306	1.65	4.21	mg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1R,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	1.77	0.837977577784667	1.0	2.55	percent	NA	Fel/f	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1R,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.08	0.0243283812905226	0.057	0.102	1/hr	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1R,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.027	0.0129751366882787	0.015	0.039	l/hr/kg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1R,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.145	0.0232471198998327	0.123	0.166	l/hr/kg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1R,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	3.85	1.72461191815038	2.25	5.44	mg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1R,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	2.32	1.10829292545714	1.24	3.29	percent	NA	Fel/f	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1R,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.082	0.0254096426812125	0.058	0.105	1/hr	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1R,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.029	0.0129751366882787	0.017	0.041	l/hr/kg	NA	NA	NA
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1R,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.15	0.0318972110253519	0.12	0.179	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1S,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	1.51	0.814723616671475	0.66	2.37	mg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1S,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	0.91	0.490739956240713	0.4	1.43	percent	NA	Fel/f	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1S,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.178	0.17009142172615	0.087	0.444	1/hr	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1S,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.015	0.00714669839185504	0.007	0.022	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1S,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.06	0.0314454729241622	0.027	0.093	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1S,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	1.65	0.624144992888674	0.93	2.24	mg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1S,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	0.99	0.409744041133022	0.56	1.42	percent	NA	Fel/f	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1S,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.15	0.143410414396558	0.075	0.376	1/hr	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1S,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.013	0.00571735871348403	0.007	0.019	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1S,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.054	0.0281103470079632	0.025	0.084	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1R,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	4.08	1.7962035291529	2.2	5.97	mg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1R,2R)-alpha-hydroxymetoprolol	urine	24.0	hr	2.47	0.119111639864251	1.33	3.61	percent	NA	Fel/f	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1R,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.162	0.154845131823526	0.07	0.395	1/hr	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1R,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.04	0.0161991830215381	0.023	0.057	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1R,2R)-alpha-hydroxymetoprolol	urine	NA	NA	0.058	0.0242987745323071	0.032	0.083	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	cumulative amount	(1R,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	4.89	1.78667459796376	3.02	6.77	mg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	recovery	(1R,2S)-alpha-hydroxymetoprolol	urine	24.0	hr	3.01	1.15300067388595	1.8	4.22	percent	NA	Fel/f	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	kel	(1R,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.074	0.0200107554971941	0.053	0.095	1/hr	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_partial	(1R,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.04	0.0161991830215381	0.023	0.057	l/hr/kg	NA	NA	NA
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	clearance_renal	(1R,2S)-alpha-hydroxymetoprolol	urine	NA	NA	0.057	0.0204872020566511	0.035	0.078	l/hr/kg	NA	NA	NA

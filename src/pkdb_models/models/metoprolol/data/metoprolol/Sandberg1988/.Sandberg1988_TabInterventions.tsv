@@ -1,0 +1,21 @@
+study	name	substance	measurement	application	route	form	value	unit	time	time_unit	comments
+Sandberg1988	METO_CR_1	metoprolol succinate	dosing	single dose	oral	tablet	95	mg	0	hr	controlled release; 95 mg metoprolol succinate
+Sandberg1988	METO_CR_2	metoprolol succinate	dosing	single dose	oral	tablet	95	mg	24	hr	controlled release; 95 mg metoprolol succinate
+Sandberg1988	METO_CR_3	metoprolol succinate	dosing	single dose	oral	tablet	95	mg	48	hr	controlled release; 95 mg metoprolol succinate
+Sandberg1988	METO_CR_4	metoprolol succinate	dosing	single dose	oral	tablet	95	mg	72	hr	controlled release; 95 mg metoprolol succinate
+Sandberg1988	METO_CR_5	metoprolol succinate	dosing	single dose	oral	tablet	95	mg	96	hr	controlled release; 95 mg metoprolol succinate
+Sandberg1988	METO_100_1	metoprolol tartrate	dosing	single dose	oral	tablet	100	mg	0	hr	conventional
+Sandberg1988	METO_100_2	metoprolol tartrate	dosing	single dose	oral	tablet	100	mg	24	hr	conventional
+Sandberg1988	METO_100_3	metoprolol tartrate	dosing	single dose	oral	tablet	100	mg	48	hr	conventional
+Sandberg1988	METO_100_4	metoprolol tartrate	dosing	single dose	oral	tablet	100	mg	72	hr	conventional
+Sandberg1988	METO_100_5	metoprolol tartrate	dosing	single dose	oral	tablet	100	mg	96	hr	conventional
+Sandberg1988	METO_50_1	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	0	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_2	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	12	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_3	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	24	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_4	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	36	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_5	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	48	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_6	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	60	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_7	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	72	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_8	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	84	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_9	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	96	hr	conventional 50mg twice a day
+Sandberg1988	METO_50_10	metoprolol tartrate	dosing	single dose	oral	tablet	50	mg	108	hr	conventional 50mg twice a day

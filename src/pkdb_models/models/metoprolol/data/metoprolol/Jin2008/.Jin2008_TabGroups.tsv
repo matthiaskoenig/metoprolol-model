@@ -1,0 +1,12 @@
+study	name	parent	group_count	measurement	choice	count	mean	min	max	sd	unit
+Jin2008	all	NA	18	species	homo sapiens	18	NA	NA	NA	NA	NA
+Jin2008	all	NA	18	sex	M	7	NA	NA	NA	NA	NA
+Jin2008	all	NA	18	sex	F	4	NA	NA	NA	NA	NA
+Jin2008	all	NA	18	healthy	Y	18	NA	NA	NA	NA	NA
+Jin2008	all	NA	18	age	NA	18	23.2	21.0	27.0	1.5	yr
+Jin2008	all	NA	18	weight	NA	18	66.9	NA	NA	11.5	kg
+Jin2008	all	NA	18	height	NA	18	168.7	NA	NA	6.8	cm
+Jin2008	all	NA	18	fasting	Y	18	NA	NA	NA	NA	NA
+Jin2008	genotype11	all	6	cyp2d6 genotype	*1/*1	6	NA	NA	NA	NA	NA
+Jin2008	genotype110	all	7	cyp2d6 genotype	*1/*10	7	NA	NA	NA	NA	NA
+Jin2008	genotype1010	all	5	cyp2d6 genotype	*10/*10	5	NA	NA	NA	NA	NA

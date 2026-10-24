@@ -1,0 +1,6 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Johnsson1975	all	5	placebo	EHR change	metoprolol	heart	1.0	hr	0.3769	-1.0498	3.1901981834989503	1.4267			Fig2_placebo	percent	dimensionless
+Johnsson1975	all	5	placebo	EHR change	metoprolol	heart	2.5	hr	0.1884	-1.0498	2.76869936974024	1.2382			Fig2_placebo	percent	dimensionless
+Johnsson1975	all	5	placebo	EHR change	metoprolol	heart	4.0	hr	0.1615	-1.5882	3.9124481402313824	1.7497			Fig2_placebo	percent	dimensionless
+Johnsson1975	all	5	placebo	EHR change	metoprolol	heart	5.5	hr	0.0	-2.611	5.838373489251952	2.611			Fig2_placebo	percent	dimensionless
+Johnsson1975	all	5	placebo	EHR change	metoprolol	heart	7.0	hr	1.1575	-0.3769	3.4310227046756774	1.5344			Fig2_placebo	percent	dimensionless

@@ -1,0 +1,16 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	sd	min	max	unit	label
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	cmax	metoprolol	plasma	NA	NA	163.0	117.0	NA	NA	nmol/l	NA
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	tmax	metoprolol	plasma	NA	NA	7.3	2.1	NA	NA	hr	NA
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	auc_end	metoprolol	plasma	24.0	hr	3068.0	2323.0	NA	NA	nmol/l*hr	NA
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	cmin	metoprolol	plasma	24.0	hr	67.0	57.0	NA	NA	nmol/l	NA
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	ptf	metoprolol	plasma	24.0	hr	79.0	26.0	NA	NA	percent	NA
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	cmax	metoprolol	plasma	NA	NA	722.0	337.0	NA	NA	nmol/l	NA
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	tmax	metoprolol	plasma	NA	NA	1.3	0.3	NA	NA	hr	NA
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	auc_end	metoprolol	plasma	24.0	hr	4645.0	3215.0	NA	NA	nmol/l*hr	NA
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	cmin	metoprolol	plasma	24.0	hr	24.0	30.0	NA	NA	nmol/l	NA
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	ptf	metoprolol	plasma	24.0	hr	470.0	208.0	NA	NA	percent	NA
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	cmax	metoprolol	plasma	NA	NA	388.0	207.0	NA	NA	nmol/l	NA
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	tmax	metoprolol	plasma	NA	NA	1.4	0.3	NA	NA	hr	NA
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	auc_end	metoprolol	plasma	12.0	hr	2266.0	1695.5	NA	NA	nmol/l*hr	NA
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	cmin	metoprolol	plasma	24.0	hr	75.0	77.0	NA	NA	nmol/l	NA
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	ptf	metoprolol	plasma	24.0	hr	225.0	93.0	NA	NA	percent	NA

@@ -1,0 +1,37 @@
+study	name	parent	group_count	measurement	substance	choice	count	mean	min	max	sd	unit	comments
+Fux2005	all	NA	121	species	NA	homo sapiens	121	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	sex	NA	M	57	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	sex	NA	F	64	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	ethnicity	NA	caucasian	121	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	healthy	NA	NR	121	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	disease	NA	hypertension	111	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	blood pressure (categorical)	NA	elevated	111	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	disease	NA	cardiac arrhythmia	7	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	disease	NA	ischemic heart disease	3	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	disease	NA	migraine	6	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	disease	NA	psychatric disorder	1	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	age	NA	NA	121	51.5	NA	NA	13.5	yr	NA
+Fux2005	all	NA	121	pregnant	NA	N	121	NA	NA	NA	NA	NA	NA
+Fux2005	all	NA	121	abstinence medication	NA	NA	121	4.0	NA	NA	NA	week	CYP2D6-inhibiting drug
+Fux2005	all	NA	121	medication	NA	NR	27	NA	NA	NA	NA	NA	antihypertensives
+Fux2005	pm_im	all	25	age	NA	NA	25	51.4	NA	NA	13.9	yr	NA
+Fux2005	pm_im	all	25	sex	NA	F	18	NA	NA	NA	NA	NA	NA
+Fux2005	pm_im	all	25	sex	NA	M	7	NA	NA	NA	NA	NA	NA
+Fux2005	pm_im	all	25	medication	NA	NR	3	NA	NA	NA	NA	NA	antihypertensives
+Fux2005	pm	pm_im	4	cyp2d6 phenotype	NA	pm	4	NA	NA	NA	NA	NA	NA
+Fux2005	pm	pm_im	4	metabolic phenotype	NA	pm	4	NA	NA	NA	NA	NA	NA
+Fux2005	im	pm_im	21	cyp2d6 phenotype	NA	im	21	NA	NA	NA	NA	NA	NA
+Fux2005	im	pm_im	21	metabolic phenotype	NA	im	21	NA	NA	NA	NA	NA	NA
+Fux2005	em_um	all	96	age	NA	NA	96	51.5	NA	NA	13.5	yr	NA
+Fux2005	em_um	all	96	sex	NA	M	50	NA	NA	NA	NA	NA	NA
+Fux2005	em_um	all	96	sex	NA	F	46	NA	NA	NA	NA	NA	NA
+Fux2005	em_um	all	96	medication	NA	NR	24	NA	NA	NA	NA	NA	anithypertensives
+Fux2005	em	em_um	91	cyp2d6 phenotype	NA	em	91	NA	NA	NA	NA	NA	NA
+Fux2005	em	em_um	91	metabolic phenotype	NA	em	91	NA	NA	NA	NA	NA	NA
+Fux2005	um	em_um	5	cyp2d6 phenotype	NA	um	5	NA	NA	NA	NA	NA	NA
+Fux2005	um	em_um	5	metabolic phenotype	NA	um	5	NA	NA	NA	NA	NA	NA
+Fux2005	em_im	all	15	cyp2d6 phenotype	NA	em/im	15	NA	NA	NA	NA	NA	NA
+Fux2005	em_em	all	51	cyp2d6 phenotype	NA	em	51	NA	NA	NA	NA	NA	NA
+Fux2005	em_pm	all	25	cyp2d6 phenotype	NA	em/pm	25	NA	NA	NA	NA	NA	NA
+Fux2005	im_im	all	9	cyp2d6 phenotype	NA	im	9	NA	NA	NA	NA	NA	NA
+Fux2005	im_pm	all	12	cyp2d6 phenotype	NA	im/pm	12	NA	NA	NA	NA	NA	NA

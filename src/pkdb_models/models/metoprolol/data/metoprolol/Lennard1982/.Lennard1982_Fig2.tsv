@@ -1,0 +1,48 @@
+study	individual	panel	x_intervention	x_tissue	x_measurement	x_substance	x_time	x_time_unit	x	x_unit	x_label	y_intervention	y_tissue	y_measurement	y_substance	y_time	y_time_unit	y	y_unit	y_label
+Lennard1982	EMA_1	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.19046946	dimensionless	Fig2A_em_deb	MET	plasma	thalf	metoprolol	NA	hr	1.9773033	hr	Fig2_em_thalf
+Lennard1982	EMA_2	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.23225151	dimensionless	Fig2A_em_deb	MET	plasma	thalf	metoprolol	NA	hr	2.561558	hr	Fig2_em_thalf
+Lennard1982	EMA_3	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.39188427	dimensionless	Fig2A_em_deb	MET	plasma	thalf	metoprolol	NA	hr	2.8340158	hr	Fig2_em_thalf
+Lennard1982	EMA_4	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.41289037	dimensionless	Fig2A_em_deb	MET	plasma	thalf	metoprolol	NA	hr	1.6684204	hr	Fig2_em_thalf
+Lennard1982	EMA_5	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.84790295	dimensionless	Fig2A_em_deb	MET	plasma	thalf	metoprolol	NA	hr	3.4668372	hr	Fig2_em_thalf
+Lennard1982	EMA_6	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	3.0181942	dimensionless	Fig2A_em_deb	MET	plasma	thalf	metoprolol	NA	hr	4.526857	hr	Fig2_em_thalf
+Lennard1982	EMB_1	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.18390758	dimensionless	Fig2B_em_deb	MET	plasma	auc_inf	metoprolol	NA	hr	492.5052	ng/ml*hr	Fig2_em_auc
+Lennard1982	EMB_2	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.25221035	dimensionless	Fig2B_em_deb	MET	plasma	auc_inf	metoprolol	NA	hr	1287.3206	ng/ml*hr	Fig2_em_auc
+Lennard1982	EMB_3	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.41524854	dimensionless	Fig2B_em_deb	MET	plasma	auc_inf	metoprolol	NA	hr	395.21637	ng/ml*hr	Fig2_em_auc
+Lennard1982	EMB_4	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.43618897	dimensionless	Fig2B_em_deb	MET	plasma	auc_inf	metoprolol	NA	hr	1003.0694	ng/ml*hr	Fig2_em_auc
+Lennard1982	EMB_5	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.8657298	dimensionless	Fig2B_em_deb	MET	plasma	auc_inf	metoprolol	NA	hr	1529.6412	ng/ml*hr	Fig2_em_auc
+Lennard1982	EMB_6	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	3.3248227	dimensionless	Fig2B_em_deb	MET	plasma	auc_inf	metoprolol	NA	hr	2565.78	ng/ml*hr	Fig2_em_auc
+Lennard1982	PMA_1	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	25.376846	dimensionless	Fig2A_pm_deb	MET	plasma	thalf	metoprolol	NA	hr	6.0948224	hr	Fig2_pm_thalf
+Lennard1982	PMA_2	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	39.641434	dimensionless	Fig2A_pm_deb	MET	plasma	thalf	metoprolol	NA	hr	7.5166683	hr	Fig2_pm_thalf
+Lennard1982	PMA_3	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	40.23287	dimensionless	Fig2A_pm_deb	MET	plasma	thalf	metoprolol	NA	hr	6.345578	hr	Fig2_pm_thalf
+Lennard1982	PMA_4	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	40.7065	dimensionless	Fig2A_pm_deb	MET	plasma	thalf	metoprolol	NA	hr	6.728543	hr	Fig2_pm_thalf
+Lennard1982	PMA_5	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	42.628647	dimensionless	Fig2A_pm_deb	MET	plasma	thalf	metoprolol	NA	hr	8.598237	hr	Fig2_pm_thalf
+Lennard1982	PMA_6	A	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	71.74738	dimensionless	Fig2A_pm_deb	MET	plasma	thalf	metoprolol	NA	hr	10.1331835	hr	Fig2_pm_thalf
+Lennard1982	PMB_1	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	21.226849	dimensionless	Fig2B_pm_deb	MET	plasma	auc_inf	metoprolol	NA	hr	4961.348	ng/ml*hr	Fig2_pm_auc
+Lennard1982	PMB_2	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	39.53633	dimensionless	Fig2B_pm_deb	MET	plasma	auc_inf	metoprolol	NA	hr	7390.3857	ng/ml*hr	Fig2_pm_auc
+Lennard1982	PMB_3	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	40.2498	dimensionless	Fig2B_pm_deb	MET	plasma	auc_inf	metoprolol	NA	hr	6873.58	ng/ml*hr	Fig2_pm_auc
+Lennard1982	PMB_4	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	40.906494	dimensionless	Fig2B_pm_deb	MET	plasma	auc_inf	metoprolol	NA	hr	7278.1353	ng/ml*hr	Fig2_pm_auc
+Lennard1982	PMB_5	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	41.5239	dimensionless	Fig2B_pm_deb	MET	plasma	auc_inf	metoprolol	NA	hr	8334.385	ng/ml*hr	Fig2_pm_auc
+Lennard1982	PMB_6	B	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	76.41254	dimensionless	Fig2B_pm_deb	MET	plasma	auc_inf	metoprolol	NA	hr	8134.117	ng/ml*hr	Fig2_pm_auc
+Lennard1982	EMC_1	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.18018743	dimensionless	Fig2C_em_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	0.121691644	dimensionless	Fig2_em_met
+Lennard1982	EMC_2	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.25820768	dimensionless	Fig2C_em_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	0.3402285	dimensionless	Fig2_em_met
+Lennard1982	EMC_3	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.41478324	dimensionless	Fig2C_em_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	0.06603894	dimensionless	Fig2_em_met
+Lennard1982	EMC_4	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.43255544	dimensionless	Fig2C_em_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	0.20413673	dimensionless	Fig2_em_met
+Lennard1982	EMC_5	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	3.1664627	dimensionless	Fig2C_em_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	1.0504895	dimensionless	Fig2_em_met
+Lennard1982	EMD_1	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.18568	dimensionless	Fig2D_em_deb	MET	NA	EHR change	metoprolol	24.0	hr	2.7355623	percent	Fig2_em_beta
+Lennard1982	EMD_2	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.25944397	dimensionless	Fig2D_em_deb	MET	NA	EHR change	metoprolol	24.0	hr	5.9270515	percent	Fig2_em_beta
+Lennard1982	EMD_3	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.42140272	dimensionless	Fig2D_em_deb	MET	NA	EHR change	metoprolol	24.0	hr	0.09118541	percent	Fig2_em_beta
+Lennard1982	EMD_4	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.43573776	dimensionless	Fig2D_em_deb	MET	NA	EHR change	metoprolol	24.0	hr	9.574468	percent	Fig2_em_beta
+Lennard1982	EMD_5	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	0.85071105	dimensionless	Fig2D_em_deb	MET	NA	EHR change	metoprolol	24.0	hr	5.288754	percent	Fig2_em_beta
+Lennard1982	EMD_6	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	2.9824712	dimensionless	Fig2D_em_deb	MET	NA	EHR change	metoprolol	24.0	hr	12.85	percent	Fig2_em_beta
+Lennard1982	PMC_1	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	23.046099	dimensionless	Fig2C_pm_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	23.568794	dimensionless	Fig2_pm_met
+Lennard1982	PMC_2	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	42.302204	dimensionless	Fig2C_pm_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	38.969135	dimensionless	Fig2_pm_met
+Lennard1982	PMC_3	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	44.939133	dimensionless	Fig2C_pm_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	16.10126	dimensionless	Fig2_pm_met
+Lennard1982	PMC_4	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	45.14809	dimensionless	Fig2C_pm_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	29.98048	dimensionless	Fig2_pm_met
+Lennard1982	PMC_5	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	48.10902	dimensionless	Fig2C_pm_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	18.95	dimensionless	Fig2_pm_met
+Lennard1982	PMC_6	C	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	81.047195	dimensionless	Fig2C_pm_deb	MET	urine	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	24.0	hr	23.744448	dimensionless	Fig2_pm_met
+Lennard1982	PMD_1	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	21.464418	dimensionless	Fig2D_pm_deb	MET	NA	EHR change	metoprolol	24.0	hr	13.677812	percent	Fig2_pm_beta
+Lennard1982	PMD_2	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	36.657654	dimensionless	Fig2D_pm_deb	MET	NA	EHR change	metoprolol	24.0	hr	17.416414	percent	Fig2_pm_beta
+Lennard1982	PMD_3	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	37.275936	dimensionless	Fig2D_pm_deb	MET	NA	EHR change	metoprolol	24.0	hr	18.328268	percent	Fig2_pm_beta
+Lennard1982	PMD_4	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	37.275936	dimensionless	Fig2D_pm_deb	MET	NA	EHR change	metoprolol	24.0	hr	20.151976	percent	Fig2_pm_beta
+Lennard1982	PMD_5	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	45.561253	dimensionless	Fig2D_pm_deb	MET	NA	EHR change	metoprolol	24.0	hr	21.975683	percent	Fig2_pm_beta
+Lennard1982	PMD_6	D	DEB	urine	metabolic ratio	deb/4hdeb	8	hr	69.21396	dimensionless	Fig2D_pm_deb	MET	NA	EHR change	metoprolol	24.0	hr	25.34	percent	Fig2_pm_beta

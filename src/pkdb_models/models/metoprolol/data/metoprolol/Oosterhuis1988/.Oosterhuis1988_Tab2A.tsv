@@ -1,0 +1,13 @@
+study	group	intervention	measurement	substance	tissue	time_rel	time	time_unit	mean	sd	se	min	max	unit	label
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	0.0	96.0	hr	8.8	7.8	NA	NA	NA	percent	Tab2_CR
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	2.0	98.0	hr	16.0	4.9	NA	NA	NA	percent	Tab2_CR
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	4.0	100.0	hr	15.5	4.0	NA	NA	NA	percent	Tab2_CR
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	8.0	104.0	hr	12.8	6.5	NA	NA	NA	percent	Tab2_CR
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	12.0	108.0	hr	13.1	4.0	NA	NA	NA	percent	Tab2_CR
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	24.0	120.0	hr	9.9	6.2	NA	NA	NA	percent	Tab2_CR
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	0.0	96.0	hr	4.7	3.8	NA	NA	NA	percent	Tab2_SR
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	2.0	98.0	hr	18.8	3.5	NA	NA	NA	percent	Tab2_SR
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	4.0	100.0	hr	18.8	2.8	NA	NA	NA	percent	Tab2_SR
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	8.0	104.0	hr	16.7	4.8	NA	NA	NA	percent	Tab2_SR
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	12.0	108.0	hr	13.4	4.7	NA	NA	NA	percent	Tab2_SR
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change	metoprolol	heart	24.0	120.0	hr	4.6	4.8	NA	NA	NA	percent	Tab2_SR

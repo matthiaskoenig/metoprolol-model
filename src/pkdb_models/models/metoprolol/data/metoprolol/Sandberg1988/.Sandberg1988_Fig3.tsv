@@ -1,0 +1,19 @@
+study	group	intervention	measurement	substance	tissue	time_rel	time	time_unit	mean	mean_pm	se	sd	min	max	unit	label	comments
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	0	96	hr	11.8749076	10.453367	1.4215406	4.92436108844389	NA	NA	percent	Fig3_CR	exercise heart rate
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	2	98	hr	13.468056	11.997496	1.47056	5.09416927115698	NA	NA	percent	Fig3_CR	exercise heart rate
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	6	102	hr	14.056363	12.340711	1.715652	5.94319286421431	NA	NA	percent	Fig3_CR	exercise heart rate
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	9	105	hr	11.102928	9.58335	1.519578	5.2639726041278	NA	NA	percent	Fig3_CR	exercise heart rate
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	12	108	hr	12.120507	14.375362	2.254855	7.81104684740144	NA	NA	percent	Fig3_CR	exercise heart rate
+Sandberg1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change	metoprolol	heart	24	120	hr	9.572299	NA	1.61658	5.6	NA	NA	percent	Fig3_CR	exercise heart rate
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	EHR change	metoprolol	heart	0	96	hr	5.99242	4.0314226	1.9609974	6.79309426062094	NA	NA	percent	Fig3_100	exercise heart rate
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	EHR change	metoprolol	heart	2	98	hr	22.291658	21.017174	1.274484	4.41494208286723	NA	NA	percent	Fig3_100	exercise heart rate
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	EHR change	metoprolol	heart	6	102	hr	17.389627	16.01736	1.372267	4.75367233110024	NA	NA	percent	Fig3_100	exercise heart rate
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	EHR change	metoprolol	heart	9	105	hr	12.279627	14.289391	2.009764	6.96202671844572	NA	NA	percent	Fig3_100	exercise heart rate
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	EHR change	metoprolol	heart	12	108	hr	9.816379	11.826395	2.010016	6.96289967205273	NA	NA	percent	Fig3_100	exercise heart rate
+Sandberg1988	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	EHR change	metoprolol	heart	24	120	hr	2.905007	NA	1.64545	5.7	NA	NA	percent	Fig3_100	exercise heart rate
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	EHR change	metoprolol	heart	0	96	hr	10.060966	7.7570906	2.3038754	7.98085849421614	NA	NA	percent	Fig3_50	exercise heart rate
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	EHR change	metoprolol	heart	2	98	hr	19.742437	18.174095	1.568342	5.43289605528837	NA	NA	percent	Fig3_50	exercise heart rate
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	EHR change	metoprolol	heart	6	102	hr	14.791641	13.272064	1.519577	5.26396914002618	NA	NA	percent	Fig3_50	exercise heart rate
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	EHR change	metoprolol	heart	9	105	hr	9.828696	7.916717	1.911979	6.62328954200947	NA	NA	percent	Fig3_50	exercise heart rate
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	EHR change	metoprolol	heart	12	108	hr	8.590913	6.139982	2.450931	8.49027403569119	NA	NA	percent	Fig3_50	exercise heart rate
+Sandberg1988	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	EHR change	metoprolol	heart	24	120	hr	9.8	NA	1.58771	5.5	NA	NA	percent	Fig3_50	exercise heart rate

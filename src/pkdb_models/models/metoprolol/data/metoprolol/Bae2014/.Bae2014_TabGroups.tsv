@@ -1,0 +1,6 @@
+study	name	parent	group_count	measurement	choice	count	mean	min	max	sd	unit
+Bae2014	all	NA	7	species	homo sapiens	7	NA	NA	NA	NA	NA
+Bae2014	all	NA	7	sex	M	7	NA	NA	NA	NA	NA
+Bae2014	all	NA	7	healthy	Y	7	NA	NA	NA	NA	NA
+Bae2014	genotype1	all	4	cyp2d6 genotype	*1/*1	4	NA	NA	NA	NA	NA
+Bae2014	genotype10	all	3	cyp2d6 genotype	*10/*10	3	NA	NA	NA	NA	NA

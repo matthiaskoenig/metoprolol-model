@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	0.25	hr	4.2215865011564386e-05						Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	0.5	hr	0.0005246780848606585	190.09	0.0004165802836360992	0.0001863003664592914			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	1.0	hr	0.001203378436149617	384.38	0.0005238825329645688	0.00023428739118670978			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	1.5	hr	0.001258135259377162	398.89	0.0005227952927141634	0.00023380116256515367			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	2.0	hr	0.0010847760546915937	336.38	0.0003876429662022298	0.0001733592046855683			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	3.0	hr	0.0009563742963991328	296.55	0.00034164434022354134	0.0001527879937735807			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	4.0	hr	0.0007656978723458369	235.68	0.0002589304473273153	0.00011579721633366115			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	6.0	hr	0.0005207882558882099	162.69	0.0001961214144000496	8.770816288838352e-05			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	8.0	hr	0.00043270607098324477	132.2	0.0001380795118014849	6.175103493762099e-05			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	12.0	hr	0.0002653125174621529	84.745	0.00011549836813921914	5.165244048991798e-05			Fig1_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	metoprolol	plasma	24.0	hr	6.93661231952222e-05	26.274	6.463225119332996e-05	2.8904421441425496e-05			Fig1_gen1010	mole/meter^3	dimensionless

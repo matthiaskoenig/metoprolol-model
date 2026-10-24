@@ -1,0 +1,13 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	se	min	max	unit	label
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	1	hr	6.4267354	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	2	hr	13.02485	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	3	hr	17.823479	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	4	hr	23.307627	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	6	hr	32.904884	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	8	hr	43.18766	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	10	hr	52.27078	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	12	hr	61.01114	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	14	hr	68.72322	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	16	hr	75.921165	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	18	hr	81.91945	NA	NA	NA	NA	percent	Fig1_CR
+Sandberg1988	all	METO_CR	recovery	metoprolol	buffer	20	hr	86.20394	NA	NA	NA	NA	percent	Fig1_CR

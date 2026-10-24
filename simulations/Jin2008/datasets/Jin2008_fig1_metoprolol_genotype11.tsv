@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	0.25	hr	4.5802736150581865e-05	14.522	2.0851872001042887e-05	8.512741097397054e-06			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	0.5	hr	0.0001845125412200314	62.537	0.00012097933645596297	4.938960728959934e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	1.0	hr	0.00039590230455161603	125.52	0.00018020928043080566	7.357013066159931e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	1.5	hr	0.00031230090340529843	105.85	0.0002047807745902069	8.360140114631764e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	2.0	hr	0.0002943216650682212	96.12	0.00015967806551237988	6.518829727000581e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	3.0	hr	0.00021719458502893096	70.411	0.00011306368733078664	4.615805706633437e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	4.0	hr	0.00017389031594911415	57.215	9.824016848294501e-05	4.010638083804421e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	6.0	hr	9.682681965264277e-05	33.061	6.57163786746399e-05	2.6828599249397657e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	8.0	hr	7.251912879500504e-05	23.164	3.4585156767986364e-05	1.4119331125955131e-05			Fig1_gen11	mole/meter^3	dimensionless
+Jin2008	genotype11	6	metoprolol	concentration	metoprolol	plasma	12.0	hr	3.3549774887368884e-05	11.455	2.2766652865813543e-05	9.294447112052581e-06			Fig1_gen11	mole/meter^3	dimensionless

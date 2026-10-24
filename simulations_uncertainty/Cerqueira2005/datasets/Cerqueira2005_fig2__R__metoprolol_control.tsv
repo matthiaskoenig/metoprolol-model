@@ -1,0 +1,15 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	comments	mean_unit
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	0.0	144.0	hr	6.149	4.342	4.78087261909372	1.807			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	0.5	144.5	hr	29.082	20.691	22.200499251143	8.391			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	1.0	145.0	hr	81.08	61.87	50.8248826855508	19.21			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	1.5	145.5	hr	73.52	62.16	30.0557348936937	11.36			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	2.0	146.0	hr	69.84	59.05	28.547656646387	10.79			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	3.0	147.0	hr	51.11	43.013	21.42264836569	8.097			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	4.0	148.0	hr	47.66	38.641	23.8620310744915	9.019			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	6.0	150.0	hr	42.022	28.408	36.0192583488333	13.614			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	8.0	152.0	hr	30.751	21.179	25.3251315495103	9.572			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	10.0	154.0	hr	25.52	17.577	21.015202663786	7.943			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	12.0	156.0	hr	21.882	15.643	16.506842429732	6.239			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	16.0	160.0	hr	16.39	9.861	17.2741103099407	6.529			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	20.0	164.0	hr	14.724	10.188	12.001127946989	4.536			Fig2_control_RMET		ng/ml
+Cerqueira2005	control	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(R)-metoprolol	plasma	24.0	168.0	hr	8.614	6.792	4.82055888875969	1.822			Fig2_control_RMET		ng/ml

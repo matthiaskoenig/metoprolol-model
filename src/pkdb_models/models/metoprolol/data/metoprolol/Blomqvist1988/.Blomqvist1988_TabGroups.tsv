@@ -1,0 +1,10 @@
+study	name	parent	group_count	measurement	choice	count	mean	min	max	sd	unit
+Blomqvist1988	all	NA	10	species	homo sapiens	10	NA	NA	NA	NA	NA
+Blomqvist1988	all	NA	10	sex	M	10	NA	NA	NA	NA	NA
+Blomqvist1988	all	NA	10	healthy	Y	10	NA	NA	NA	NA	NA
+Blomqvist1988	all	NA	10	age	NA	10	24.0	22.0	27.0	NA	yr
+Blomqvist1988	all	NA	10	weight	NA	10	74.0	66.0	86.0	NA	kg
+Blomqvist1988	all	NA	10	height	NA	10	180.0	172.0	185.0	NA	cm
+Blomqvist1988	all	NA	10	abstinence alcohol	NA	10	2.0	NA	NA	NA	day
+Blomqvist1988	all	NA	10	abstinence medication	NA	10	2.0	NA	NA	NA	week
+Blomqvist1988	all	NA	10	fasting	Y	10	NA	NA	NA	NA	NA

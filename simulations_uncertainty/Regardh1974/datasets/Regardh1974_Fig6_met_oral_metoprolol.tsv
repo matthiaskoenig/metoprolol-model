@@ -1,0 +1,8 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	comment	mean_unit
+Regardh1974	all	met_oral	recovery	metoprolol	urine	2.1911	hr	2.58177570093458e-07						Fig6_metoral		count*mole
+Regardh1974	all	met_oral	recovery	metoprolol	urine	4.1706	hr	3.821553738317758e-07						Fig6_metoral		count*mole
+Regardh1974	all	met_oral	recovery	metoprolol	urine	7.2031	hr	5.382593457943926e-07						Fig6_metoral		count*mole
+Regardh1974	all	met_oral	recovery	metoprolol	urine	10.1461	hr	6.051401869158881e-07						Fig6_metoral		count*mole
+Regardh1974	all	met_oral	recovery	metoprolol	urine	24.032	hr	7.435747663551403e-07						Fig6_metoral		count*mole
+Regardh1974	all	met_oral	recovery	metoprolol	urine	48.0	hr	7.283878504672899e-07						Fig6_metoral		count*mole
+Regardh1974	all	met_oral	recovery	metoprolol	urine	72.0	hr	7.827102803738319e-07						Fig6_metoral		count*mole

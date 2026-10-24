@@ -1,0 +1,7 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_sd	min	max	label	mean_unit
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	0	72	hr	18.4	6.9				percent
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	2	74	hr	22.4	5.2				percent
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	4	76	hr	23.8	5.1				percent
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	8	80	hr	19.5	5.7				percent
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	12	84	hr	17.1	5.3				percent
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	24	96	hr	16.9	7.2				percent

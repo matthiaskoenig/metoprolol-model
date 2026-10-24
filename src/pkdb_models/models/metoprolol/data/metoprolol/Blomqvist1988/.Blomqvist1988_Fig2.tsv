@@ -1,0 +1,61 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	sd	se	min	max	unit	label
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	0	72	hr	130.776	NA	NA	NA	NA	NA	1/min	Fig2_MET100_ehr
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	2	74	hr	124.245	NA	NA	NA	NA	NA	1/min	Fig2_MET100_ehr
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	4	76	hr	130.694	NA	NA	NA	NA	NA	1/min	Fig2_MET100_ehr
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	8	80	hr	132.408	NA	NA	NA	NA	NA	1/min	Fig2_MET100_ehr
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	12	84	hr	131.673	NA	NA	NA	NA	NA	1/min	Fig2_MET100_ehr
+Blomqvist1988	all	MET100	EHR	metoprolol	heart	24	96	hr	130.041	NA	NA	NA	NA	NA	1/min	Fig2_MET100_ehr
+Blomqvist1988	all	MET200	EHR	metoprolol	heart	0	72	hr	120.898	NA	NA	NA	NA	NA	1/min	Fig2_MET200_ehr
+Blomqvist1988	all	MET200	EHR	metoprolol	heart	2	74	hr	115.837	NA	NA	NA	NA	NA	1/min	Fig2_MET200_ehr
+Blomqvist1988	all	MET200	EHR	metoprolol	heart	4	76	hr	119.673	NA	NA	NA	NA	NA	1/min	Fig2_MET200_ehr
+Blomqvist1988	all	MET200	EHR	metoprolol	heart	8	80	hr	123.837	NA	NA	NA	NA	NA	1/min	Fig2_MET200_ehr
+Blomqvist1988	all	MET200	EHR	metoprolol	heart	12	84	hr	124.816	NA	NA	NA	NA	NA	1/min	Fig2_MET200_ehr
+Blomqvist1988	all	MET200	EHR	metoprolol	heart	24	96	hr	122.857	NA	NA	NA	NA	NA	1/min	Fig2_MET200_ehr
+Blomqvist1988	all	ATE50	EHR	atenolol	heart	0	72	hr	134.204	NA	NA	NA	NA	NA	1/min	Fig2_ATE50_ehr
+Blomqvist1988	all	ATE50	EHR	atenolol	heart	2	74	hr	113.551	NA	NA	NA	NA	NA	1/min	Fig2_ATE50_ehr
+Blomqvist1988	all	ATE50	EHR	atenolol	heart	4	76	hr	120.735	NA	NA	NA	NA	NA	1/min	Fig2_ATE50_ehr
+Blomqvist1988	all	ATE50	EHR	atenolol	heart	8	80	hr	127.347	NA	NA	NA	NA	NA	1/min	Fig2_ATE50_ehr
+Blomqvist1988	all	ATE50	EHR	atenolol	heart	12	84	hr	134.122	NA	NA	NA	NA	NA	1/min	Fig2_ATE50_ehr
+Blomqvist1988	all	ATE50	EHR	atenolol	heart	24	96	hr	136.082	NA	NA	NA	NA	NA	1/min	Fig2_ATE50_ehr
+Blomqvist1988	all	ATE100	EHR	atenolol	heart	0	72	hr	126.204	NA	NA	NA	NA	NA	1/min	Fig2_ATE100_ehr
+Blomqvist1988	all	ATE100	EHR	atenolol	heart	2	74	hr	108.98	NA	NA	NA	NA	NA	1/min	Fig2_ATE100_ehr
+Blomqvist1988	all	ATE100	EHR	atenolol	heart	4	76	hr	114.857	NA	NA	NA	NA	NA	1/min	Fig2_ATE100_ehr
+Blomqvist1988	all	ATE100	EHR	atenolol	heart	8	80	hr	120.735	NA	NA	NA	NA	NA	1/min	Fig2_ATE100_ehr
+Blomqvist1988	all	ATE100	EHR	atenolol	heart	12	84	hr	126.204	NA	NA	NA	NA	NA	1/min	Fig2_ATE100_ehr
+Blomqvist1988	all	ATE100	EHR	atenolol	heart	24	96	hr	129.306	NA	NA	NA	NA	NA	1/min	Fig2_ATE100_ehr
+Blomqvist1988	all	placebo	EHR	placebo	heart	0	72	hr	148.245	NA	NA	NA	NA	NA	1/min	Fig2_placebo_ehr
+Blomqvist1988	all	placebo	EHR	placebo	heart	2	74	hr	148.735	NA	NA	NA	NA	NA	1/min	Fig2_placebo_ehr
+Blomqvist1988	all	placebo	EHR	placebo	heart	4	76	hr	157.143	NA	NA	NA	NA	NA	1/min	Fig2_placebo_ehr
+Blomqvist1988	all	placebo	EHR	placebo	heart	8	80	hr	153.143	NA	NA	NA	NA	NA	1/min	Fig2_placebo_ehr
+Blomqvist1988	all	placebo	EHR	placebo	heart	12	84	hr	150.367	NA	NA	NA	NA	NA	1/min	Fig2_placebo_ehr
+Blomqvist1988	all	placebo	EHR	placebo	heart	24	96	hr	147.592	NA	NA	NA	NA	NA	1/min	Fig2_placebo_ehr
+Blomqvist1988	all	MET100	blood pressure systolic	metoprolol	NA	0	72	hr	175.6662	NA	NA	NA	NA	NA	mmHg	Fig2_MET100_bps
+Blomqvist1988	all	MET100	blood pressure systolic	metoprolol	NA	2	74	hr	175.0536	NA	NA	NA	NA	NA	mmHg	Fig2_MET100_bps
+Blomqvist1988	all	MET100	blood pressure systolic	metoprolol	NA	4	76	hr	178.7902	NA	NA	NA	NA	NA	mmHg	Fig2_MET100_bps
+Blomqvist1988	all	MET100	blood pressure systolic	metoprolol	NA	8	80	hr	179.4028	NA	NA	NA	NA	NA	mmHg	Fig2_MET100_bps
+Blomqvist1988	all	MET100	blood pressure systolic	metoprolol	NA	12	84	hr	177.4426	NA	NA	NA	NA	NA	mmHg	Fig2_MET100_bps
+Blomqvist1988	all	MET100	blood pressure systolic	metoprolol	NA	24	96	hr	174.5023	NA	NA	NA	NA	NA	mmHg	Fig2_MET100_bps
+Blomqvist1988	all	MET200	blood pressure systolic	metoprolol	NA	0	72	hr	171.317	NA	NA	NA	NA	NA	mmHg	Fig2_MET200_bps
+Blomqvist1988	all	MET200	blood pressure systolic	metoprolol	NA	2	74	hr	164.8239	NA	NA	NA	NA	NA	mmHg	Fig2_MET200_bps
+Blomqvist1988	all	MET200	blood pressure systolic	metoprolol	NA	4	76	hr	168.0704	NA	NA	NA	NA	NA	mmHg	Fig2_MET200_bps
+Blomqvist1988	all	MET200	blood pressure systolic	metoprolol	NA	8	80	hr	169.3568	NA	NA	NA	NA	NA	mmHg	Fig2_MET200_bps
+Blomqvist1988	all	MET200	blood pressure systolic	metoprolol	NA	12	84	hr	172.7871	NA	NA	NA	NA	NA	mmHg	Fig2_MET200_bps
+Blomqvist1988	all	MET200	blood pressure systolic	metoprolol	NA	24	96	hr	172.6034	NA	NA	NA	NA	NA	mmHg	Fig2_MET200_bps
+Blomqvist1988	all	ATE50	blood pressure systolic	atenolol	NA	0	72	hr	180.0766	NA	NA	NA	NA	NA	mmHg	Fig2_ATE50_bps
+Blomqvist1988	all	ATE50	blood pressure systolic	atenolol	NA	2	74	hr	159.8622	NA	NA	NA	NA	NA	mmHg	Fig2_ATE50_bps
+Blomqvist1988	all	ATE50	blood pressure systolic	atenolol	NA	4	76	hr	169.6018	NA	NA	NA	NA	NA	mmHg	Fig2_ATE50_bps
+Blomqvist1988	all	ATE50	blood pressure systolic	atenolol	NA	8	80	hr	172.1133	NA	NA	NA	NA	NA	mmHg	Fig2_ATE50_bps
+Blomqvist1988	all	ATE50	blood pressure systolic	atenolol	NA	12	84	hr	183.6294	NA	NA	NA	NA	NA	mmHg	Fig2_ATE50_bps
+Blomqvist1988	all	ATE50	blood pressure systolic	atenolol	NA	24	96	hr	182.6493	NA	NA	NA	NA	NA	mmHg	Fig2_ATE50_bps
+Blomqvist1988	all	ATE100	blood pressure systolic	atenolol	NA	0	72	hr	173.2159	NA	NA	NA	NA	NA	mmHg	Fig2_ATE100_bps
+Blomqvist1988	all	ATE100	blood pressure systolic	atenolol	NA	2	74	hr	153.7979	NA	NA	NA	NA	NA	mmHg	Fig2_ATE100_bps
+Blomqvist1988	all	ATE100	blood pressure systolic	atenolol	NA	4	76	hr	164.2113	NA	NA	NA	NA	NA	mmHg	Fig2_ATE100_bps
+Blomqvist1988	all	ATE100	blood pressure systolic	atenolol	NA	8	80	hr	167.2741	NA	NA	NA	NA	NA	mmHg	Fig2_ATE100_bps
+Blomqvist1988	all	ATE100	blood pressure systolic	atenolol	NA	12	84	hr	176.0337	NA	NA	NA	NA	NA	mmHg	Fig2_ATE100_bps
+Blomqvist1988	all	ATE100	blood pressure systolic	atenolol	NA	24	96	hr	177.5651	NA	NA	NA	NA	NA	mmHg	Fig2_ATE100_bps
+Blomqvist1988	all	placebo	blood pressure systolic	placebo	NA	0	72	hr	182.5881	NA	NA	NA	NA	NA	mmHg	Fig2_placebo_bps
+Blomqvist1988	all	placebo	blood pressure systolic	placebo	NA	2	74	hr	184.732	NA	NA	NA	NA	NA	mmHg	Fig2_placebo_bps
+Blomqvist1988	all	placebo	blood pressure systolic	placebo	NA	4	76	hr	189.1424	NA	NA	NA	NA	NA	mmHg	Fig2_placebo_bps
+Blomqvist1988	all	placebo	blood pressure systolic	placebo	NA	8	80	hr	185.9571	NA	NA	NA	NA	NA	mmHg	Fig2_placebo_bps
+Blomqvist1988	all	placebo	blood pressure systolic	placebo	NA	12	84	hr	187.366	NA	NA	NA	NA	NA	mmHg	Fig2_placebo_bps
+Blomqvist1988	all	placebo	blood pressure systolic	placebo	NA	24	96	hr	180.2603	NA	NA	NA	NA	NA	mmHg	Fig2_placebo_bps

@@ -1,0 +1,6 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Johnsson1975	all	5	metoprolol_iv10	concentration	metoprolol	plasma	0.33	hr	0.0001163956515601917	33.995	2.4044736307042334e-05	1.075313297672078e-05			Fig6_metiv10	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_iv10	concentration	metoprolol	plasma	2.0	hr	7.949463940425175e-05	24.298	2.545814863256935e-05	1.1385230184743676e-05			Fig6_metiv10	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_iv10	concentration	metoprolol	plasma	3.5	hr	5.931166334547583e-05	18.1285	1.8990741819965596e-05	8.49291793051823e-06			Fig6_metiv10	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_iv10	concentration	metoprolol	plasma	5.0	hr	3.7176666382160584e-05	12.012	1.7331445930116137e-05	7.75085824962035e-06			Fig6_metiv10	mole/meter^3	dimensionless
+Johnsson1975	all	5	metoprolol_iv10	concentration	metoprolol	plasma	6.5	hr	2.4633464034080288e-05	7.2493	5.546597954375822e-06	2.4805140139691227e-06			Fig6_metiv10	mole/meter^3	dimensionless

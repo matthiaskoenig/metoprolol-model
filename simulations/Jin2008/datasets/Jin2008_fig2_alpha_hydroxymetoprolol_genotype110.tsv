@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	0.25	hr	6.695290929306523e-05						Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	0.5	hr	0.000137928921927586	52.339	0.00012376136457228765	4.677739893946761e-05			Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	1.0	hr	0.00037499557987988145	149.76	0.00040615762798148125	0.00015351315381869794			Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	1.5	hr	0.00037774822953456157						Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	2.0	hr	0.00038050087918924157						Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	3.0	hr	0.00039465232164471244	124.77	0.000120820223128284	4.566575196353911e-05			Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	4.0	hr	0.00034104623413882683	111.02	0.0001342654411580157	5.074756671064084e-05			Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	6.0	hr	0.00034605746812555214	109.41	0.00010597446155378851	4.0054581513614286e-05			Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	8.0	hr	0.0002299309430782401						Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	12.0	hr	0.00015961133151522	51.58	5.9308350642261275e-05	2.241644949554872e-05			Fig2_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	24.0	hr	3.760895816657158e-05	13.266	2.4360120721923733e-05	9.207260191103055e-06			Fig2_gen110	mole/meter^3	dimensionless

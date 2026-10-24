@@ -1,0 +1,11 @@
+study	group	individual	intervention	measurement	substance	tissue	time	time_unit	mean	mean_sd	mean_se	min	max	label	comments	mean_unit
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	0.5	hr	0.000164992332174638					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	1.0	hr	0.000316553533733831					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	2.0	hr	0.00024148357478573953					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	3.0	hr	0.00017216981467283878					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	4.0	hr	0.00011916715470306128					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	6.0	hr	6.118626169258277e-05					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	8.0	hr	3.4866332385736076e-05					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	10.0	hr	2.0062540969436634e-05					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	12.0	hr	1.3928579897498515e-05					Fig1_UM		mole/meter^3
+Kirchheiner2004	UM		metoprolol	concentration	metoprolol	plasma	24.0	hr	1.870110082907964e-08					Fig1_UM		mole/meter^3

@@ -1,0 +1,3 @@
+parameter	value	unit	lower_bound	upper_bound	ci_lower	ci_upper	identifiability	n_points	cost_min	converged
+HRred_Emax	0.285016435425259	dimensionless	0.05	0.8	0.21481876938964925	0.40037403522070963	identifiable	17	5.258321309689695	True
+HRred_EC50	0.00012164831194081947	mM	5e-06	0.005	6.246729775475332e-05	0.00023395810032417612	identifiable	17	5.258321309689695	True

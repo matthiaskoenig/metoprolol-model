@@ -1,0 +1,6 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	median	sd	min	max	unit	label	comments
+Kirchheiner2004	activegene_0	metoprolol	clearance	metoprolol	plasma	NA	NA	30.703	NA	NA	NA	l/hr	NA	NA
+Kirchheiner2004	activegene_1.5	metoprolol	clearance	metoprolol	plasma	NA	NA	130.24	NA	79.037	166.976	l/hr	NA	NA
+Kirchheiner2004	activegene_2	metoprolol	clearance	metoprolol	plasma	NA	NA	220.315	NA	137.57	452.598	l/hr	NA	NA
+Kirchheiner2004	activegene_2.5	metoprolol	clearance	metoprolol	plasma	NA	NA	349.722	NA	203.525	429.129	l/hr	NA	NA
+Kirchheiner2004	activegene_3	metoprolol	clearance	metoprolol	plasma	NA	NA	370.407	NA	181.912	663.545	l/hr	NA	NA

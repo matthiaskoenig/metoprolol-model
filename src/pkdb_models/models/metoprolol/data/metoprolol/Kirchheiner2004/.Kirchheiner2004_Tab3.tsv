@@ -1,0 +1,16 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	median	sd	min	max	unit	label	comments
+Kirchheiner2004	PM	metoprolol	cumulative amount	metoprolol	urine	12.0	hr	12.1	NA	2.62	21.2	mg	NA	NA
+Kirchheiner2004	PM	metoprolol	clearance_renal	metoprolol	urine	NA	NA	6.64	NA	1.31	9.55	l/hr	NA	NA
+Kirchheiner2004	PM	metoprolol	cumulative amount	alpha-hydroxymetoprolol	urine	12.0	hr	0.01	NA	0.01	0.1	mg	NA	NA
+Kirchheiner2004	PM	metoprolol	clearance_renal	alpha-hydroxymetoprolol	urine	NA	NA	0.2	NA	0.13	1.76	l/hr	NA	NA
+Kirchheiner2004	PM	metoprolol	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	urine	12.0	hr	592.0	NA	121.0	2850.0	dimensionless	NA	NA
+Kirchheiner2004	EM	metoprolol	cumulative amount	metoprolol	urine	12.0	hr	2.36	NA	0.42	6.8	mg	NA	NA
+Kirchheiner2004	EM	metoprolol	clearance_renal	metoprolol	urine	NA	NA	6.97	NA	0.73	10.5	l/hr	NA	NA
+Kirchheiner2004	EM	metoprolol	cumulative amount	alpha-hydroxymetoprolol	urine	12.0	hr	8.7	NA	0.73	14.3	mg	NA	NA
+Kirchheiner2004	EM	metoprolol	clearance_renal	alpha-hydroxymetoprolol	urine	NA	NA	13.5	NA	1.54	23.7	l/hr	NA	NA
+Kirchheiner2004	EM	metoprolol	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	urine	12.0	hr	0.6	NA	0.17	1.77	dimensionless	NA	NA
+Kirchheiner2004	UM	metoprolol	cumulative amount	metoprolol	urine	12.0	hr	1.64	NA	0.61	5.06	mg	NA	NA
+Kirchheiner2004	UM	metoprolol	clearance_renal	metoprolol	urine	NA	NA	9.58	NA	2.91	18.7	l/hr	NA	NA
+Kirchheiner2004	UM	metoprolol	cumulative amount	alpha-hydroxymetoprolol	urine	12.0	hr	9.0	NA	1.88	15.2	mg	NA	NA
+Kirchheiner2004	UM	metoprolol	clearance_renal	alpha-hydroxymetoprolol	urine	NA	NA	14.4	NA	2.21	31.7	l/hr	NA	NA
+Kirchheiner2004	UM	metoprolol	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	urine	12.0	hr	0.24	NA	0.1	2.05	dimensionless	NA	NA

@@ -1,0 +1,7 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	median	sd	se	min	max	label	comments	median_unit
+Kirchheiner2004	EM	metoprolol	EHR	metoprolol	heart	0.0	hr	148.088			140.899	160.103	Fig3_EM		1/min
+Kirchheiner2004	EM	metoprolol	EHR	metoprolol	heart	2.0	hr	115.652			104.048	129.003	Fig3_EM		1/min
+Kirchheiner2004	EM	metoprolol	EHR	metoprolol	heart	4.0	hr	120.599			108.071	136.107	Fig3_EM		1/min
+Kirchheiner2004	EM	metoprolol	EHR	metoprolol	heart	6.0	hr	127.087			120.0	146.907	Fig3_EM		1/min
+Kirchheiner2004	EM	metoprolol	EHR	metoprolol	heart	10.0	hr	132.05			125.067	152.076	Fig3_EM		1/min
+Kirchheiner2004	EM	metoprolol	EHR	metoprolol	heart	24.0	hr	145.213			138.024	162.054	Fig3_EM		1/min

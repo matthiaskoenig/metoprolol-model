@@ -1,0 +1,4 @@
+study	name	substance	measurement	application	route	form	value	unit	time	time_unit	comments
+Fux2005	MET	metoprolol	dosing	single dose 	oral	tablet	100.0	mg	0.0	hr	"Half of them took a SR metoprolol and the other half took NR metoprolol; Exact doses pere group are not provided due to free adjustment of dose; assumed 100 mg as approximation (see Tab2 for details).
+This is a multiple dosing study with ~6 weeks of treatment."
+Fux2005	baseline	placebo	qualitative dosing	single dose 	NR	NR	NA	NA	0.0	hr	NA

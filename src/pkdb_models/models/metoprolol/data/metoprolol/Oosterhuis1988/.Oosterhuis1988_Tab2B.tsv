@@ -1,0 +1,5 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	sd	min	max	unit	label
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change AUEC	metoprolol	plasma 	24	hr	301	105.0	NA	NA	percent*hr	NA
+Oosterhuis1988	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	EHR change fluctuations	metoprolol	plasma 	24	hr	10	2.6	NA	NA	percent	NA
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change AUEC	metoprolol	plasma 	24	hr	301	75.0	NA	NA	percent*hr	NA
+Oosterhuis1988	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	EHR change fluctuations	metoprolol	plasma 	24	hr	19	4.3	NA	NA	percent	NA

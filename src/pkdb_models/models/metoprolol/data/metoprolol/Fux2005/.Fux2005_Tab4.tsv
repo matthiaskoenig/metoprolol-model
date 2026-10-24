@@ -1,0 +1,25 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	median	sd	se	min	max	unit	label
+Fux2005	um	MET	blood pressure systolic	metoprolol	NA	NA	NA	148.0	NA	10.4	NA	NA	NA	mmHg	NA
+Fux2005	em	MET	blood pressure systolic	metoprolol	NA	NA	NA	140.0	NA	19.0	NA	NA	NA	mmHg	NA
+Fux2005	im	MET	blood pressure systolic	metoprolol	NA	NA	NA	132.0	NA	17.8	NA	NA	NA	mmHg	NA
+Fux2005	pm	MET	blood pressure systolic	metoprolol	NA	NA	NA	139.0	NA	14.5	NA	NA	NA	mmHg	NA
+Fux2005	um	MET	blood pressure diastolic	metoprolol	NA	NA	NA	87.4	NA	6.8	NA	NA	NA	mmHg	NA
+Fux2005	em	MET	blood pressure diastolic	metoprolol	NA	NA	NA	84.7	NA	11.5	NA	NA	NA	mmHg	NA
+Fux2005	im	MET	blood pressure diastolic	metoprolol	NA	NA	NA	80.7	NA	12.1	NA	NA	NA	mmHg	NA
+Fux2005	pm	MET	blood pressure diastolic	metoprolol	NA	NA	NA	82.5	NA	14.4	NA	NA	NA	mmHg	NA
+Fux2005	um	MET	heart rate	metoprolol	NA	NA	NA	72.0	NA	8.0	NA	NA	NA	1/min	NA
+Fux2005	em	MET	heart rate	metoprolol	NA	NA	NA	70.0	NA	12.0	NA	NA	NA	1/min	NA
+Fux2005	im	MET	heart rate	metoprolol	NA	NA	NA	67.0	NA	13.0	NA	NA	NA	1/min	NA
+Fux2005	pm	MET	heart rate	metoprolol	NA	NA	NA	67.0	NA	10.0	NA	NA	NA	1/min	NA
+Fux2005	um	baseline	blood pressure systolic	metoprolol	NA	NA	NA	164.0	NA	27.3	NA	NA	NA	mmHg	NA
+Fux2005	em	baseline	blood pressure systolic	metoprolol	NA	NA	NA	160.0	NA	17.7	NA	NA	NA	mmHg	NA
+Fux2005	im	baseline	blood pressure systolic	metoprolol	NA	NA	NA	150.0	NA	22.0	NA	NA	NA	mmHg	NA
+Fux2005	pm	baseline	blood pressure systolic	metoprolol	NA	NA	NA	164.0	NA	7.5	NA	NA	NA	mmHg	NA
+Fux2005	um	baseline	blood pressure diastolic	metoprolol	NA	NA	NA	104.0	NA	16.4	NA	NA	NA	mmHg	NA
+Fux2005	em	baseline	blood pressure diastolic	metoprolol	NA	NA	NA	96.2	NA	10.7	NA	NA	NA	mmHg	NA
+Fux2005	im	baseline	blood pressure diastolic	metoprolol	NA	NA	NA	92.7	NA	12.7	NA	NA	NA	mmHg	NA
+Fux2005	pm	baseline	blood pressure diastolic	metoprolol	NA	NA	NA	95.0	NA	17.3	NA	NA	NA	mmHg	NA
+Fux2005	um	baseline	heart rate	metoprolol	NA	NA	NA	72.0	NA	14.0	NA	NA	NA	1/min	NA
+Fux2005	em	baseline	heart rate	metoprolol	NA	NA	NA	80.0	NA	11.0	NA	NA	NA	1/min	NA
+Fux2005	im	baseline	heart rate	metoprolol	NA	NA	NA	79.0	NA	11.0	NA	NA	NA	1/min	NA
+Fux2005	pm	baseline	heart rate	metoprolol	NA	NA	NA	77.0	NA	9.0	NA	NA	NA	1/min	NA

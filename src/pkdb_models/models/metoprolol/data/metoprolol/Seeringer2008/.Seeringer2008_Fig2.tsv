@@ -1,0 +1,16 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	median	min	max	unit
+Seeringer2008	AG_0	met	auc_inf	(S)-metoprolol	plasma	NA	NA	1888.75	1397.38	2069.36	ng/ml*hr
+Seeringer2008	AG_1.5	met	auc_inf	(S)-metoprolol	plasma	NA	NA	486.94	271.8	630.36	ng/ml*hr
+Seeringer2008	AG_2	met	auc_inf	(S)-metoprolol	plasma	NA	NA	237.86	192.71	285.67	ng/ml*hr
+Seeringer2008	AG_2.5	met	auc_inf	(S)-metoprolol	plasma	NA	NA	172.06	87.06	241.1	ng/ml*hr
+Seeringer2008	AG_3	met	auc_inf	(S)-metoprolol	plasma	NA	NA	193.9	82.33	379.82	ng/ml*hr
+Seeringer2008	AG_0	met	auc_inf	(R)-metoprolol	plasma	NA	NA	1864.84	1280.99	1974.95	ng/ml*hr
+Seeringer2008	AG_1.5	met	auc_inf	(R)-metoprolol	plasma	NA	NA	375.6	260.39	488.32	ng/ml*hr
+Seeringer2008	AG_2	met	auc_inf	(R)-metoprolol	plasma	NA	NA	143.72	105.31	189.81	ng/ml*hr
+Seeringer2008	AG_2.5	met	auc_inf	(R)-metoprolol	plasma	NA	NA	88.46	34.65	203.74	ng/ml*hr
+Seeringer2008	AG_3	met	auc_inf	(R)-metoprolol	plasma	NA	NA	105.02	48.68	120.38	ng/ml*hr
+Seeringer2008	AG_0	met	auc_inf	metoprolol	plasma	NA	NA	3753.59	NA	NA	ng/ml*hr
+Seeringer2008	AG_1.5	met	auc_inf	metoprolol	plasma	NA	NA	862.54	NA	NA	ng/ml*hr
+Seeringer2008	AG_2	met	auc_inf	metoprolol	plasma	NA	NA	381.58000000000004	NA	NA	ng/ml*hr
+Seeringer2008	AG_2.5	met	auc_inf	metoprolol	plasma	NA	NA	260.52	NA	NA	ng/ml*hr
+Seeringer2008	AG_3	met	auc_inf	metoprolol	plasma	NA	NA	298.92	NA	NA	ng/ml*hr

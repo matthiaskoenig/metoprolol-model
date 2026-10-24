@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	0.25	hr	6.39353235144575e-05						Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	0.5	hr	0.00040480402854625795	149.96	0.00041294724415987064	0.0001560793875194987			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	1.0	hr	0.0006651233520870467	230.49	0.0005211071621725092	0.0001969599939318668			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	1.5	hr	0.000528567913833107	165.12	0.00023551747929558974	8.90172399464191e-05			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	2.0	hr	0.0004981599238850235	146.66	0.00013329497672737766	5.0380765633540564e-05			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	3.0	hr	0.0004908290923600243	144.5	0.00013131583824590217	4.9632721600377374e-05			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	4.0	hr	0.0003703566008190932	120.06	0.00020820536825122716	7.869423228876714e-05			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	6.0	hr	0.00026140772760904106	88.6	0.00018513850924962956	6.99757790822502e-05			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	8.0	hr	0.00016632759077383433	54.322	9.749236159748543e-05	3.684864907361853e-05			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	12.0	hr	6.733892386534998e-05	26.274	8.183737620901382e-05	3.093162077129773e-05			Fig1_gen110	mole/meter^3	dimensionless
+Jin2008	genotype110	7	metoprolol	concentration	metoprolol	plasma	24.0	hr	2.281945725365956e-05	6.6686	5.615805441186833e-06	2.1225749441005394e-06			Fig1_gen110	mole/meter^3	dimensionless

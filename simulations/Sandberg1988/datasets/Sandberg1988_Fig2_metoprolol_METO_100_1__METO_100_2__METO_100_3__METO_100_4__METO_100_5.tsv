@@ -1,0 +1,15 @@
+study	count	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_se_plus	mean_se	mean_sd	min	max	label	mean_unit	count_unit
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	0.0	96.0	hr	49.45751	60.579197	11.121687	38.5266538997566			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	0.5	96.5	hr	189.02052	231.51308	42.49256	147.198545727338			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	1.0	97.0	hr	630.10254	682.713	52.61046	182.24797945914			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	1.5	97.5	hr	612.83264	670.5074	57.67476	199.791229268682			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	2.0	98.0	hr	553.0782	598.61145	45.53325	157.731804867471			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	3.0	99.0	hr	503.37753	550.9264	47.54887	164.714117364975			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	4.0	100.0	hr	423.31247	468.8484	45.53593	157.7410886598			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	5.0	101.0	hr	365.51212	403.96286	38.45074	133.197270537242			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	6.0	102.0	hr	346.16785	383.60144	37.43359	129.673759579405			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	8.0	104.0	hr	240.68777	277.1149	36.42713	126.187279867833			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	9.0	105.0	hr	214.25294	240.55951	26.30657	91.1286316257344			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	10.0	106.0	hr	205.01859	231.32513	26.30654	91.128527702686			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	12.0	108.0	hr	109.65907	124.83326	15.17419	52.5649360874071			Fig2_100	nmol/l	dimensionless
+Sandberg1988	12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	concentration	metoprolol	plasma	24.0	120.0	hr	23.150951	35.292442	12.141491	42.0593585832805			Fig2_100	nmol/l	dimensionless

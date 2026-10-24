@@ -1,0 +1,10 @@
+study	name	parent	group_count	measurement	substance	choice	count	mean	min	max	sd	unit
+Oosterhuis1988	all	NA	12	species	NA	homo sapiens	12	NA	NA	NA	NA	NA
+Oosterhuis1988	all	NA	12	sex	NA	M	12	NA	NA	NA	NA	NA
+Oosterhuis1988	all	NA	12	healthy	NA	Y	12	NA	NA	NA	NA	NA
+Oosterhuis1988	all	NA	12	age	NA	NA	12	NA	19.0	24.0	NA	yr
+Oosterhuis1988	all	NA	12	weight	NA	NA	12	NA	68.0	86.0	NA	kg
+Oosterhuis1988	all	NA	12	medication	NA	N	12	NA	NA	NA	NA	NA
+Oosterhuis1988	all	NA	12	abstinence medication	NA	NA	12	NA	2.0	NA	NA	week
+Oosterhuis1988	all	NA	12	abstinence alcohol	NA	NA	12	NA	48.0	NA	NA	hr
+Oosterhuis1988	all	NA	12	abstinence	xanthine	NA	12	NA	48.0	NA	NA	hr

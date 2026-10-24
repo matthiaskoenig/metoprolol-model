@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	sd	se	min	max	unit	label
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	0.5	hr	10.23	8.6333	3.570329739673915	1.5967000000000002	NA	NA	percent	Fig3_metiv5
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	2.0	hr	6.1705	4.9256	2.783681025189487	1.2448999999999995	NA	NA	percent	Fig3_metiv5
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	3.5	hr	3.5183	2.5169	2.239198472668289	1.0013999999999998	NA	NA	percent	Fig3_metiv5
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	5.0	hr	1.8674	0.1624	3.8124959016371416	1.705	NA	NA	percent	Fig3_metiv5
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	6.5	hr	0.0	-1.2179	2.723307189796994	1.2179	NA	NA	percent	Fig3_metiv5
+Johnsson1975	all	5	metoprolol_iv10	EHR change	metoprolol	heart	0.5	hr	13.0717	11.1502	4.296604618765846	1.9215	NA	NA	percent	Fig3_metiv10
+Johnsson1975	all	5	metoprolol_iv10	EHR change	metoprolol	heart	2.0	hr	9.77	7.1989	5.749154376949709	2.5710999999999995	NA	NA	percent	Fig3_metiv10
+Johnsson1975	all	5	metoprolol_iv10	EHR change	metoprolol	heart	3.5	hr	7.6319	5.9269	3.8124959016371416	1.705	NA	NA	percent	Fig3_metiv10
+Johnsson1975	all	5	metoprolol_iv10	EHR change	metoprolol	heart	5.0	hr	3.843	2.571	2.8442784673797323	1.2719999999999998	NA	NA	percent	Fig3_metiv10
+Johnsson1975	all	5	metoprolol_iv10	EHR change	metoprolol	heart	6.5	hr	2.2733	0.433	4.115035898992863	1.8402999999999998	NA	NA	percent	Fig3_metiv10
+Johnsson1975	all	5	metoprolol_iv15	EHR change	metoprolol	heart	0.5	hr	13.8836	12.2869	3.570329739673915	1.5967000000000002	NA	NA	percent	Fig3_metiv15
+Johnsson1975	all	5	metoprolol_iv15	EHR change	metoprolol	heart	2.0	hr	10.7172	8.8227	4.236230783373354	1.8945000000000007	NA	NA	percent	Fig3_metiv15
+Johnsson1975	all	5	metoprolol_iv15	EHR change	metoprolol	heart	3.5	hr	7.9296	5.954	4.417575896348585	1.9756	NA	NA	percent	Fig3_metiv15
+Johnsson1975	all	5	metoprolol_iv15	EHR change	metoprolol	heart	5.0	hr	5.3857	4.3031	2.420767192441273	1.0826000000000002	NA	NA	percent	Fig3_metiv15
+Johnsson1975	all	5	metoprolol_iv15	EHR change	metoprolol	heart	6.5	hr	2.4087	0.9472	3.2680133491159427	1.4615	NA	NA	percent	Fig3_metiv15
+Johnsson1975	all	5	metoprolol_iv20	EHR change	metoprolol	heart	0.5	hr	16.6712	18.8904	4.9622820556675356	2.2192000000000007	NA	NA	percent	Fig3_metiv20
+Johnsson1975	all	5	metoprolol_iv20	EHR change	metoprolol	heart	2.0	hr	13.4235	15.3451	4.296828225563596	1.9215999999999998	NA	NA	percent	Fig3_metiv20
+Johnsson1975	all	5	metoprolol_iv20	EHR change	metoprolol	heart	3.5	hr	10.9066	12.6116	3.8124959016371416	1.705	NA	NA	percent	Fig3_metiv20
+Johnsson1975	all	5	metoprolol_iv20	EHR change	metoprolol	heart	5.0	hr	6.6576	8.092	3.2074159069256987	1.4344000000000001	NA	NA	percent	Fig3_metiv20
+Johnsson1975	all	5	metoprolol_iv20	EHR change	metoprolol	heart	6.5	hr	4.5467	5.954	3.146818464735453	1.4072999999999993	NA	NA	percent	Fig3_metiv20

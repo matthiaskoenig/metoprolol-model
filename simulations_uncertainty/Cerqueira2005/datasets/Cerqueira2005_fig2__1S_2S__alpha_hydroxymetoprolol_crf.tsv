@@ -1,0 +1,15 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	comments	mean_unit
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	0.0	144.0	hr	8.49	10.082	3.89958767051082	1.592			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	0.25	144.25	hr	9.18	10.456	3.12554891179133	1.276			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	0.5	144.5	hr	15.859	19.228	8.25233094343653	3.369			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	1.0	145.0	hr	24.946	35.176	25.0582800686719	10.23			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	1.5	145.5	hr	18.832	22.362	8.64669879202461	3.53			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	2.0	146.0	hr	18.734	22.362	8.88674878681736	3.628			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	3.0	147.0	hr	20.682	24.688	9.81265590958941	4.006			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	4.0	148.0	hr	21.117	26.143	12.3111354472283	5.026			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	6.0	150.0	hr	17.97	20.575	6.38092077995018	2.605			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	8.0	152.0	hr	20.468	24.179	9.09005643546837	3.711			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	10.0	154.0	hr	19.429	22.833	8.33806308443394	3.404			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	12.0	156.0	hr	15.451	17.876	5.94001262624921	2.425			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	16.0	160.0	hr	10.294	11.91	3.95837542433761	1.616			Fig2_crf_SSOHM		ng/ml
+Cerqueira2005	crf	MET_1, MET_2, MET_3, MET_4, MET_5, MET_6, MET_7	concentration	(1S,2S)-alpha-hydroxymetoprolol	plasma	24.0	168.0	hr	7.15	8.018	2.1261570967358	0.868			Fig2_crf_SSOHM		ng/ml

@@ -1,0 +1,6 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	0.5	hr	10.23	8.6333	3.570329739673915	1.5967000000000002			Fig3_metiv5	percent	dimensionless
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	2.0	hr	6.1705	4.9256	2.783681025189487	1.2448999999999997			Fig3_metiv5	percent	dimensionless
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	3.5	hr	3.5183	2.5169	2.239198472668289	1.0013999999999998			Fig3_metiv5	percent	dimensionless
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	5.0	hr	1.8674	0.1624	3.8124959016371416	1.705			Fig3_metiv5	percent	dimensionless
+Johnsson1975	all	5	metoprolol_iv5	EHR change	metoprolol	heart	6.5	hr	0.0	-1.2179	2.723307189796994	1.2179			Fig3_metiv5	percent	dimensionless

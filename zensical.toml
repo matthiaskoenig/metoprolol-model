@@ -1,0 +1,49 @@
+[project]
+site_name = "Physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model of metoprolol"
+site_url = "https://matthiaskoenig.github.io/metoprolol-model/"
+site_description = "This repository provides the metoprolol physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model: its oral and intravenous dosing with the immediate, slow and controlled release forms, its distribution, its metabolism by CYP2D6 (with the CYP2D6 genotypes) and other enzymes in the liver to alpha-hydroxymetoprolol and metoprolol acid, the renal excretion of metoprolol and its metabolites with the renal function and the reduction of the exercise heart rate."
+site_author = "Matthias König and Paula Ogata"
+
+copyright = "Copyright &copy; 2020-2026 Matthias König and Paula Ogata"
+
+# pages as `simulations.html`, so the reports which the docs workflow copies into
+# the site (`simulations/`, `fit/`) do not replace the pages of the same name
+use_directory_urls = false
+
+repo_url = "https://github.com/matthiaskoenig/metoprolol-model"
+repo_name = "matthiaskoenig/metoprolol-model"
+
+nav = [
+  { "Home" = "index.md" },
+  { "Running the model" = "running.md" },
+  { "Models" = "models.md" },
+  { "Simulations" = "simulations.md" },
+  { "Fit" = "fit.md" },
+  { "Release notes" = "release-notes.md" },
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.top",
+  "search.highlight",
+  "toc.follow",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "teal"
+accent = "teal"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "teal"
+accent = "teal"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/matthiaskoenig/metoprolol-model"

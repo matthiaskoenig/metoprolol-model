@@ -1,0 +1,25 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	sd	min	max	unit	label
+Blomqvist1988	all	MET100	EHR change	metoprolol	heart	0	72	hr	11.6	8.0	NA	NA	percent	NA
+Blomqvist1988	all	MET100	EHR change	metoprolol	heart	2	74	hr	16.6	6.0	NA	NA	percent	NA
+Blomqvist1988	all	MET100	EHR change	metoprolol	heart	4	76	hr	16.9	6.6	NA	NA	percent	NA
+Blomqvist1988	all	MET100	EHR change	metoprolol	heart	8	80	hr	13.5	7.0	NA	NA	percent	NA
+Blomqvist1988	all	MET100	EHR change	metoprolol	heart	12	84	hr	12.6	6.4	NA	NA	percent	NA
+Blomqvist1988	all	MET100	EHR change	metoprolol	heart	24	96	hr	12.1	8.6	NA	NA	percent	NA
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	0	72	hr	18.4	6.9	NA	NA	percent	NA
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	2	74	hr	22.4	5.2	NA	NA	percent	NA
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	4	76	hr	23.8	5.1	NA	NA	percent	NA
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	8	80	hr	19.5	5.7	NA	NA	percent	NA
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	12	84	hr	17.1	5.3	NA	NA	percent	NA
+Blomqvist1988	all	MET200	EHR change	metoprolol	heart	24	96	hr	16.9	7.2	NA	NA	percent	NA
+Blomqvist1988	all	ATE50	EHR change	atenolol	heart	0	72	hr	9.3	3.9	NA	NA	percent	NA
+Blomqvist1988	all	ATE50	EHR change	atenolol	heart	2	74	hr	23.7	3.2	NA	NA	percent	NA
+Blomqvist1988	all	ATE50	EHR change	atenolol	heart	4	76	hr	22.8	3.0	NA	NA	percent	NA
+Blomqvist1988	all	ATE50	EHR change	atenolol	heart	8	80	hr	16.8	2.4	NA	NA	percent	NA
+Blomqvist1988	all	ATE50	EHR change	atenolol	heart	12	84	hr	10.9	3.4	NA	NA	percent	NA
+Blomqvist1988	all	ATE50	EHR change	atenolol	heart	24	96	hr	8.1	4.3	NA	NA	percent	NA
+Blomqvist1988	all	ATE100	EHR change	atenolol	heart	0	72	hr	14.7	4.7	NA	NA	percent	NA
+Blomqvist1988	all	ATE100	EHR change	atenolol	heart	2	74	hr	26.8	2.9	NA	NA	percent	NA
+Blomqvist1988	all	ATE100	EHR change	atenolol	heart	4	76	hr	26.8	2.9	NA	NA	percent	NA
+Blomqvist1988	all	ATE100	EHR change	atenolol	heart	8	80	hr	21.2	3.5	NA	NA	percent	NA
+Blomqvist1988	all	ATE100	EHR change	atenolol	heart	12	84	hr	16.1	1.9	NA	NA	percent	NA
+Blomqvist1988	all	ATE100	EHR change	atenolol	heart	24	96	hr	12.5	3.6	NA	NA	percent	NA

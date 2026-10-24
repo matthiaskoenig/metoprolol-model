@@ -1,0 +1,3036 @@
+{
+  "experiment_id": "Kirchheiner2004",
+  "base_path": "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol",
+  "data_path": [
+    "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol/data/metoprolol"
+  ],
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol/models/output/models/metoprolol_body_flat.xml",
+        "path": "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol/models/output/models/metoprolol_body_flat.xml",
+        "content": null
+      },
+      "base_path": null,
+      "changes": {},
+      "selections": [
+        "Afeces_met",
+        "Aurine_mam",
+        "Aurine_met",
+        "Aurine_metoh",
+        "BW",
+        "GUTDOSE_met",
+        "HR",
+        "HReff",
+        "HRred",
+        "IVDOSE_met",
+        "KI__GFR",
+        "KI__MAMEX",
+        "KI__METEX",
+        "KI__METOHEX",
+        "KI__f_renal_function",
+        "LI__f_cyp2d6",
+        "PODOSE_met",
+        "Ri_met",
+        "[Cve_met]",
+        "[Cveplasma_mam]",
+        "[Cveplasma_met]",
+        "[Cveplasma_metoh]",
+        "form_cr",
+        "form_sr",
+        "time"
+      ],
+      "parameters": {}
+    }
+  },
+  "tasks": {
+    "task_met_po100_em": {
+      "sid": "model__met_po100_em",
+      "name": null,
+      "model": "model",
+      "simulation": "met_po100_em",
+      "observables": []
+    },
+    "task_met_po100_pm": {
+      "sid": "model__met_po100_pm",
+      "name": null,
+      "model": "model",
+      "simulation": "met_po100_pm",
+      "observables": []
+    },
+    "task_met_po100_um": {
+      "sid": "model__met_po100_um",
+      "name": null,
+      "model": "model",
+      "simulation": "met_po100_um",
+      "observables": []
+    }
+  },
+  "observables": {},
+  "simulations": {
+    "met_po100_em": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_allele1": {
+          "value": -1,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_allele2": {
+          "value": -1,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_ac": {
+          "value": 1.8076923076923077,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 77.0,
+          "unit": "kilogram"
+        },
+        "HR": {
+          "value": 148.088,
+          "unit": "1 / minute"
+        },
+        "PODOSE_met": {
+          "value": 78.0852628504673,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_po100_pm": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_allele1": {
+          "value": -1,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_allele2": {
+          "value": -1,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_ac": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 90.0,
+          "unit": "kilogram"
+        },
+        "HR": {
+          "value": 151.682,
+          "unit": "1 / minute"
+        },
+        "PODOSE_met": {
+          "value": 78.0852628504673,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_po100_um": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_allele1": {
+          "value": -1,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_allele2": {
+          "value": -1,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2d6_ac": {
+          "value": 2.8333333333333335,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 76.0,
+          "unit": "kilogram"
+        },
+        "HR": {
+          "value": 148.072,
+          "unit": "1 / minute"
+        },
+        "PODOSE_met": {
+          "value": 78.0852628504673,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    }
+  },
+  "data": {
+    "task_met_po100_em__time": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__BW": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__HR": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__HReff": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_em__HRred": {
+      "type": "TASK",
+      "sid": "task_met_po100_em__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_po100_em",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__time": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__BW": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__HR": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__HReff": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_pm__HRred": {
+      "type": "TASK",
+      "sid": "task_met_po100_pm__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_po100_pm",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__time": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__BW": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__HR": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__HReff": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100_um__HRred": {
+      "type": "TASK",
+      "sid": "task_met_po100_um__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_po100_um",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    }
+  },
+  "figures": {
+    "fig1": {
+      "sid": "Fig1",
+      "name": "Kirchheiner2004",
+      "num_rows": 3,
+      "num_cols": 2,
+      "width": null,
+      "height": null,
+      "settings": {},
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot0_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot0_yaxis",
+              "name": "metoprolol [\u00b5M]",
+              "label": "metoprolol",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot0_curve0",
+                "name": "population model EM",
+                "x": "Fig1Mean_EM__time",
+                "y": "Fig1Mean_EM__mean",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#ff7f0eff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "XCROSS",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot0_curve1",
+                "name": "population model PM",
+                "x": "Fig1Mean_PM__time",
+                "y": "Fig1Mean_PM__mean",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#1f77b4ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "XCROSS",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot0_curve2",
+                "name": "population model UM",
+                "x": "Fig1Mean_UM__time",
+                "y": "Fig1Mean_UM__mean",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#d62728ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "XCROSS",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot0_curve3",
+                "name": "PM (mean of 4)\u00b1SD (n=4)",
+                "x": "Fig1_PM_mean__time",
+                "y": "Fig1_PM_mean__mean",
+                "xerr": null,
+                "yerr": "Fig1_PM_mean__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#1f77b4ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot0_curve4",
+                "name": "EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot0_curve5",
+                "name": "PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot0_curve6",
+                "name": "UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot1_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot1_yaxis",
+              "name": "$\\alpha$-OH metoprolol\n [\u00b5M]",
+              "label": "$\\alpha$-OH metoprolol\n",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot1_curve0",
+                "name": "EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot1_curve1",
+                "name": "PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot1_curve2",
+                "name": "UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot2",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot2_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot2_yaxis",
+              "name": "metoprolol acid [\u00b5M]",
+              "label": "metoprolol acid",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot2_curve0",
+                "name": "EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot2_curve1",
+                "name": "PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot2_curve2",
+                "name": "UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 2,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot3",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot3_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot3_yaxis",
+              "name": "urinary excretion rate\n [\u00b5mole/min]",
+              "label": "urinary excretion rate\n",
+              "unit": "\u00b5mole/min",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot3_curve0",
+                "name": "met EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot3_curve1",
+                "name": "metoh EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot3_curve2",
+                "name": "mam EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot3_curve3",
+                "name": "met PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot3_curve4",
+                "name": "metoh PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot3_curve5",
+                "name": "mam PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot3_curve6",
+                "name": "met UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig1__plot3_curve7",
+                "name": "metoh UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              },
+              {
+                "sid": "Fig1__plot3_curve8",
+                "name": "mam UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 8
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 2,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot4",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot4_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot4_yaxis",
+              "name": "heart rate [1/min]",
+              "label": "heart rate",
+              "unit": "1/min",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot4_curve0",
+                "name": "EM (median)",
+                "x": "Fig3_EM__time",
+                "y": "Fig3_EM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#ff7f0eff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot4_curve1",
+                "name": "PM (median)",
+                "x": "Fig3_PM__time",
+                "y": "Fig3_PM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#1f77b4ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot4_curve2",
+                "name": "UM (median)",
+                "x": "Fig3_UM__time",
+                "y": "Fig3_UM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#d62728ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot4_curve3",
+                "name": "EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot4_curve4",
+                "name": "PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot4_curve5",
+                "name": "UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 3,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot5",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot5_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot5_yaxis",
+              "name": "HR reduction\n [percent]",
+              "label": "HR reduction\n",
+              "unit": "percent",
+              "scale": "LINEAR",
+              "min": 35,
+              "max": 0,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot5_curve0",
+                "name": "EM (median)",
+                "x": "Fig3_EM_hrred__time",
+                "y": "Fig3_EM_hrred__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#ff7f0eff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot5_curve1",
+                "name": "PM (median)",
+                "x": "Fig3_PM_hrred__time",
+                "y": "Fig3_PM_hrred__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#1f77b4ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot5_curve2",
+                "name": "UM (median)",
+                "x": "Fig3_UM_hrred__time",
+                "y": "Fig3_UM_hrred__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#d62728ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot5_curve3",
+                "name": "EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot5_curve4",
+                "name": "PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot5_curve5",
+                "name": "UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 3,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    },
+    "tab3": {
+      "sid": "Tab3",
+      "name": "Kirchheiner2004 (urine)",
+      "num_rows": 1,
+      "num_cols": 2,
+      "width": null,
+      "height": null,
+      "settings": {},
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Tab3__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Tab3__plot0_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Tab3__plot0_yaxis",
+              "name": "metoprolol\nurine [\u00b5mole]",
+              "label": "metoprolol\nurine",
+              "unit": "\u00b5mole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Tab3__plot0_curve0",
+                "name": "EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__Aurine_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Tab3__plot0_curve1",
+                "name": "EM (median)",
+                "x": "Tab3_met_EM__time",
+                "y": "Tab3_met_EM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#ff7f0eff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Tab3__plot0_curve2",
+                "name": "PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__Aurine_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Tab3__plot0_curve3",
+                "name": "PM (median)",
+                "x": "Tab3_met_PM__time",
+                "y": "Tab3_met_PM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#1f77b4ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Tab3__plot0_curve4",
+                "name": "UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__Aurine_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Tab3__plot0_curve5",
+                "name": "UM (median)",
+                "x": "Tab3_met_UM__time",
+                "y": "Tab3_met_UM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#d62728ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Tab3__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Tab3__plot1_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Tab3__plot1_yaxis",
+              "name": "$\\alpha$-OH metoprolol\nurine [\u00b5mole]",
+              "label": "$\\alpha$-OH metoprolol\nurine",
+              "unit": "\u00b5mole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Tab3__plot1_curve0",
+                "name": "EM",
+                "x": "task_met_po100_em__time",
+                "y": "task_met_po100_em__Aurine_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#ff7f0eff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Tab3__plot1_curve1",
+                "name": "EM (median)",
+                "x": "Tab3_metoh_EM__time",
+                "y": "Tab3_metoh_EM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#ff7f0eff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#ff7f0eff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#ff7f0eff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Tab3__plot1_curve2",
+                "name": "PM",
+                "x": "task_met_po100_pm__time",
+                "y": "task_met_po100_pm__Aurine_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#1f77b4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Tab3__plot1_curve3",
+                "name": "PM (median)",
+                "x": "Tab3_metoh_PM__time",
+                "y": "Tab3_metoh_PM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#1f77b4ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#1f77b4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#1f77b4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Tab3__plot1_curve4",
+                "name": "UM",
+                "x": "task_met_po100_um__time",
+                "y": "task_met_po100_um__Aurine_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Tab3__plot1_curve5",
+                "name": "UM (median)",
+                "x": "Tab3_metoh_UM__time",
+                "y": "Tab3_metoh_UM__median",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#d62728ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    }
+  }
+}

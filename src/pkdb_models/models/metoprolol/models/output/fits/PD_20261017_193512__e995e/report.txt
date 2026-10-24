@@ -1,0 +1,246 @@
+--------------------------------------------------------------------------------
+OptimizationProblem: PD_20261017_193512__e995e
+--------------------------------------------------------------------------------
+Experiments
+	*** FitMappingCollection ***
+experiment: Bae2014
+mappings: ['fm_met_11', 'fm_met_1010', 'fm_metoh_11', 'fm_metoh_1010']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Blomqvist1988
+mappings: ['fm_hrred_100', 'fm_hrred_200']
+weights: [10.0, 10.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Blomqvist1988
+mappings: ['fm_met_100', 'fm_met_200']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Cerqueira2003
+mappings: ['fm_metoh', 'fm_KI__METOHEX']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Cerqueira2005
+mappings: ['fm_met_control', 'fm_met_crf', 'fm_metoh_control', 'fm_metoh_crf', 'fm_mam_control', 'fm_mam_crf']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Jin2008
+mappings: ['fm_met_11', 'fm_met_110', 'fm_met_1010', 'fm_metoh_11', 'fm_metoh_110', 'fm_metoh_1010']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Johnsson1975
+mappings: ['fm_hrr_oral20', 'fm_hrr_oral50', 'fm_hrr_oral100', 'fm_hrr_iv5', 'fm_hrr_iv10', 'fm_hrr_iv15', 'fm_hrr_iv20']
+weights: [5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Johnsson1975
+mappings: ['fm_met_oral20', 'fm_met_oral50', 'fm_met_oral100', 'fm_met_iv5', 'fm_met_iv10', 'fm_met_iv15', 'fm_met_iv20']
+weights: [None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Kirchheiner2004
+mappings: ['fm_hrred_em', 'fm_hrred_pm']
+weights: [13.0, 4.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Kirchheiner2004
+mappings: ['fm_hrred_um']
+weights: [12.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Kirchheiner2004
+mappings: ['fm_met_model_em', 'fm_urine_met_em', 'fm_urine_metoh_em', 'fm_met_model_pm', 'fm_urine_met_pm', 'fm_urine_metoh_pm', 'fm_met_model_um', 'fm_urine_met_um', 'fm_urine_metoh_um', 'fm_met_pm_mean']
+weights: [None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lennard1982
+mappings: ['fm_hrred_em', 'fm_hrred_pm']
+weights: [6.0, 6.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lennard1982
+mappings: ['fm_met_em', 'fm_urine_met_em', 'fm_urine_metoh_em', 'fm_met_pm', 'fm_urine_met_pm', 'fm_urine_metoh_pm']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Oosterhuis1988
+mappings: ['fm_hr_100_cr', 'fm_hr_100_sr']
+weights: [12.0, 12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Oosterhuis1988
+mappings: ['fm_met_100_cr', 'fm_met_100_sr']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Regardh1974
+mappings: ['fm_met_iv', 'fm_urine_met_iv', 'fm_met_oral', 'fm_urine_met_oral']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Sandberg1988
+mappings: ['fm_hr_100_cr', 'fm_hr_100_ir']
+weights: [12.0, 12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Sandberg1988
+mappings: ['fm_hr_50_ir']
+weights: [12.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Sandberg1988
+mappings: ['fm_met_100_cr', 'fm_met_100_ir', 'fm_met_50_ir']
+weights: [None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+Parameters
+	FitParameter<HRred_Emax = 0.35 [0.05 - 0.8]>
+	FitParameter<HRred_EC50 = 0.00015 [5e-06 - 0.005]>
+FitSettings:
+	residual: NORMALIZED
+	parameter_scale: LOG10
+	loss_function: LINEAR
+	weighting_curves: ['MAPPING', 'POINTS']
+	weighting_points: ERROR_WEIGHTING
+	variable_step_size: True
+	relative_tolerance: 1e-06
+	absolute_tolerance: {'amount': 1e-11, 'concentration': 1e-11, 'other': 1e-06, 'ids': {}}
+	initial_time_step: 0.0
+	data_at_change: before
+Mappings: 19 (15 training, 4 validation)
+Data
+	experiment_keys: ['Blomqvist1988', 'Blomqvist1988', 'Johnsson1975', 'Johnsson1975', 'Johnsson1975', 'Johnsson1975', 'Johnsson1975', 'Johnsson1975', 'Johnsson1975', 'Kirchheiner2004', 'Kirchheiner2004', 'Kirchheiner2004', 'Lennard1982', 'Lennard1982', 'Oosterhuis1988', 'Oosterhuis1988', 'Sandberg1988', 'Sandberg1988', 'Sandberg1988']
+	mapping_keys: ['fm_hrred_100', 'fm_hrred_200', 'fm_hrr_oral20', 'fm_hrr_oral50', 'fm_hrr_oral100', 'fm_hrr_iv5', 'fm_hrr_iv10', 'fm_hrr_iv15', 'fm_hrr_iv20', 'fm_hrred_em', 'fm_hrred_pm', 'fm_hrred_um', 'fm_hrred_em', 'fm_hrred_pm', 'fm_hr_100_cr', 'fm_hr_100_sr', 'fm_hr_100_cr', 'fm_hr_100_ir', 'fm_hr_50_ir']
+	xid_observable: ['time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time']
+	yid_observable: ['HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred', 'HRred']
+	x_references: [array([4320., 4440., 4560., 4800., 5040., 5760.]), array([4320., 4440., 4560., 4800., 5040., 5760.]), array([ 60., 150., 240., 330., 420.]), array([ 60., 150., 240., 330., 420.]), array([ 60., 150., 240., 330., 420.]), array([ 30., 120., 210., 300., 390.]), array([ 30., 120., 210., 300., 390.]), array([ 30., 120., 210., 300., 390.]), array([ 30., 120., 210., 300., 390.]), array([ 120.,  240.,  360.,  600., 1440.]), array([ 120.,  240.,  360.,  600., 1440.]), array([ 120.,  240.,  360.,  600., 1440.]), array([ 720., 1440.]), array([ 720., 1440.]), array([5760., 5880., 6000., 6240., 6480., 7200.]), array([5760., 5880., 6000., 6240., 6480., 7200.]), array([5760., 5880., 6120., 6300., 6480., 7200.]), array([5760., 5880., 6120., 6300., 6480., 7200.]), array([5760., 5880., 6120., 6300., 6480., 7200.])]
+	y_references: [array([0.116, 0.166, 0.169, 0.135, 0.126, 0.121]), array([0.184, 0.224, 0.238, 0.195, 0.171, 0.169]), array([0.122207, 0.09825 , 0.072948, 0.049529, 0.015074]), array([0.166891, 0.156662, 0.117093, 0.086945, 0.065949]), array([0.204038, 0.188964, 0.169044, 0.14751 , 0.117362]), array([0.1023  , 0.061705, 0.035183, 0.018674, 0.      ]), array([0.130717, 0.0977  , 0.076319, 0.03843 , 0.022733]), array([0.138836, 0.107172, 0.079296, 0.053857, 0.024087]), array([0.166712, 0.134235, 0.109066, 0.066576, 0.045467]), array([0.21903193, 0.18562611, 0.14181433, 0.10830047, 0.01941413]), array([0.28430532, 0.25513245, 0.23814955, 0.1974196 , 0.14217903]), array([0.19930844, 0.14583446, 0.09375169, 0.10208547, 0.01041385]), array([0.148, 0.053]), array([0.25 , 0.189]), array([0.088, 0.16 , 0.155, 0.128, 0.131, 0.099]), array([0.047, 0.188, 0.188, 0.167, 0.134, 0.046]), array([0.116, 0.134, 0.138, 0.113, 0.122, 0.094]), array([0.06 , 0.222, 0.172, 0.123, 0.099, 0.028]), array([0.101, 0.191, 0.15 , 0.097, 0.084, 0.098])]
+	y_errors: [array([0.08 , 0.06 , 0.066, 0.07 , 0.064, 0.086]), array([0.069, 0.052, 0.051, 0.057, 0.053, 0.072]), array([0.04213199, 0.02648399, 0.02889223, 0.04153049, 0.03129824]), array([0.04875523, 0.02527875, 0.02467725, 0.03250348, 0.03009524]), array([0.05477472, 0.05597773, 0.04694848, 0.04213199, 0.05176274]), array([0.0357033 , 0.02783681, 0.02239198, 0.03812496, 0.02723307]), array([0.04296605, 0.05749154, 0.03812496, 0.02844278, 0.04115036]), array([0.0357033 , 0.04236231, 0.04417576, 0.02420767, 0.03268013]), array([0.04962282, 0.04296828, 0.03812496, 0.03207416, 0.03146818]), None, None, None, array([0.079, 0.056]), array([0.03 , 0.038]), array([0.078, 0.049, 0.04 , 0.065, 0.04 , 0.062]), array([0.038, 0.035, 0.028, 0.048, 0.047, 0.048]), array([0.047, 0.048, 0.052, 0.054, 0.056, 0.056]), array([0.057, 0.037, 0.046, 0.053, 0.067, 0.057]), array([0.07 , 0.045, 0.05 , 0.054, 0.062, 0.055])]
+	y_errors_type: ['SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD']
+	weights: [array([2.41666667, 4.61111111, 4.26767677, 3.21428571, 3.28125   ,
+       2.34496124]), array([4.44444444, 7.17948718, 7.77777778, 5.70175439, 5.37735849,
+       3.91203704]), array([2.90057488, 3.70978856, 2.52483069, 1.19259367, 0.48162447]), array([3.42303817, 6.19737959, 4.74497839, 2.67494401, 2.1913433 ]), array([3.7250395 , 3.37569984, 3.6006275 , 3.50113987, 2.26730667]), array([2.86528157, 2.2166692 , 1.57123187, 0.48981036, 0.        ]), array([3.04233253, 1.69938035, 2.00181199, 1.35113353, 0.55243746]), array([3.88860442, 2.5298905 , 1.79501161, 2.22479056, 0.73705329]), array([3.35958332, 3.12404855, 2.86075062, 2.07568965, 1.44485615]), array([5.2, 5.2, 5.2, 5.2, 5.2]), array([1.6, 1.6, 1.6, 1.6, 1.6]), array([4.8, 4.8, 4.8, 4.8, 4.8]), array([5.62025316, 2.83928571]), array([25.        , 14.92105263]), array([2.25641026, 6.53061224, 7.75      , 3.93846154, 6.55      ,
+       3.19354839]), array([ 2.47368421, 10.74285714, 13.42857143,  6.95833333,  5.70212766,
+        1.91666667]), array([4.93617021, 5.58333333, 5.30769231, 4.18518519, 4.35714286,
+       3.35714286]), array([ 2.10526316, 12.        ,  7.47826087,  4.64150943,  2.95522388,
+        0.98245614]), array([2.88571429, 8.48888889, 6.        , 3.59259259, 2.70967742,
+       3.56363636])]
+	weights_points: [array([1.45      , 2.76666667, 2.56060606, 1.92857143, 1.96875   ,
+       1.40697674]), array([2.66666667, 4.30769231, 4.66666667, 3.42105263, 3.22641509,
+       2.34722222]), array([2.90057488, 3.70978856, 2.52483069, 1.19259367, 0.48162447]), array([3.42303817, 6.19737959, 4.74497839, 2.67494401, 2.1913433 ]), array([3.7250395 , 3.37569984, 3.6006275 , 3.50113987, 2.26730667]), array([2.86528157, 2.2166692 , 1.57123187, 0.48981036, 0.        ]), array([3.04233253, 1.69938035, 2.00181199, 1.35113353, 0.55243746]), array([3.88860442, 2.5298905 , 1.79501161, 2.22479056, 0.73705329]), array([3.35958332, 3.12404855, 2.86075062, 2.07568965, 1.44485615]), array([2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2.]), array([1.87341772, 0.94642857]), array([8.33333333, 4.97368421]), array([1.12820513, 3.26530612, 3.875     , 1.96923077, 3.275     ,
+       1.59677419]), array([1.23684211, 5.37142857, 6.71428571, 3.47916667, 2.85106383,
+       0.95833333]), array([2.46808511, 2.79166667, 2.65384615, 2.09259259, 2.17857143,
+       1.67857143]), array([1.05263158, 6.        , 3.73913043, 2.32075472, 1.47761194,
+       0.49122807]), array([1.44285714, 4.24444444, 3.        , 1.7962963 , 1.35483871,
+       1.78181818])]
+	weights_curves: [1.6666666666666667, 1.6666666666666667, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.6, 0.8, 2.4, 3.0, 3.0, 2.0, 2.0, 2.0, 2.0, 2.0]
+--------------------------------------------------------------------------------
+Parameter sets: ['PD_20261017_193512__e995e_0']
+--------------------------------------------------------------------------------
+ parameter          unit  PD_20261017_193512__e995e_0
+HRred_Emax dimensionless                     0.285016
+HRred_EC50            mM                     0.000122
+
+PD_20261017_193512__e995e_0: cost = 5.25832
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Metrics: PD_20261017_193512__e995e_0
+--------------------------------------------------------------------------------
+              parameter_set       kind  n  k     cost      MSE     RMSE    NRMSE   RMSE_w       R2  within_2fold         AIC         BIC
+PD_20261017_193512__e995e_0   training 81  2 5.258321 0.000635 0.025205 0.228116 0.360326 0.833686     90.000000 -592.273797 -587.484898
+PD_20261017_193512__e995e_0 validation 15  2      NaN 0.001177 0.034303 0.286595 0.598158 0.677197     73.333333  -97.175551  -95.759451
+
+     experiment        mapping       kind  n      MSE     RMSE    NRMSE   RMSE_w        R2  within_2fold
+  Blomqvist1988   fm_hrred_100   training  6 0.000802 0.028319 0.203979 0.384507 -0.804324    100.000000
+  Blomqvist1988   fm_hrred_200   training  6 0.001507 0.038824 0.197244 0.485828 -1.237015    100.000000
+   Johnsson1975  fm_hrr_oral20   training  5 0.000489 0.022122 0.308957 0.316444  0.648206     80.000000
+   Johnsson1975  fm_hrr_oral50   training  5 0.001026 0.032034 0.269859 0.485441  0.321032    100.000000
+   Johnsson1975 fm_hrr_oral100   training  5 0.000904 0.030065 0.181789 0.319979  0.036176    100.000000
+   Johnsson1975     fm_hrr_iv5   training  5 0.000300 0.017316 0.397407 0.421027  0.764518    100.000000
+   Johnsson1975    fm_hrr_iv10   training  5 0.000233 0.015249 0.208371 0.208386  0.848503     80.000000
+   Johnsson1975    fm_hrr_iv15   training  5 0.000776 0.027856 0.345394 0.443810  0.515521     80.000000
+   Johnsson1975    fm_hrr_iv20   training  5 0.000591 0.024316 0.232887 0.327416  0.695174    100.000000
+Kirchheiner2004    fm_hrred_em   training  5 0.000180 0.013420 0.099524 0.226949  0.962078     80.000000
+Kirchheiner2004    fm_hrred_pm   training  5 0.000924 0.030397 0.136042 0.172082  0.621501    100.000000
+Kirchheiner2004    fm_hrred_um validation  5 0.000710 0.026653 0.241684 0.529502  0.817892     80.000000
+    Lennard1982    fm_hrred_em validation  2 0.001236 0.035163 0.349882 0.682650  0.451991     50.000000
+    Lennard1982    fm_hrred_pm validation  2 0.001134 0.033669 0.153391 0.598951 -0.218625    100.000000
+ Oosterhuis1988   fm_hr_100_cr   training  6 0.000339 0.018403 0.145092 0.357410  0.515613    100.000000
+ Oosterhuis1988   fm_hr_100_sr   training  6 0.000366 0.019133 0.149091 0.373199  0.900346     66.666667
+   Sandberg1988   fm_hr_100_cr   training  6 0.000357 0.018898 0.158143 0.338154 -0.695937    100.000000
+   Sandberg1988   fm_hr_100_ir   training  6 0.000686 0.026195 0.223256 0.342645  0.839043     66.666667
+   Sandberg1988    fm_hr_50_ir validation  6 0.001560 0.039494 0.328660 0.621225 -0.086845     66.666667
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Optimization results: PD_20261017_193512__e995e
+--------------------------------------------------------------------------------
+   run  success   duration      cost  HRred_Emax  HRred_EC50                                message                                              x               x0
+0    1     True  29.816155  5.258321    0.285016    0.000122  Optimization terminated successfully.    [0.285016435425259, 0.00012164831194081947]  [0.35, 0.00015]
+1    0     True  42.219563  5.258321    0.285016    0.000122  Optimization terminated successfully.  [0.28501623968111667, 0.00012164816391940803]  [0.35, 0.00015]
+2    2     True  35.669575  5.258321    0.285016    0.000122  Optimization terminated successfully.   [0.2850159559800427, 0.00012164770175375945]  [0.35, 0.00015]
+--------------------------------------------------------------------------------
+Optimal parameters:
+	'HRred_Emax': Q(0.285016435425259, 'dimensionless'),  # [0.05 - 0.8]
+	'HRred_EC50': Q(0.00012164831194081947, 'mmol/l'),  # [5e-06 - 0.005]
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Identifiability 'PD_20261017_193512__e995e'
+--------------------------------------------------------------------------------
+parameter set: PD_20261017_193512__e995e_0
+cost: 5.25832
+cost_min: 5.25832
+alpha: 0.95
+degrees of freedom: 1
+threshold: 7.17905
+reoptimize: True
+duration: 17.6 s
+
+ parameter    value          unit  lower_bound  upper_bound  ci_lower  ci_upper identifiability  n_points  cost_min  converged
+HRred_Emax 0.285016 dimensionless     0.050000        0.800  0.214819  0.400374    identifiable        17  5.258321       True
+HRred_EC50 0.000122            mM     0.000005        0.005  0.000062  0.000234    identifiable        17  5.258321       True
+--------------------------------------------------------------------------------

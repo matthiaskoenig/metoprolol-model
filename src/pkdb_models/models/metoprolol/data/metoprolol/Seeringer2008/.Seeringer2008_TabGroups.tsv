@@ -1,0 +1,30 @@
+study	name	parent	group_count	measurement	choice	count	mean	median	min	max	sd	unit	comment
+Seeringer2008	all	NA	29	species	homo sapiens	29	NA	NA	NA	NA	NA	NA	NA
+Seeringer2008	all	NA	29	healthy	Y	29	NA	NA	NA	NA	NA	NA	NA
+Seeringer2008	all	NA	29	sex	NR	29	NA	NA	NA	NA	NA	NA	NA
+Seeringer2008	um	all	12	cyp2d6 phenotype	um	12	NA	NA	NA	NA	NA	NA	NA
+Seeringer2008	um	all	12	weight	NA	12	NA	76.0	70.0	80.0	NA	kg	information from Kirchheiner2004
+Seeringer2008	um	all	12	age	NA	12	NA	28.0	25.0	37.0	NA	yr	NA
+Seeringer2008	um	all	12	bmi	NA	12	NA	22.3	21.0	26.8	NA	kg/m^2	NA
+Seeringer2008	em	all	13	cyp2d6 phenotype	em	13	NA	NA	NA	NA	NA	NA	NA
+Seeringer2008	em	all	13	weight	NA	13	NA	77.0	69.0	81.0	NA	kg	information from Kirchheiner2004
+Seeringer2008	em	all	13	age	NA	13	NA	28.0	23.0	34.0	NA	yr	NA
+Seeringer2008	em	all	13	bmi	NA	13	NA	22.4	21.7	24.5	NA	kg/m^2	NA
+Seeringer2008	pm	all	4	cyp2d6 phenotype	pm	4	NA	NA	NA	NA	NA	NA	NA
+Seeringer2008	pm	all	4	weight	NA	4	NA	90.0	77.0	101.0	NA	kg	information from Kirchheiner2004
+Seeringer2008	pm	all	4	age	NA	4	NA	37.5	28.5	40.0	NA	yr	information from Kirchheiner2004
+Seeringer2008	pm	all	4	bmi	NA	4	NA	26.3	24.1	28.4	NA	kg/m^2	information from Kirchheiner2004
+Seeringer2008	AG_0	all	4	cyp2d6 activity score	NA	4	0.0	NA	NA	NA	NA	dimensionless	information from Kirchheiner2004
+Seeringer2008	AG_1.5	all	5	cyp2d6 activity score	NA	5	1.5	NA	NA	NA	NA	dimensionless	information from Kirchheiner2004
+Seeringer2008	AG_2	all	8	cyp2d6 activity score	NA	8	2.0	NA	NA	NA	NA	dimensionless	NA
+Seeringer2008	AG_2.5	all	4	cyp2d6 activity score	NA	4	2.5	NA	NA	NA	NA	dimensionless	NA
+Seeringer2008	AG_3	all	8	cyp2d6 activity score	NA	8	3.0	NA	NA	NA	NA	dimensionless	NA
+Seeringer2008	all	NA	29	sex	M	28	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	sex	F	1	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	smoking	N	29	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	ethnicity	caucasian	29	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	abstinence medication	NA	29	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	oral contraceptives	N	29	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	cardiac function test	normal	29	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	kidney function test	normal	29	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004
+Seeringer2008	all	NA	29	liver function test	normal	29	NA	NA	NA	NA	NA	NA	information from Kirchheiner2004

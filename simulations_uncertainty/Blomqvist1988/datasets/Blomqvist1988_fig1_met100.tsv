@@ -1,0 +1,11 @@
+study	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	0	72	hr	68.288	47.759	64.9183980855967	20.529			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	1	73	hr	86.692	63.288	74.0099463585807	23.404			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	2	74	hr	108.108	80.59	87.0195566525135	27.518			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	3	75	hr	118.748	89.955	91.0514606692282	28.793			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	4	76	hr	128.998	95.638	105.493582743217	33.36			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	6	78	hr	127.19	89.884	117.971930390242	37.306			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	8	80	hr	115.329	79.201	114.246767306563	36.128			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	10	82	hr	101.18	72.213	91.6016969820975	28.967			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	12	84	hr	103.582	76.858	84.5087081903398	26.724			Fig1_MET100	nmol/l
+Blomqvist1988	all	MET100	concentration	metoprolol	plasma	24	96	hr	76.042	49.596	83.629595000813	26.446			Fig1_MET100	nmol/l

@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	0.25	hr	2.8498040713382332e-05	8.4368	2.8526575592529826e-06	1.2757472438036586e-06			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	0.5	hr	0.00010999305697060177						Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	1.0	hr	0.00017422860698917508	60.126	8.487741274502094e-05	3.7958332930434826e-05			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	1.5	hr	0.000170452536309037	58.824	8.304666155899985e-05	3.713959611006844e-05			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	2.0	hr	0.00018070439175371097	62.362	8.804177147603215e-05	3.9373477175981905e-05			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	3.0	hr	0.00018202778101076872	60.126	6.743792946438732e-05	3.0159158908841205e-05			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	4.0	hr	0.00015502005305273434	49.731	4.5800344326153136e-05	2.0482536661235007e-05			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	6.0	hr	0.00013493982672564488	42.975	3.738835827314147e-05	1.6720582133172205e-05			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	8.0	hr	0.00013298473966321826	42.975	4.176006584665786e-05	1.8675669195598837e-05			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	12.0	hr	9.164558831075326e-05	27.732	1.3912130779980678e-05	6.221694027180791e-06			Fig2_gen1010	mole/meter^3	dimensionless
+Jin2008	genotype1010	5	metoprolol	concentration	alpha-hydroxymetoprolol	plasma	24.0	hr	3.6525543494793644e-05	12.154	1.4235668705096504e-05	6.366384585952439e-06			Fig2_gen1010	mole/meter^3	dimensionless

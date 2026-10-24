@@ -1,0 +1,20 @@
+study	name	parent	group_count	measurement	substance	choice	count	mean	min	max	sd	unit
+Lennard1982	all 	NA	12	species	NA	homo sapiens 	12	NA	NA	NA	NA	NA
+Lennard1982	all 	NA	12	sex	NA	M	12	NA	NA	NA	NA	NA
+Lennard1982	all 	NA	12	healthy	NA	Y	4	NA	NA	NA	NA	NA
+Lennard1982	all 	NA	12	healthy	NA	N	8	NA	NA	NA	NA	NA
+Lennard1982	all 	NA	12	medication	NA	N	12	NA	NA	NA	NA	NA
+Lennard1982	all 	NA	12	liver function test	NA	normal	12	NA	NA	NA	NA	NA
+Lennard1982	all 	NA	12	kidney function test	NA	normal	12	NA	NA	NA	NA	NA
+Lennard1982	DEB_em	all	6	metabolic phenotype	debrisoquine	em	6	NA	NA	NA	NA	NA
+Lennard1982	DEB_pm	all	6	metabolic phenotype	debrisoquine	pm	6	NA	NA	NA	NA	NA
+Lennard1982	DEB_em healthy	DEB_em	2	healthy	NA	Y	2	NA	NA	NA	NA	NA
+Lennard1982	DEB_em hyper	DEB_em	4	healthy	NA	N	4	NA	NA	NA	NA	NA
+Lennard1982	DEB_em hyper	DEB_em	4	disease	NA	hypertension	4	NA	NA	NA	NA	NA
+Lennard1982	DEB_em hyper	DEB_em	4	blood pressure (categorical)	NA	elevated	4	NA	NA	NA	NA	NA
+Lennard1982	DEB_em hyper	DEB_em	4	abstinence	atenolol	NA	4	NA	72.0	NA	NA	hr
+Lennard1982	DEB_pm healthy	DEB_pm	2	healthy	NA	Y	2	NA	NA	NA	NA	NA
+Lennard1982	DEB_pm hyper	DEB_pm	4	healthy	NA	N	4	NA	NA	NA	NA	NA
+Lennard1982	DEB_pm hyper	DEB_pm	4	disease	NA	hypertension	4	NA	NA	NA	NA	NA
+Lennard1982	DEB_pm hyper	DEB_pm	4	blood pressure (categorical)	NA	elevated	4	NA	NA	NA	NA	NA
+Lennard1982	DEB_pm hyper	DEB_pm	4	abstinence	atenolol	NA	4	NA	72.0	NA	NA	hr

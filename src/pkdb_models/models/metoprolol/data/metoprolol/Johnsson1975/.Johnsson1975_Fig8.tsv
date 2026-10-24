@@ -1,0 +1,8 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	sd	se	min	max	unit	label
+Johnsson1975	all	5	metoprolol_iv5	auc_inf	metoprolol	plasma	NA	NA	53.01	NA	NA	NA	NA	NA	ng/ml*hr	Fig8_metiv5
+Johnsson1975	all	5	metoprolol_iv10	auc_inf	metoprolol	plasma	NA	NA	138.74	NA	NA	NA	NA	NA	ng/ml*hr	Fig8_metiv10
+Johnsson1975	all	5	metoprolol_iv15	auc_inf	metoprolol	plasma	NA	NA	207.12	NA	NA	NA	NA	NA	ng/ml*hr	Fig8_metiv15
+Johnsson1975	all	5	metoprolol_iv20	auc_inf	metoprolol	plasma	NA	NA	273.48	NA	NA	NA	NA	NA	ng/ml*hr	Fig8_metiv20
+Johnsson1975	all	5	metoprolol_oral20	auc_inf	metoprolol	plasma	NA	NA	79.29	93.97	32.8254779096969	14.679999999999993	NA	NA	ng/ml*hr	Fig8_metoral50
+Johnsson1975	all	5	metoprolol_oral50	auc_inf	metoprolol	plasma	NA	NA	314.68	354.05	88.03399627416674	39.370000000000005	NA	NA	ng/ml*hr	Fig8_metoral50
+Johnsson1975	all	5	metoprolol_oral100	auc_inf	metoprolol	plasma	NA	NA	656.73	728.81	161.17577981818468	72.07999999999993	NA	NA	ng/ml*hr	Fig8_metoral100

@@ -1,0 +1,9 @@
+study	name	substance	measurement	application	route	form	value	unit	time	time_unit	comments
+Cerqueira2005	DEB	debrisoquine	dosing	single dose	oral	NR	10	mg	0	hr	NA
+Cerqueira2005	MET_1	metoprolol tartrate	dosing	single dose	oral	tablet	200	mg	0	hr	racemic metoprolol, 2 tablets of 100 mg
+Cerqueira2005	MET_2	metoprolol tartrate	dosing	single dose	oral	tablet	200	mg	24	hr	racemic metoprolol, 2 tablets of 100 mg
+Cerqueira2005	MET_3	metoprolol tartrate	dosing	single dose	oral	tablet	200	mg	48	hr	racemic metoprolol, 2 tablets of 100 mg
+Cerqueira2005	MET_4	metoprolol tartrate	dosing	single dose	oral	tablet	200	mg	72	hr	racemic metoprolol, 2 tablets of 100 mg
+Cerqueira2005	MET_5	metoprolol tartrate	dosing	single dose	oral	tablet	200	mg	96	hr	racemic metoprolol, 2 tablets of 100 mg
+Cerqueira2005	MET_6	metoprolol tartrate	dosing	single dose	oral	tablet	200	mg	120	hr	racemic metoprolol, 2 tablets of 100 mg
+Cerqueira2005	MET_7	metoprolol tartrate	dosing	single dose	oral	tablet	200	mg	144	hr	racemic metoprolol, 2 tablets of 100 mg

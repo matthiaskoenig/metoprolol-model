@@ -1,0 +1,17 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	comment	mean_unit
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	1.3660666666666668	hr	1.0141647196261685e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	2.3394666666666666	hr	2.2508761682242993e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	3.3139666666666665	hr	3.4577978971962622e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	4.259366666666667	hr	4.620035046728973e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	5.183866666666667	hr	5.529351635514019e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	6.323666666666667	hr	6.4839369158878515e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	7.222666666666667	hr	7.259345794392525e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	8.217566666666666	hr	7.960718457943927e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	9.185766666666666	hr	8.557973130841123e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	10.254066666666667	hr	8.977073598130844e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	11.199666666666666	hr	9.365946261682246e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	12.208966666666665	hr	9.710572429906544e-06						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	14.668366666666666	hr	1.0237149532710282e-05						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	24.01356666666667	hr	1.1479556074766355e-05						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	48.166666666666664	hr	1.204439252336449e-05						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_iv	recovery	metoh+mam	urine	72.16666666666667	hr	1.2145443925233646e-05						Fig6_rmiv	unclear if metoprolol is part of metoprolol metabolites	count*mole

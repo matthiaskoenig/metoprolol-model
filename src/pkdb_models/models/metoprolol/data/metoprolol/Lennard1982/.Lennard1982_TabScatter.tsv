@@ -1,0 +1,9 @@
+study	name_data	image	name_subset	dimensions	data_type	shared
+Lennard1982	Fig2A	Fig2	em_thalf	Fig2A_em_deb, Fig2_em_thalf	scatter	individual
+Lennard1982	Fig2A	Fig2	pm_thalf	Fig2A_pm_deb, Fig2_pm_thalf	scatter	individual
+Lennard1982	Fig2B	Fig2	em_aucinf	Fig2B_em_deb, Fig2_em_auc	scatter	individual
+Lennard1982	Fig2B	Fig2	pm_aucinf	Fig2B_pm_deb, Fig2_pm_auc	scatter	individual
+Lennard1982	Fig2C	Fig2	em_deb	Fig2C_em_deb, Fig2_em_met	scatter	individual
+Lennard1982	Fig2C	Fig2	pm_deb	Fig2C_pm_deb, Fig2_pm_met	scatter	individual
+Lennard1982	Fig2D	Fig2	em_beta	Fig2D_em_deb, Fig2_em_beta	scatter	individual
+Lennard1982	Fig2D	Fig2	pm_beta	Fig2D_pm_deb, Fig2_pm_beta	scatter	individual

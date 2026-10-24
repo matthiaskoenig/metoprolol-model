@@ -1,0 +1,20 @@
+study	name	parent	group_count	measurement	substance	choice	count	mean	min	max	sd	unit	comments
+Cerqueira2005	all	NA	13	species	NA	homo sapiens	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	sex	NA	M	8	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	sex	NA	F	5	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	healthy	NA	Y	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	fasting	NA	Y	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	ethnicity	NA	caucasian	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	disease	NA	hypertension	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	blood pressure (categorical)	NA	elevated	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	metabolic phenotype	debrisoquine	em	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	cardiac function test	NA	normal	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	all	NA	13	pregnant	NA	N	13	NA	NA	NA	NA	NA	NA
+Cerqueira2005	crf	all	6	kidney function test	NA	decreased	6	NA	NA	NA	NA	NA	NA
+Cerqueira2005	control	all	7	kidney function test	NA	normal	7	NA	NA	NA	NA	NA	NA
+Cerqueira2005	crf	all	6	age	NA	NA	6	56.1666666666667	51.0	63.0	NA	yr	NA
+Cerqueira2005	control	all	7	age	NA	NA	7	50.1428571428571	42.0	64.0	NA	yr	NA
+Cerqueira2005	crf	all	6	weight	NA	NA	6	87.0166666666667	78.8	102.0	NA	kg	NA
+Cerqueira2005	control	all	7	weight	NA	NA	7	88.5	72.5	107.0	NA	kg	NA
+Cerqueira2005	crf	all	6	height	NA	NA	6	1.644	1.59	1.72	NA	m	NA
+Cerqueira2005	control	all	7	height	NA	NA	7	1.68571428571429	1.56	1.87	NA	m	NA

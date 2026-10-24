@@ -1,0 +1,17 @@
+{
+  "sets": [
+    {
+      "sid": "PD_20261017_193512__e995e_0",
+      "values": {
+        "HRred_Emax": 0.285016435425259,
+        "HRred_EC50": 0.00012164831194081947
+      },
+      "units": {
+        "HRred_Emax": "dimensionless",
+        "HRred_EC50": "mmol/l"
+      },
+      "cost": 5.258321309689695,
+      "provenance": "optimization 'PD_20261017_193512__e995e', run '1'"
+    }
+  ]
+}

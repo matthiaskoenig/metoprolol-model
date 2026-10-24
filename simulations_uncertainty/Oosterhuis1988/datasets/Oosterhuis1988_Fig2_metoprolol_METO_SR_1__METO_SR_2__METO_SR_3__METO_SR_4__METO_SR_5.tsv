@@ -1,0 +1,13 @@
+study	count	group	intervention	measurement	substance	tissue	relative_time	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	0	96	hr	18.6488						Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	1	97	hr	150.57225	170.30626	68.3606159141446	19.73401			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	2	98	hr	174.9154	197.41344	77.9354967014338	22.49804			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	3	99	hr	161.99492	186.62105	85.3074167075923	24.62613			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	4	100	hr	180.01598	207.06155	93.6886027193212	27.04557			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	6	102	hr	151.01395	176.36363	87.8138674312253	25.34968			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	8	104	hr	158.575	185.66571	93.8449722662285	27.09071			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	10	106	hr	119.733444	144.08092	84.3421309361277	24.347476			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	12	108	hr	89.33028	71.977066	60.1132966452311	17.353214			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	16	112	hr	43.633495	53.0301	32.5507945573115	9.39660499999999			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	20	116	hr	24.653002	31.977873	25.3740974617757	7.324871			Fig2_SR	nmol/l	dimensionless
+Oosterhuis1988	12	all	METO_SR_1, METO_SR_2, METO_SR_3, METO_SR_4, METO_SR_5	concentration	metoprolol	plasma	24	120	hr	15.863526	22.50217	22.9969374027246	6.638644			Fig2_SR	nmol/l	dimensionless

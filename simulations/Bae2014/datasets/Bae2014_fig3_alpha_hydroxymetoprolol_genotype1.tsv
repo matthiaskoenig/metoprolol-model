@@ -1,0 +1,14 @@
+study	group	count	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_se	mean_sd	min	max	label	mean_unit	count_unit
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	0.28535753	hr	3.466592396885215e-05	15.180358	9.453057689113915e-06	1.8906150668608014e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	0.5883682	hr	0.0002494964945006648	91.613335	3.690526798561875e-05	7.38105359712375e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	1.0	hr	0.0002812118709498554	97.58889	3.159152485992012e-05	6.318319088136102e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	1.5	hr	0.0002657887925798729	81.29537	1.0552847097299178e-05	2.110565890421817e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	2.0	hr	0.00022511974908257364	71.895706	1.4301461861650839e-05	2.8602923723301678e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	3.0	hr	0.00016751125957225094	52.441956	8.779187879420111e-06	1.755841104922041e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	4.0	hr	0.0001466851604727697	51.413925	1.737825365835962e-05	3.475654260709942e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	5.0	hr	0.00011358803153576606	38.38497	1.0936982885647805e-05	2.1874001061675796e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	6.0	hr	0.00011322747325042118	40.62125	1.5063240008393464e-05	3.0126480016786928e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	8.0	hr	8.287657111890339e-05	28.47538	8.807067279768795e-06	1.761413455953759e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	10.0	hr	6.591485334694318e-05	23.568968	8.63047421730701e-06	1.726094843461402e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	12.0	hr	4.808591683031404e-05	17.136665	6.195014499758508e-06	1.2390028999517016e-05			Fig3_hmt1	mole/meter^3	dimensionless
+Bae2014	genotype1	4.0	met	concentration	alpha-hydroxymetoprolol	plasma	24.0	hr	1.367240130639341e-05	4.792288	1.619881386208957e-06	3.239766301455933e-06			Fig3_hmt1	mole/meter^3	dimensionless

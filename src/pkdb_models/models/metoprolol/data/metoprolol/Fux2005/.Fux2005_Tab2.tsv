@@ -1,0 +1,22 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	median	sd	se	min	max	unit	label	comment
+Fux2005	um	MET	concentration_ss	metoprolol	plasma	NR	NR	NA	1.27	NA	NA	0.51	1.76	ng/ml	NA	data is median and range
+Fux2005	em_em	MET	concentration_ss	metoprolol	plasma	NR	NR	NA	3.65	NA	NA	0.54	44.0	ng/ml	NA	data is median and range
+Fux2005	em_im	MET	concentration_ss	metoprolol	plasma	NR	NR	NA	4.28	NA	NA	0.36	161.0	ng/ml	NA	data is median and range
+Fux2005	em_pm	MET	concentration_ss	metoprolol	plasma	NR	NR	NA	14.2	NA	NA	0.26	65.7	ng/ml	NA	data is median and range
+Fux2005	im_im	MET	concentration_ss	metoprolol	plasma	NR	NR	NA	27.0	NA	NA	4.7	208.0	ng/ml	NA	data is median and range
+Fux2005	im_pm	MET	concentration_ss	metoprolol	plasma	NR	NR	NA	74.6	NA	NA	7.48	374.0	ng/ml	NA	data is median and range
+Fux2005	pm	MET	concentration_ss	metoprolol	plasma	NR	NR	NA	80.5	NA	NA	47.3	219.0	ng/ml	NA	data is median and range
+Fux2005	um	MET	concentration_ss per dose	metoprolol	plasma	NR	NR	NA	0.0088	NA	NA	0.0067	0.013	ng/ml/mg	NA	data is median and range
+Fux2005	em_em	MET	concentration_ss per dose	metoprolol	plasma	NR	NR	NA	0.037	NA	NA	0.0054	0.29	ng/ml/mg	NA	data is median and range
+Fux2005	em_im	MET	concentration_ss per dose	metoprolol	plasma	NR	NR	NA	0.071	NA	NA	0.0036	1.79	ng/ml/mg	NA	data is median and range
+Fux2005	em_pm	MET	concentration_ss per dose	metoprolol	plasma	NR	NR	NA	0.122	NA	NA	0.0026	0.993	ng/ml/mg	NA	data is median and range
+Fux2005	im_im	MET	concentration_ss per dose	metoprolol	plasma	NR	NR	NA	0.27	NA	NA	0.108	2.87	ng/ml/mg	NA	data is median and range
+Fux2005	im_pm	MET	concentration_ss per dose	metoprolol	plasma	NR	NR	NA	0.784	NA	NA	0.15	2.75	ng/ml/mg	NA	data is median and range
+Fux2005	pm	MET	concentration_ss per dose	metoprolol	plasma	NR	NR	NA	1.34	NA	NA	0.473	1.64	ng/ml/mg	NA	data is median and range
+Fux2005	um	MET	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	NR	NR	NA	0.07	NA	NA	0.04	0.11	dimensionless	NA	data is median and range
+Fux2005	em_em	MET	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	NR	NR	NA	0.22	NA	NA	0.1	1.37	dimensionless	NA	data is median and range
+Fux2005	em_im	MET	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	NR	NR	NA	0.53	NA	NA	0.09	4.09	dimensionless	NA	data is median and range
+Fux2005	em_pm	MET	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	NR	NR	NA	0.77	NA	NA	0.1	3.74	dimensionless	NA	data is median and range
+Fux2005	im_im	MET	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	NR	NR	NA	2.61	NA	NA	0.75	10.5	dimensionless	NA	data is median and range
+Fux2005	im_pm	MET	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	NR	NR	NA	4.68	NA	NA	2.23	13.1	dimensionless	NA	data is median and range
+Fux2005	pm	MET	metabolic ratio	metoprolol/alpha-hydroxymetoprolol	plasma	NR	NR	NA	244.0	NA	NA	62.3	285.0	dimensionless	NA	data is median and range

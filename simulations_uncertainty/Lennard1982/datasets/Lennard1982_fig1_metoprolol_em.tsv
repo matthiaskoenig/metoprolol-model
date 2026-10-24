@@ -1,0 +1,10 @@
+study	count	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit	count_unit
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	0.5	hr	6.899185432410967e-05	50.240227	0.00011891768201800137	4.854805775229076e-05			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	1.0	hr	0.0005543762184234718	322.31808	0.0006511648504282216	0.0002658368963294003			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	1.5	hr	0.0006820800142307897	315.832	0.0004991997050911203	0.00020379786443901147			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	2.0	hr	0.0007493292102143617	283.9744	0.0003127976046433187	0.000127698970923304			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	3.0	hr	0.0006610174879978205	268.69498	0.0003439607450428805	0.00014042132981732688			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	4.0	hr	0.0005018506609380458	219.28972	0.00031834098495107455	0.00012996217814563923			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	6.0	hr	0.00035111045640635007	150.45714	0.00021163250362034612	8.639871180833138e-05			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	8.0	hr	0.00018657994791668615	95.001434	0.0001687463911550675	6.889036719013043e-05			Fig1_em	mole/meter^3	dimensionless
+Lennard1982	6	DEB_em	MET	concentration	metoprolol	plasma	12.0	hr	9.761976876911673e-05	50.50107	9.126548628809105e-05	3.725891382360688e-05			Fig1_em	mole/meter^3	dimensionless

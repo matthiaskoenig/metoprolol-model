@@ -1,0 +1,8 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	comment	mean_unit
+Regardh1974	all	met_iv	recovery	metoprolol	urine	1.2988666666666668	hr	3.745619158878505e-07						Fig6_metiv		count*mole
+Regardh1974	all	met_iv	recovery	metoprolol	urine	3.3045666666666667	hr	6.174065420560749e-07						Fig6_metiv		count*mole
+Regardh1974	all	met_iv	recovery	metoprolol	urine	6.364966666666667	hr	8.481308411214955e-07						Fig6_metiv		count*mole
+Regardh1974	all	met_iv	recovery	metoprolol	urine	12.306466666666665	hr	1.145443925233645e-06						Fig6_metiv		count*mole
+Regardh1974	all	met_iv	recovery	metoprolol	urine	24.176466666666666	hr	1.2938084112149536e-06						Fig6_metiv		count*mole
+Regardh1974	all	met_iv	recovery	metoprolol	urine	48.166666666666664	hr	1.3529497663551405e-06						Fig6_metiv		count*mole
+Regardh1974	all	met_iv	recovery	metoprolol	urine	72.16666666666667	hr	1.3923773364485986e-06						Fig6_metiv		count*mole

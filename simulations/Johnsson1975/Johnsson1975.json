@@ -1,0 +1,6287 @@
+{
+  "experiment_id": "Johnsson1975",
+  "base_path": "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol",
+  "data_path": [
+    "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol/data/metoprolol"
+  ],
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol/models/output/models/metoprolol_body_flat.xml",
+        "path": "/home/mkoenig/git/metoprolol-model/src/pkdb_models/models/metoprolol/models/output/models/metoprolol_body_flat.xml",
+        "content": null
+      },
+      "base_path": null,
+      "changes": {},
+      "selections": [
+        "Afeces_met",
+        "Aurine_mam",
+        "Aurine_met",
+        "Aurine_metoh",
+        "BW",
+        "GUTDOSE_met",
+        "HR",
+        "HReff",
+        "HRred",
+        "IVDOSE_met",
+        "KI__GFR",
+        "KI__MAMEX",
+        "KI__METEX",
+        "KI__METOHEX",
+        "KI__f_renal_function",
+        "LI__f_cyp2d6",
+        "PODOSE_met",
+        "Ri_met",
+        "[Cve_met]",
+        "[Cveplasma_mam]",
+        "[Cveplasma_met]",
+        "[Cveplasma_metoh]",
+        "form_cr",
+        "form_sr",
+        "time"
+      ],
+      "parameters": {}
+    }
+  },
+  "tasks": {
+    "task_met_po20": {
+      "sid": "model__met_po20",
+      "name": null,
+      "model": "model",
+      "simulation": "met_po20",
+      "observables": []
+    },
+    "task_met_po50": {
+      "sid": "model__met_po50",
+      "name": null,
+      "model": "model",
+      "simulation": "met_po50",
+      "observables": []
+    },
+    "task_met_po100": {
+      "sid": "model__met_po100",
+      "name": null,
+      "model": "model",
+      "simulation": "met_po100",
+      "observables": []
+    },
+    "task_met_iv5": {
+      "sid": "model__met_iv5",
+      "name": null,
+      "model": "model",
+      "simulation": "met_iv5",
+      "observables": []
+    },
+    "task_met_iv10": {
+      "sid": "model__met_iv10",
+      "name": null,
+      "model": "model",
+      "simulation": "met_iv10",
+      "observables": []
+    },
+    "task_met_iv15": {
+      "sid": "model__met_iv15",
+      "name": null,
+      "model": "model",
+      "simulation": "met_iv15",
+      "observables": []
+    },
+    "task_met_iv20": {
+      "sid": "model__met_iv20",
+      "name": null,
+      "model": "model",
+      "simulation": "met_iv20",
+      "observables": []
+    }
+  },
+  "observables": {},
+  "simulations": {
+    "met_po20": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 66.0,
+          "unit": "kilogram"
+        },
+        "PODOSE_met": {
+          "value": 15.61705257009346,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_po50": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 66.0,
+          "unit": "kilogram"
+        },
+        "PODOSE_met": {
+          "value": 39.04263142523365,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_po100": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 66.0,
+          "unit": "kilogram"
+        },
+        "PODOSE_met": {
+          "value": 78.0852628504673,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_iv5": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 66.0,
+          "unit": "kilogram"
+        },
+        "Ri_met": {
+          "value": 0.3904263142523365,
+          "unit": "milligram / minute"
+        }
+      },
+      "changes": [
+        {
+          "times": [
+            {
+              "value": 10,
+              "unit": "minute"
+            }
+          ],
+          "values": {
+            "Ri_met": {
+              "value": 0,
+              "unit": "milligram / minute"
+            }
+          }
+        }
+      ],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_iv10": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 66.0,
+          "unit": "kilogram"
+        },
+        "Ri_met": {
+          "value": 0.780852628504673,
+          "unit": "milligram / minute"
+        }
+      },
+      "changes": [
+        {
+          "times": [
+            {
+              "value": 10,
+              "unit": "minute"
+            }
+          ],
+          "values": {
+            "Ri_met": {
+              "value": 0,
+              "unit": "milligram / minute"
+            }
+          }
+        }
+      ],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_iv15": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 66.0,
+          "unit": "kilogram"
+        },
+        "Ri_met": {
+          "value": 1.1712789427570094,
+          "unit": "milligram / minute"
+        }
+      },
+      "changes": [
+        {
+          "times": [
+            {
+              "value": 10,
+              "unit": "minute"
+            }
+          ],
+          "values": {
+            "Ri_met": {
+              "value": 0,
+              "unit": "milligram / minute"
+            }
+          }
+        }
+      ],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "met_iv20": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 24,
+      "preinit_changes": {
+        "form_sr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "form_cr": {
+          "value": 0.0,
+          "unit": "dimensionless"
+        },
+        "BW": {
+          "value": 66.0,
+          "unit": "kilogram"
+        },
+        "Ri_met": {
+          "value": 1.561705257009346,
+          "unit": "milligram / minute"
+        }
+      },
+      "changes": [
+        {
+          "times": [
+            {
+              "value": 10,
+              "unit": "minute"
+            }
+          ],
+          "values": {
+            "Ri_met": {
+              "value": 0,
+              "unit": "milligram / minute"
+            }
+          }
+        }
+      ],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    }
+  },
+  "data": {
+    "task_met_po20__time": {
+      "type": "TASK",
+      "sid": "task_met_po20__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po20__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_po20__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po20__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_po20__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_po20__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_po20__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_po20__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_po20__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__BW": {
+      "type": "TASK",
+      "sid": "task_met_po20__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_po20__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_po20__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_po20__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_po20__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_po20__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__HR": {
+      "type": "TASK",
+      "sid": "task_met_po20__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__HReff": {
+      "type": "TASK",
+      "sid": "task_met_po20__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po20__HRred": {
+      "type": "TASK",
+      "sid": "task_met_po20__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_po20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__time": {
+      "type": "TASK",
+      "sid": "task_met_po50__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po50__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_po50__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po50__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_po50__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_po50__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_po50__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_po50__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_po50__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__BW": {
+      "type": "TASK",
+      "sid": "task_met_po50__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_po50__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_po50__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_po50__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_po50__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_po50__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__HR": {
+      "type": "TASK",
+      "sid": "task_met_po50__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__HReff": {
+      "type": "TASK",
+      "sid": "task_met_po50__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po50__HRred": {
+      "type": "TASK",
+      "sid": "task_met_po50__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_po50",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__time": {
+      "type": "TASK",
+      "sid": "task_met_po100__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_po100__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_po100__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_po100__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_po100__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_po100__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_po100__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__BW": {
+      "type": "TASK",
+      "sid": "task_met_po100__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_po100__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_po100__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_po100__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_po100__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_po100__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__HR": {
+      "type": "TASK",
+      "sid": "task_met_po100__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__HReff": {
+      "type": "TASK",
+      "sid": "task_met_po100__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_po100__HRred": {
+      "type": "TASK",
+      "sid": "task_met_po100__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_po100",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__time": {
+      "type": "TASK",
+      "sid": "task_met_iv5__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv5__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv5__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv5__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv5__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_iv5__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_iv5__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_iv5__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_iv5__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__BW": {
+      "type": "TASK",
+      "sid": "task_met_iv5__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_iv5__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_iv5__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_iv5__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_iv5__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_iv5__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__HR": {
+      "type": "TASK",
+      "sid": "task_met_iv5__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__HReff": {
+      "type": "TASK",
+      "sid": "task_met_iv5__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv5__HRred": {
+      "type": "TASK",
+      "sid": "task_met_iv5__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_iv5",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__time": {
+      "type": "TASK",
+      "sid": "task_met_iv10__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv10__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv10__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv10__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv10__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_iv10__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_iv10__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_iv10__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_iv10__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__BW": {
+      "type": "TASK",
+      "sid": "task_met_iv10__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_iv10__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_iv10__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_iv10__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_iv10__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_iv10__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__HR": {
+      "type": "TASK",
+      "sid": "task_met_iv10__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__HReff": {
+      "type": "TASK",
+      "sid": "task_met_iv10__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv10__HRred": {
+      "type": "TASK",
+      "sid": "task_met_iv10__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_iv10",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__time": {
+      "type": "TASK",
+      "sid": "task_met_iv15__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv15__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv15__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv15__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv15__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_iv15__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_iv15__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_iv15__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_iv15__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__BW": {
+      "type": "TASK",
+      "sid": "task_met_iv15__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_iv15__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_iv15__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_iv15__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_iv15__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_iv15__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__HR": {
+      "type": "TASK",
+      "sid": "task_met_iv15__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__HReff": {
+      "type": "TASK",
+      "sid": "task_met_iv15__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv15__HRred": {
+      "type": "TASK",
+      "sid": "task_met_iv15__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_iv15",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__time": {
+      "type": "TASK",
+      "sid": "task_met_iv20__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__IVDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__IVDOSE_met",
+      "index": "IVDOSE_met",
+      "selection": "IVDOSE_met",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__PODOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__PODOSE_met",
+      "index": "PODOSE_met",
+      "selection": "PODOSE_met",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__GUTDOSE_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__GUTDOSE_met",
+      "index": "GUTDOSE_met",
+      "selection": "GUTDOSE_met",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__Ri_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__Ri_met",
+      "index": "Ri_met",
+      "selection": "Ri_met",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__conc__Cveplasma_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__conc__Cveplasma_met",
+      "index": "Cveplasma_met",
+      "selection": "[Cveplasma_met]",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__conc__Cveplasma_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv20__conc__Cveplasma_metoh",
+      "index": "Cveplasma_metoh",
+      "selection": "[Cveplasma_metoh]",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__conc__Cveplasma_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv20__conc__Cveplasma_mam",
+      "index": "Cveplasma_mam",
+      "selection": "[Cveplasma_mam]",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__conc__Cve_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__conc__Cve_met",
+      "index": "Cve_met",
+      "selection": "[Cve_met]",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__Aurine_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__Aurine_met",
+      "index": "Aurine_met",
+      "selection": "Aurine_met",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__Aurine_metoh": {
+      "type": "TASK",
+      "sid": "task_met_iv20__Aurine_metoh",
+      "index": "Aurine_metoh",
+      "selection": "Aurine_metoh",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__Aurine_mam": {
+      "type": "TASK",
+      "sid": "task_met_iv20__Aurine_mam",
+      "index": "Aurine_mam",
+      "selection": "Aurine_mam",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__Afeces_met": {
+      "type": "TASK",
+      "sid": "task_met_iv20__Afeces_met",
+      "index": "Afeces_met",
+      "selection": "Afeces_met",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__KI__METEX": {
+      "type": "TASK",
+      "sid": "task_met_iv20__KI__METEX",
+      "index": "KI__METEX",
+      "selection": "KI__METEX",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__KI__METOHEX": {
+      "type": "TASK",
+      "sid": "task_met_iv20__KI__METOHEX",
+      "index": "KI__METOHEX",
+      "selection": "KI__METOHEX",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__KI__MAMEX": {
+      "type": "TASK",
+      "sid": "task_met_iv20__KI__MAMEX",
+      "index": "KI__MAMEX",
+      "selection": "KI__MAMEX",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__BW": {
+      "type": "TASK",
+      "sid": "task_met_iv20__BW",
+      "index": "BW",
+      "selection": "BW",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_met_iv20__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_met_iv20__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__LI__f_cyp2d6": {
+      "type": "TASK",
+      "sid": "task_met_iv20__LI__f_cyp2d6",
+      "index": "LI__f_cyp2d6",
+      "selection": "LI__f_cyp2d6",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__form_sr": {
+      "type": "TASK",
+      "sid": "task_met_iv20__form_sr",
+      "index": "form_sr",
+      "selection": "form_sr",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__form_cr": {
+      "type": "TASK",
+      "sid": "task_met_iv20__form_cr",
+      "index": "form_cr",
+      "selection": "form_cr",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__HR": {
+      "type": "TASK",
+      "sid": "task_met_iv20__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__HReff": {
+      "type": "TASK",
+      "sid": "task_met_iv20__HReff",
+      "index": "HReff",
+      "selection": "HReff",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_met_iv20__HRred": {
+      "type": "TASK",
+      "sid": "task_met_iv20__HRred",
+      "index": "HRred",
+      "selection": "HRred",
+      "unit": null,
+      "task": "task_met_iv20",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    }
+  },
+  "figures": {
+    "fig1": {
+      "sid": "Fig1",
+      "name": "Johnsson1975 (metoprolol tartrate PO and IV)",
+      "num_rows": 3,
+      "num_cols": 2,
+      "width": null,
+      "height": null,
+      "settings": {},
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot0_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot0_yaxis",
+              "name": "metoprolol [\u00b5M]",
+              "label": "metoprolol",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot0_curve0",
+                "name": "20 mg oral\u00b1SD",
+                "x": "fig5_metoprolol_oral20__time",
+                "y": "fig5_metoprolol_oral20__mean",
+                "xerr": null,
+                "yerr": "fig5_metoprolol_oral20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#6baed6ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot0_curve1",
+                "name": "20 mg oral",
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot0_curve2",
+                "name": "50 mg oral\u00b1SD",
+                "x": "fig5_metoprolol_oral50__time",
+                "y": "fig5_metoprolol_oral50__mean",
+                "xerr": null,
+                "yerr": "fig5_metoprolol_oral50__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#3182bdff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot0_curve3",
+                "name": "50 mg oral",
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot0_curve4",
+                "name": "100 mg oral\u00b1SD",
+                "x": "fig5_metoprolol_oral100__time",
+                "y": "fig5_metoprolol_oral100__mean",
+                "xerr": null,
+                "yerr": "fig5_metoprolol_oral100__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#08519cff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot0_curve5",
+                "name": "100 mg oral",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot0_curve6",
+                "name": "5 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv5__time",
+                "y": "fig6_metoprolol_iv5__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv5__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fcae91ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig1__plot0_curve7",
+                "name": "5 mg iv",
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              },
+              {
+                "sid": "Fig1__plot0_curve8",
+                "name": "10 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv10__time",
+                "y": "fig6_metoprolol_iv10__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv10__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fb6a4aff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 8
+              },
+              {
+                "sid": "Fig1__plot0_curve9",
+                "name": "10 mg iv",
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 9
+              },
+              {
+                "sid": "Fig1__plot0_curve10",
+                "name": "15 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv15__time",
+                "y": "fig6_metoprolol_iv15__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv15__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#de2d26ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 10
+              },
+              {
+                "sid": "Fig1__plot0_curve11",
+                "name": "15 mg iv",
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 11
+              },
+              {
+                "sid": "Fig1__plot0_curve12",
+                "name": "20 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv20__time",
+                "y": "fig6_metoprolol_iv20__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#a50f15ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEDOWN",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 12
+              },
+              {
+                "sid": "Fig1__plot0_curve13",
+                "name": "20 mg iv",
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 13
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot1_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot1_yaxis",
+              "name": "$\\alpha$-OH metoprolol\n [\u00b5M]",
+              "label": "$\\alpha$-OH metoprolol\n",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot1_curve0",
+                "name": "20 mg oral",
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot1_curve1",
+                "name": "50 mg oral",
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot1_curve2",
+                "name": "100 mg oral",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot1_curve3",
+                "name": "5 mg iv",
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot1_curve4",
+                "name": "10 mg iv",
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot1_curve5",
+                "name": "15 mg iv",
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot1_curve6",
+                "name": "20 mg iv",
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__conc__Cveplasma_metoh",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot2",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot2_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot2_yaxis",
+              "name": "metoprolol acid [\u00b5M]",
+              "label": "metoprolol acid",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot2_curve0",
+                "name": "20 mg oral",
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot2_curve1",
+                "name": "50 mg oral",
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot2_curve2",
+                "name": "100 mg oral",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot2_curve3",
+                "name": "5 mg iv",
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot2_curve4",
+                "name": "10 mg iv",
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot2_curve5",
+                "name": "15 mg iv",
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot2_curve6",
+                "name": "20 mg iv",
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__conc__Cveplasma_mam",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 2,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot3",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot3_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": false,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot3_yaxis",
+              "name": "urinary excretion rate\n [\u00b5mole/min]",
+              "label": "urinary excretion rate\n",
+              "unit": "\u00b5mole/min",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot3_curve0",
+                "name": null,
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot3_curve1",
+                "name": null,
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot3_curve2",
+                "name": null,
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot3_curve3",
+                "name": null,
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot3_curve4",
+                "name": null,
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot3_curve5",
+                "name": null,
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot3_curve6",
+                "name": "100 mg oral met",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig1__plot3_curve7",
+                "name": "100 mg oral metoh",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              },
+              {
+                "sid": "Fig1__plot3_curve8",
+                "name": "100 mg oral mam",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 8
+              },
+              {
+                "sid": "Fig1__plot3_curve9",
+                "name": null,
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 9
+              },
+              {
+                "sid": "Fig1__plot3_curve10",
+                "name": null,
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 10
+              },
+              {
+                "sid": "Fig1__plot3_curve11",
+                "name": null,
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 11
+              },
+              {
+                "sid": "Fig1__plot3_curve12",
+                "name": null,
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 12
+              },
+              {
+                "sid": "Fig1__plot3_curve13",
+                "name": null,
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 13
+              },
+              {
+                "sid": "Fig1__plot3_curve14",
+                "name": null,
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 14
+              },
+              {
+                "sid": "Fig1__plot3_curve15",
+                "name": null,
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 15
+              },
+              {
+                "sid": "Fig1__plot3_curve16",
+                "name": null,
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 16
+              },
+              {
+                "sid": "Fig1__plot3_curve17",
+                "name": null,
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 17
+              },
+              {
+                "sid": "Fig1__plot3_curve18",
+                "name": null,
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__KI__METEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 18
+              },
+              {
+                "sid": "Fig1__plot3_curve19",
+                "name": null,
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__KI__METOHEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASHDOT",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 19
+              },
+              {
+                "sid": "Fig1__plot3_curve20",
+                "name": null,
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__KI__MAMEX",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DOT",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 20
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 2,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot4",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot4_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot4_yaxis",
+              "name": "heart rate [1/min]",
+              "label": "heart rate",
+              "unit": "1/min",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot4_curve0",
+                "name": "20 mg oral",
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot4_curve1",
+                "name": "50 mg oral",
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot4_curve2",
+                "name": "100 mg oral",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot4_curve3",
+                "name": "5 mg iv",
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot4_curve4",
+                "name": "10 mg iv",
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot4_curve5",
+                "name": "15 mg iv",
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot4_curve6",
+                "name": "20 mg iv",
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__HReff",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 3,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot5",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot5_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot5_yaxis",
+              "name": "HR reduction\n [percent]",
+              "label": "HR reduction\n",
+              "unit": "percent",
+              "scale": "LINEAR",
+              "min": 35,
+              "max": 0,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot5_curve0",
+                "name": "20 mg oral\u00b1SD",
+                "x": "fig2_metoprolol_oral20__time",
+                "y": "fig2_metoprolol_oral20__mean",
+                "xerr": null,
+                "yerr": "fig2_metoprolol_oral20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#6baed6ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot5_curve1",
+                "name": "20 mg oral",
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot5_curve2",
+                "name": "50 mg oral\u00b1SD",
+                "x": "fig2_metoprolol_oral50__time",
+                "y": "fig2_metoprolol_oral50__mean",
+                "xerr": null,
+                "yerr": "fig2_metoprolol_oral50__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#3182bdff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot5_curve3",
+                "name": "50 mg oral",
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot5_curve4",
+                "name": "100 mg oral\u00b1SD",
+                "x": "fig2_metoprolol_oral100__time",
+                "y": "fig2_metoprolol_oral100__mean",
+                "xerr": null,
+                "yerr": "fig2_metoprolol_oral100__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#08519cff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot5_curve5",
+                "name": "100 mg oral",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1__plot5_curve6",
+                "name": "5 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv5__time",
+                "y": "fig3_metoprolol_iv5__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv5__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fcae91ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig1__plot5_curve7",
+                "name": "5 mg iv",
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              },
+              {
+                "sid": "Fig1__plot5_curve8",
+                "name": "10 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv10__time",
+                "y": "fig3_metoprolol_iv10__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv10__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fb6a4aff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 8
+              },
+              {
+                "sid": "Fig1__plot5_curve9",
+                "name": "10 mg iv",
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 9
+              },
+              {
+                "sid": "Fig1__plot5_curve10",
+                "name": "15 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv15__time",
+                "y": "fig3_metoprolol_iv15__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv15__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#de2d26ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 10
+              },
+              {
+                "sid": "Fig1__plot5_curve11",
+                "name": "15 mg iv",
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 11
+              },
+              {
+                "sid": "Fig1__plot5_curve12",
+                "name": "20 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv20__time",
+                "y": "fig3_metoprolol_iv20__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#a50f15ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEDOWN",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 12
+              },
+              {
+                "sid": "Fig1__plot5_curve13",
+                "name": "20 mg iv",
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 13
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 3,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    },
+    "fig_po": {
+      "sid": "Fig2",
+      "name": "Johnsson1975 (oral)",
+      "num_rows": 1,
+      "num_cols": 2,
+      "width": null,
+      "height": null,
+      "settings": {},
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig2__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig2__plot0_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": 12,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig2__plot0_yaxis",
+              "name": "metoprolol [\u00b5M]",
+              "label": "metoprolol",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig2__plot0_curve0",
+                "name": "20 mg oral\u00b1SD",
+                "x": "fig5_metoprolol_oral20__time",
+                "y": "fig5_metoprolol_oral20__mean",
+                "xerr": null,
+                "yerr": "fig5_metoprolol_oral20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#6baed6ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig2__plot0_curve1",
+                "name": "20 mg oral",
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig2__plot0_curve2",
+                "name": "50 mg oral\u00b1SD",
+                "x": "fig5_metoprolol_oral50__time",
+                "y": "fig5_metoprolol_oral50__mean",
+                "xerr": null,
+                "yerr": "fig5_metoprolol_oral50__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#3182bdff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig2__plot0_curve3",
+                "name": "50 mg oral",
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig2__plot0_curve4",
+                "name": "100 mg oral\u00b1SD",
+                "x": "fig5_metoprolol_oral100__time",
+                "y": "fig5_metoprolol_oral100__mean",
+                "xerr": null,
+                "yerr": "fig5_metoprolol_oral100__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#08519cff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig2__plot0_curve5",
+                "name": "100 mg oral",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig2__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig2__plot1_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": 12,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig2__plot1_yaxis",
+              "name": "HR reduction\n [percent]",
+              "label": "HR reduction\n",
+              "unit": "percent",
+              "scale": "LINEAR",
+              "min": 35,
+              "max": 0,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig2__plot1_curve0",
+                "name": "20 mg oral\u00b1SD",
+                "x": "fig2_metoprolol_oral20__time",
+                "y": "fig2_metoprolol_oral20__mean",
+                "xerr": null,
+                "yerr": "fig2_metoprolol_oral20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#6baed6ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig2__plot1_curve1",
+                "name": "20 mg oral",
+                "x": "task_met_po20__time",
+                "y": "task_met_po20__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#6baed6ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#6baed6ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#6baed6ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig2__plot1_curve2",
+                "name": "50 mg oral\u00b1SD",
+                "x": "fig2_metoprolol_oral50__time",
+                "y": "fig2_metoprolol_oral50__mean",
+                "xerr": null,
+                "yerr": "fig2_metoprolol_oral50__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#3182bdff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig2__plot1_curve3",
+                "name": "50 mg oral",
+                "x": "task_met_po50__time",
+                "y": "task_met_po50__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#3182bdff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#3182bdff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#3182bdff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig2__plot1_curve4",
+                "name": "100 mg oral\u00b1SD",
+                "x": "fig2_metoprolol_oral100__time",
+                "y": "fig2_metoprolol_oral100__mean",
+                "xerr": null,
+                "yerr": "fig2_metoprolol_oral100__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#08519cff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig2__plot1_curve5",
+                "name": "100 mg oral",
+                "x": "task_met_po100__time",
+                "y": "task_met_po100__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#08519cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#08519cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#08519cff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig2__plot1_curve6",
+                "name": "placebo\u00b1SD",
+                "x": "fig2_placebo__time",
+                "y": "fig2_placebo__mean",
+                "xerr": null,
+                "yerr": "fig2_placebo__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#7f7f7fff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "XCROSS",
+                    "fill": "#7f7f7fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#7f7f7fff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    },
+    "fig_iv": {
+      "sid": "Fig3",
+      "name": "Johnsson1975 (intravenous, 10 min infusion)",
+      "num_rows": 1,
+      "num_cols": 2,
+      "width": null,
+      "height": null,
+      "settings": {},
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig3__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig3__plot0_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": 8,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig3__plot0_yaxis",
+              "name": "metoprolol [\u00b5M]",
+              "label": "metoprolol",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig3__plot0_curve0",
+                "name": "5 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv5__time",
+                "y": "fig6_metoprolol_iv5__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv5__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fcae91ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig3__plot0_curve1",
+                "name": "5 mg iv",
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig3__plot0_curve2",
+                "name": "10 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv10__time",
+                "y": "fig6_metoprolol_iv10__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv10__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fb6a4aff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig3__plot0_curve3",
+                "name": "10 mg iv",
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig3__plot0_curve4",
+                "name": "15 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv15__time",
+                "y": "fig6_metoprolol_iv15__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv15__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#de2d26ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig3__plot0_curve5",
+                "name": "15 mg iv",
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig3__plot0_curve6",
+                "name": "20 mg iv\u00b1SD",
+                "x": "fig6_metoprolol_iv20__time",
+                "y": "fig6_metoprolol_iv20__mean",
+                "xerr": null,
+                "yerr": "fig6_metoprolol_iv20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#a50f15ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEDOWN",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig3__plot0_curve7",
+                "name": "20 mg iv",
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__conc__Cveplasma_met",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig3__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig3__plot1_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": 0,
+              "max": 8,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig3__plot1_yaxis",
+              "name": "HR reduction\n [percent]",
+              "label": "HR reduction\n",
+              "unit": "percent",
+              "scale": "LINEAR",
+              "min": 35,
+              "max": 0,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig3__plot1_curve0",
+                "name": "5 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv5__time",
+                "y": "fig3_metoprolol_iv5__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv5__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fcae91ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig3__plot1_curve1",
+                "name": "5 mg iv",
+                "x": "task_met_iv5__time",
+                "y": "task_met_iv5__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fcae91ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fcae91ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fcae91ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig3__plot1_curve2",
+                "name": "10 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv10__time",
+                "y": "fig3_metoprolol_iv10__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv10__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fb6a4aff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "CIRCLE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig3__plot1_curve3",
+                "name": "10 mg iv",
+                "x": "task_met_iv10__time",
+                "y": "task_met_iv10__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fb6a4aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fb6a4aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fb6a4aff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig3__plot1_curve4",
+                "name": "15 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv15__time",
+                "y": "fig3_metoprolol_iv15__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv15__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#de2d26ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEUP",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig3__plot1_curve5",
+                "name": "15 mg iv",
+                "x": "task_met_iv15__time",
+                "y": "task_met_iv15__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#de2d26ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#de2d26ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#de2d26ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig3__plot1_curve6",
+                "name": "20 mg iv\u00b1SD",
+                "x": "fig3_metoprolol_iv20__time",
+                "y": "fig3_metoprolol_iv20__mean",
+                "xerr": null,
+                "yerr": "fig3_metoprolol_iv20__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#a50f15ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "TRIANGLEDOWN",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig3__plot1_curve7",
+                "name": "20 mg iv",
+                "x": "task_met_iv20__time",
+                "y": "task_met_iv20__HRred",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#a50f15ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#a50f15ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#a50f15ff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    }
+  }
+}

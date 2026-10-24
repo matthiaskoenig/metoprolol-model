@@ -1,0 +1,7 @@
+study	name	parent	group_count	measurement	choice	count	mean	min	max	sd	unit
+Sandberg1988	all	NA	12	species	homo sapiens	12	NA	NA	NA	NA	NA
+Sandberg1988	all	NA	12	fasting	Y	12	NA	NA	NA	NA	NA
+Sandberg1988	all	NA	12	sex	M	12	NA	NA	NA	NA	NA
+Sandberg1988	all	NA	12	healthy	Y	12	NA	NA	NA	NA	NA
+Sandberg1988	all	NA	12	age	NA	12	27.0	21.0	34.0	NA	yr
+Sandberg1988	all	NA	12	weight	NA	12	74.0	67.0	85.0	NA	kg

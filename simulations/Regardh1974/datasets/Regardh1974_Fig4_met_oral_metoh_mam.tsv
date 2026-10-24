@@ -1,0 +1,18 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	mean_unit
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	0.168	hr	4.760365216042223e-06	1.6428	3.0948711897116604e-06	1.3840684723601844e-06			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	0.2998	hr	8.143955389047604e-05	31.854	8.430293633912599e-05	3.7701419271424555e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	0.5215	hr	0.00022352677776965731	67.583	6.540168275515538e-05	2.9248521696680564e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	0.6677	hr	0.0003033842185299933	85.638	3.7835960714107896e-05	1.692075603015126e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	0.8553	hr	0.0003370462000223366	95.461	4.4719027837828095e-05	1.9998957226617734e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	1.0037	hr	0.0003630556910554205	100.355	2.749045156217334e-05	1.2294103685036994e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	1.2658	hr	0.00037588090600400336	102.967	2.0657564757702476e-05	9.238343809565345e-06			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	1.5272	hr	0.00038178297342566093	105.365	2.7515541721797974e-05	1.2305324345534366e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	1.7718	hr	0.00037385744689429697	102.627	2.2338605452559983e-05	9.990128062894308e-06			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	2.0318	hr	0.0003659132192621039	101.123	2.7523905108339705e-05	1.230906456570026e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	2.5368	hr	0.0003546588967831638	97.91	2.5817774253857347e-05	1.1546059651873774e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	3.0326	hr	0.00032726178406856216	90.379	2.4094916626291864e-05	1.0775574297715689e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	4.0468	hr	0.0002693669161218974	76.133	3.440697223205983e-05	1.5387265762166692e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	5.0468	hr	0.0002230218480472722	64.773	4.302962375642878e-05	1.924343275312295e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	6.0555	hr	0.0001859001629015491	53.608	3.265902444486968e-05	1.4605559747511163e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	7.0557	hr	0.00014109232531507427	41.425	3.096125697692898e-05	1.3846295053850568e-05			Fig4_rmoral	mole/meter^3
+Regardh1974	all	met_oral	concentration	metoh+mam	plasma	8.0655	hr	0.00011473873402673524	34.586	3.269247799103604e-05	1.4620520628174463e-05			Fig4_rmoral	mole/meter^3

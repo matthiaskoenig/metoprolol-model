@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="767px"
+   height="547px"
+   viewBox="0 0 767 547"
+   id="svg17764"
+   sodipodi:docname="metoprolol_liver.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17768" />
+  <sodipodi:namedview
+     id="namedview17766"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.97035431"
+     inkscape:cx="517.85208"
+     inkscape:cy="292.6766"
+     inkscape:window-width="1440"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg17764" />
+  <title
+     id="title17420" />
+  <desc
+     id="desc17422">Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Wednesday, October 20, 2021 at 7:49:56 PM Western European Summer Time</desc>
+  <g
+     stroke-dashoffset="0"
+     stroke-linejoin="miter"
+     stroke-dasharray="none"
+     stroke-width="1"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     id="g17762">
+    <g
+       fill="#ffffff"
+       fill-rule="nonzero"
+       fill-opacity="1"
+       stroke="none"
+       id="g17426"
+       transform="translate(-136.19188,38.62507)">
+      <path
+         d="M 0,0 H 767 V 547 H 0 Z"
+         id="path17424" />
+    </g>
+    <!-- drawing style -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17432">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17430">
+        <path
+           d="M -327.6817932128906 -18.101688385009766 L -176.6640167236328 -116.71192169189453"
+           id="path17428" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17438">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17436">
+        <path
+           d="M -335.1817932128906 -20.704404830932617 L -335.1817932128906 -91.64663696289062"
+           id="path17434" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0, 1.908733202838065, -1.908733202838065, 0, 206.53660935893333, 433.58320282990223)"
+       id="g17444">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17442">
+        <path
+           d="M -0.00000000000000009185 0.5 C 0.27614237491539656 0.5 0.49999999999999994 0.2761423749153968 0.5 0.00000000000000012246 C 0.5000000000000001 -0.27614237491539656 0.27614237491539684 -0.4999999999999999 0.00000000000000015308 -0.5 z"
+           id="path17440" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0, -7.63493281135226, 7.63493281135226, -0, 206.53660935893333, 350.6084402303409)"
+       id="g17450">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17448">
+        <path
+           d="M -2 -0.5 L 0 0 L -2 0.5 z"
+           id="path17446" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17456">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17454">
+        <path
+           d="M -159.91790771484375 -228.4344940185547 L -159.91790771484375 -163.64663696289062"
+           id="path17452" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0, -1.908733202838065, 1.908733202838065, 0, 373.8026081131988, 235.33254359943885)"
+       id="g17462">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17460">
+        <path
+           d="M -0.00000000000000009185 0.5 C 0.27614237491539656 0.5 0.49999999999999994 0.2761423749153968 0.5 0.00000000000000012246 C 0.5000000000000001 -0.27614237491539656 0.27614237491539684 -0.4999999999999999 0.00000000000000015308 -0.5 z"
+           id="path17458" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0, 7.63493281135226, -7.63493281135226, -0, 373.8026081131988, 312.4337761735796)"
+       id="g17468">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17466">
+        <path
+           d="M -2 -0.5 L 0 0 L -2 0.5 z"
+           id="path17464" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17474">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17472">
+        <path
+           d="M -159.91790771484375 -243.4344940185547 L -159.91790771484375 -349.837646484375"
+           id="path17470" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17480">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17478">
+        <path
+           d="M 19.011859893798828 -21.690902709960938 L 19.011859893798828 -91.64663696289062"
+           id="path17476" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0, 1.908733202838065, -1.908733202838065, 0, 544.5672023185563, 432.64172220178693)"
+       id="g17486">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17484">
+        <path
+           d="M -0.00000000000000009185 0.5 C 0.27614237491539656 0.5 0.49999999999999994 0.2761423749153968 0.5 0.00000000000000012246 C 0.5000000000000001 -0.27614237491539656 0.27614237491539684 -0.4999999999999999 0.00000000000000015308 -0.5 z"
+           id="path17482" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0, -7.63493281135226, 7.63493281135226, -0, 544.5672023185563, 350.6084402303409)"
+       id="g17492">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17490">
+        <path
+           d="M -2 -0.5 L 0 0 L -2 0.5 z"
+           id="path17488" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17498">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17496">
+        <path
+           d="M 19.011859893798828 -228.4344940185547 L 19.011859893798828 -147.64663696289062"
+           id="path17494" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17504">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17502">
+        <path
+           d="M 11.511859893798828 -18.946500778198242 L -143.0272216796875 -116.93659973144531"
+           id="path17500" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17510">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17508">
+        <path
+           d="M -335.1817932128906 -228.4344940185547 L -335.1817932128906 -147.64663696289062"
+           id="path17506" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17516">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17514">
+        <path
+           d="M -335.1817932128906 -243.4344940185547 L -335.1817932128906 -333.837646484375"
+           id="path17512" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0, 1.908733202838065, -1.908733202838065, 0, 206.53660935893333, 221.0170445781534)"
+       id="g17522">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17520">
+        <path
+           d="M -0.00000000000000009185 0.5 C 0.27614237491539656 0.5 0.49999999999999994 0.2761423749153968 0.5 0.00000000000000012246 C 0.5000000000000001 -0.27614237491539656 0.27614237491539684 -0.4999999999999999 0.00000000000000015308 -0.5 z"
+           id="path17518" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0, -7.63493281135226, 7.63493281135226, -0, 206.53660935893333, 119.46942957907731)"
+       id="g17528">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17526">
+        <path
+           d="M -2 -0.5 L 0 0 L -2 0.5 z"
+           id="path17524" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17534">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17532">
+        <path
+           d="M -159.91790771484375 -21.690902709960938 L -159.91790771484375 -107.64663696289062"
+           id="path17530" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17540">
+      <g
+         stroke-opacity="1"
+         stroke-width="2"
+         fill="none"
+         stroke="#000000"
+         stroke-linecap="butt"
+         id="g17538">
+        <path
+           d="M 19.011859893798828 -243.4344940185547 L 19.011859893798828 -335.3792419433594"
+           id="path17536" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0, 1.908733202838065, -1.908733202838065, 0, 544.5672023185563, 221.0170445781534)"
+       id="g17546">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17544">
+        <path
+           d="M -0.00000000000000009185 0.5 C 0.27614237491539656 0.5 0.49999999999999994 0.2761423749153968 0.5 0.00000000000000012246 C 0.5000000000000001 -0.27614237491539656 0.27614237491539684 -0.4999999999999999 0.00000000000000015308 -0.5 z"
+           id="path17542" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0, -7.63493281135226, 7.63493281135226, -0, 544.5672023185563, 117.99818236012334)"
+       id="g17552">
+      <g
+         fill="#000000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17550">
+        <path
+           d="M -2 -0.5 L 0 0 L -2 0.5 z"
+           id="path17548" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17558"
+       style="stroke:#c4649f;stroke-opacity:1;fill:#c4649f;fill-opacity:1">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17556"
+         style="stroke:#c4649f;stroke-opacity:1;fill:#c4649f;fill-opacity:1">
+        <path
+           d="M -340.1817932128906 -18.204404830932617 L -330.1817932128906 -18.204404830932617 L -330.1817932128906 -8.204404830932617 L -340.1817932128906 -8.204404830932617 L -340.1817932128906 -18.204404830932617 z"
+           id="path17554"
+           style="stroke:#c4649f;stroke-opacity:1;fill:#c4649f;fill-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 149.11803750324606, 412.3783680843133)"
+       id="g17568">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17566">MET to METOH </text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 163.92563180338826, 430.3622137298032)"
+       id="g17572">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17570">conversion </text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17578">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17576">
+        <path
+           d="M -164.91790771484375 -240.9344940185547 L -154.91790771484375 -240.9344940185547 L -154.91790771484375 -230.9344940185547 L -164.91790771484375 -230.9344940185547 L -164.91790771484375 -240.9344940185547 z"
+           id="path17574" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17584">
+      <g
+         fill="#ff3333"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17582">
+        <path
+           d="M -164.91790771484375 -240.9344940185547 L -154.91790771484375 -240.9344940185547 L -154.91790771484375 -230.9344940185547 L -164.91790771484375 -230.9344940185547 L -164.91790771484375 -240.9344940185547 z"
+           id="path17580" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <g
+       transform="matrix(0.9543666,0,0,0.9543666,693.68891,453.34279)"
+       id="g17642-7"
+       style="fill:#000000">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17640-2"
+         style="fill:#000000;stroke:#262222;stroke-opacity:1">
+        <path
+           d="m -340.18179,-240.93449 h 10 v 10 h -10 z"
+           id="path17638-3"
+           style="fill:#000000;stroke:#262222;stroke-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 305.92701158180694, 217.79605729836413)"
+       id="g17588">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17586">metoprolol import</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17594">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#3333ff"
+         stroke-linecap="butt"
+         id="g17592">
+        <path
+           d="M -142.41790771484375 -369.837646484375 C -142.41790771484375 -360.1726633623361 -150.25292459280487 -352.337646484375 -159.91790771484375 -352.337646484375 C -169.58289083688263 -352.337646484375 -177.41790771484375 -360.1726633623361 -177.41790771484375 -369.837646484375 C -177.41790771484375 -379.5026296064139 -169.58289083688263 -387.337646484375 -159.91790771484375 -387.337646484375 C -150.25292459280487 -387.337646484375 -142.41790771484375 -379.5026296064139 -142.41790771484375 -369.837646484375 z"
+           id="path17590" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17600">
+      <g
+         fill="#f0f0f0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17598">
+        <path
+           d="M -142.41790771484375 -369.837646484375 C -142.41790771484375 -360.1726633623361 -150.25292459280487 -352.337646484375 -159.91790771484375 -352.337646484375 C -169.58289083688263 -352.337646484375 -177.41790771484375 -360.1726633623361 -177.41790771484375 -369.837646484375 C -177.41790771484375 -379.5026296064139 -169.58289083688263 -387.337646484375 -159.91790771484375 -387.337646484375 C -150.25292459280487 -387.337646484375 -142.41790771484375 -379.5026296064139 -142.41790771484375 -369.837646484375 z"
+           id="path17596" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 299.30609328446235, 106.15303309365235)"
+       id="g17604">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17602">metoprolol (plasma)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17610"
+       style="stroke:#c66aa3;stroke-opacity:1">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17608"
+         style="stroke:#c66aa3;stroke-opacity:1">
+        <path
+           d="M 36.5118602514267 -127.64663696289062 C 36.5118602514267 -117.98165384085175 28.67684337346558 -110.14663696289062 19.011860251426697 -110.14663696289062 C 9.346877129387813 -110.14663696289062 1.5118602514266968 -117.98165384085175 1.5118602514266968 -127.64663696289062 C 1.5118602514266968 -137.3116200849295 9.346877129387813 -145.14663696289062 19.011860251426697 -145.14663696289062 C 28.67684337346558 -145.14663696289062 36.5118602514267 -137.3116200849295 36.5118602514267 -127.64663696289062 z"
+           id="path17606"
+           style="stroke:#c66aa3;stroke-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666,0,0,0.9543666,526.42292,453.3428)"
+       id="g17616">
+      <g
+         fill="#f0f0f0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17614">
+        <path
+           d="m 36.51186,-127.64664 c 0,9.66499 -7.835017,17.5 -17.5,17.5 -9.6649829,0 -17.4999997,-7.83501 -17.4999997,-17.5 0,-9.66498 7.8350168,-17.5 17.4999997,-17.5 9.664983,0 17.5,7.83502 17.5,17.5 z"
+           id="path17612" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 463.2372735038781, 337.292043744916)"
+       id="g17620">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17618">metoprolol acid (liver)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17626">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17624">
+        <path
+           d="M 14.011859893798828 -19.190902709960938 L 24.011859893798828 -19.190902709960938 L 24.011859893798828 -9.190902709960938 L 14.011859893798828 -9.190902709960938 L 14.011859893798828 -19.190902709960938 z"
+           id="path17622" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17632">
+      <g
+         fill="#ff3333"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17630">
+        <path
+           d="M 14.011859893798828 -19.190902709960938 L 24.011859893798828 -19.190902709960938 L 24.011859893798828 -9.190902709960938 L 14.011859893798828 -9.190902709960938 L 14.011859893798828 -19.190902709960938 z"
+           id="path17628" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 455.617252670673, 429.4207349219977)"
+       id="g17636">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17634">MET to MAM conversion</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17642"
+       style="fill:#000000">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17640"
+         style="fill:#000000;stroke:#262222;stroke-opacity:1">
+        <path
+           d="M -340.1817932128906 -240.9344940185547 L -330.1817932128906 -240.9344940185547 L -330.1817932128906 -230.9344940185547 L -340.1817932128906 -230.9344940185547 L -340.1817932128906 -240.9344940185547 z"
+           id="path17638"
+           style="fill:#000000;stroke:#262222;stroke-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666,0,0,0.9543666,526.42291,453.34279)"
+       id="g17648"
+       style="fill:#000000">
+      <g
+         fill="#ff3333"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17646"
+         style="fill:#000000">
+        <path
+           d="m -340.18179,-240.93449 h 10 v 10 h -10 z"
+           id="path17644"
+           style="fill:#000000" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 133.45300445964148, 199.8121970903956)"
+       id="g17652">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17650">hydroxymetoprolol </text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 179.7099606721702, 217.79604273588546)"
+       id="g17656">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17654">export </text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17662"
+       style="stroke:#c66aa3;stroke-opacity:1">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17660"
+         style="stroke:#c66aa3;stroke-opacity:1">
+        <path
+           d="M -317.6817932128906 -127.64663696289062 C -317.6817932128906 -117.98165384085175 -325.5168100908517 -110.14663696289062 -335.1817932128906 -110.14663696289062 C -344.84677633492953 -110.14663696289062 -352.6817932128906 -117.98165384085175 -352.6817932128906 -127.64663696289062 C -352.6817932128906 -137.3116200849295 -344.84677633492953 -145.14663696289062 -335.1817932128906 -145.14663696289062 C -325.5168100908517 -145.14663696289062 -317.6817932128906 -137.3116200849295 -317.6817932128906 -127.64663696289062 z"
+           id="path17658"
+           style="stroke:#c66aa3;stroke-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666,0,0,0.9543666,526.42291,453.3428)"
+       id="g17668">
+      <g
+         fill="#f0f0f0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17666">
+        <path
+           d="m -317.68179,-127.64664 c 0,9.66499 -7.83502,17.5 -17.5,17.5 -9.66499,0 -17.5,-7.83501 -17.5,-17.5 0,-9.66498 7.83501,-17.5 17.5,-17.5 9.66498,0 17.5,7.83502 17.5,17.5 z"
+           id="path17664" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 121.79183754855268, 328.300120922171)"
+       id="g17672">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17670">1-hydroxy metoprolol </text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 183.41185924720577, 346.2839665676609)"
+       id="g17676">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17674">(liver) </text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17682"
+       style="stroke:#c66aa3;stroke-opacity:1">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17680"
+         style="stroke:#c66aa3;stroke-opacity:1">
+        <path
+           d="M -142.41790771484375 -127.64663696289062 C -142.41790771484375 -117.98165384085175 -150.25292459280487 -110.14663696289062 -159.91790771484375 -110.14663696289062 C -169.58289083688263 -110.14663696289062 -177.41790771484375 -117.98165384085175 -177.41790771484375 -127.64663696289062 C -177.41790771484375 -137.3116200849295 -169.58289083688263 -145.14663696289062 -159.91790771484375 -145.14663696289062 C -150.25292459280487 -145.14663696289062 -142.41790771484375 -137.3116200849295 -142.41790771484375 -127.64663696289062 z"
+           id="path17678"
+           style="stroke:#c66aa3;stroke-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666,0,0,0.9543666,526.42292,453.3428)"
+       id="g17688">
+      <g
+         fill="#f0f0f0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17686">
+        <path
+           d="m -142.41791,-127.64664 c 0,9.66499 -7.83501,17.5 -17.5,17.5 -9.66498,0 -17.5,-7.83501 -17.5,-17.5 0,-9.66498 7.83502,-17.5 17.5,-17.5 9.66499,0 17.5,7.83502 17.5,17.5 z"
+           id="path17684" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 310.0278055722793, 337.292043744916)"
+       id="g17692">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17690">metoprolol (liver)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17698">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17696">
+        <path
+           d="M -164.91790771484375 -19.190902709960938 L -154.91790771484375 -19.190902709960938 L -154.91790771484375 -9.190902709960938 L -164.91790771484375 -9.190902709960938 L -164.91790771484375 -19.190902709960938 z"
+           id="path17694" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17704">
+      <g
+         fill="#ff3333"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17702">
+        <path
+           d="M -164.91790771484375 -19.190902709960938 L -154.91790771484375 -19.190902709960938 L -154.91790771484375 -9.190902709960938 L -164.91790771484375 -9.190902709960938 L -164.91790771484375 -19.190902709960938 z"
+           id="path17700" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <g
+       transform="matrix(0.9543666,0,0,0.9543666,693.68891,452.40131)"
+       id="g17558-9"
+       style="fill:#c4649f;fill-opacity:1;stroke:#c4649f;stroke-opacity:1">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17556-0"
+         style="fill:#c4649f;fill-opacity:1;stroke:#c4649f;stroke-opacity:1">
+        <path
+           d="m -340.18179,-18.204405 h 10 v 10.0000002 h -10 z"
+           id="path17554-2"
+           style="fill:#c4649f;fill-opacity:1;stroke:#c4649f;stroke-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 315.6496213337633, 429.4207349219977)"
+       id="g17708">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17706">MET conversion</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17714">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17712">
+        <path
+           d="M 14.011859893798828 -240.9344940185547 L 24.011859893798828 -240.9344940185547 L 24.011859893798828 -230.9344940185547 L 14.011859893798828 -230.9344940185547 L 14.011859893798828 -240.9344940185547 z"
+           id="path17710" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17720">
+      <g
+         fill="#ff3333"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17718">
+        <path
+           d="M 14.011859893798828 -240.9344940185547 L 24.011859893798828 -240.9344940185547 L 24.011859893798828 -230.9344940185547 L 14.011859893798828 -230.9344940185547 L 14.011859893798828 -240.9344940185547 z"
+           id="path17716" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <g
+       transform="matrix(0.9543666,0,0,0.9543666,864.45351,453.34279)"
+       id="g17642-6"
+       style="fill:#000000">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#ff3333"
+         stroke-linecap="butt"
+         id="g17640-5"
+         style="fill:#000000;stroke:#262222;stroke-opacity:1">
+        <path
+           d="m -340.18179,-240.93449 h 10 v 10 h -10 z"
+           id="path17638-5"
+           style="fill:#000000;stroke:#262222;stroke-opacity:1" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 499.32053262549846, 217.79605729836413)"
+       id="g17724">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans Bold"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17722">MAM export</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17730">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#3333ff"
+         stroke-linecap="butt"
+         id="g17728">
+        <path
+           d="M 36.5118602514267 -371.3792419433594 C 36.5118602514267 -361.71425882132047 28.67684337346558 -353.8792419433594 19.011860251426697 -353.8792419433594 C 9.346877129387813 -353.8792419433594 1.5118602514266968 -361.71425882132047 1.5118602514266968 -371.3792419433594 C 1.5118602514266968 -381.0442250653983 9.346877129387813 -388.8792419433594 19.011860251426697 -388.8792419433594 C 28.67684337346558 -388.8792419433594 36.5118602514267 -381.0442250653983 36.5118602514267 -371.3792419433594 z"
+           id="path17726" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17736">
+      <g
+         fill="#f0f0f0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17734">
+        <path
+           d="M 36.5118602514267 -371.3792419433594 C 36.5118602514267 -361.71425882132047 28.67684337346558 -353.8792419433594 19.011860251426697 -353.8792419433594 C 9.346877129387813 -353.8792419433594 1.5118602514266968 -361.71425882132047 1.5118602514266968 -371.3792419433594 C 1.5118602514266968 -381.0442250653983 9.346877129387813 -388.8792419433594 19.011860251426697 -388.8792419433594 C 28.67684337346558 -388.8792419433594 36.5118602514267 -381.0442250653983 36.5118602514267 -371.3792419433594 z"
+           id="path17732" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 452.51556121606114, 104.68178587469843)"
+       id="g17740">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17738">metoprolol acid (plasma)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17746">
+      <g
+         stroke-opacity="0.7843137383460999"
+         stroke-width="5"
+         fill="none"
+         stroke="#3333ff"
+         stroke-linecap="butt"
+         id="g17744">
+        <path
+           d="M -317.6817932128906 -369.837646484375 C -317.6817932128906 -360.1726633623361 -325.5168100908517 -352.337646484375 -335.1817932128906 -352.337646484375 C -344.84677633492953 -352.337646484375 -352.6817932128906 -360.1726633623361 -352.6817932128906 -369.837646484375 C -352.6817932128906 -379.5026296064139 -344.84677633492953 -387.337646484375 -335.1817932128906 -387.337646484375 C -325.5168100908517 -387.337646484375 -317.6817932128906 -379.5026296064139 -317.6817932128906 -369.837646484375 z"
+           id="path17742" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 526.4229182050567, 453.3427953028032)"
+       id="g17752">
+      <g
+         fill="#f0f0f0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g17750">
+        <path
+           d="M -317.6817932128906 -369.837646484375 C -317.6817932128906 -360.1726633623361 -325.5168100908517 -352.337646484375 -335.1817932128906 -352.337646484375 C -344.84677633492953 -352.337646484375 -352.6817932128906 -360.1726633623361 -352.6817932128906 -369.837646484375 C -352.6817932128906 -379.5026296064139 -344.84677633492953 -387.337646484375 -335.1817932128906 -387.337646484375 C -325.5168100908517 -387.337646484375 -317.6817932128906 -379.5026296064139 -317.6817932128906 -369.837646484375 z"
+           id="path17748" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 121.79183754855268, 97.16111027090743)"
+       id="g17756">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17754">1-hydroxy metoprolol </text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9543666014190325, 0, 0, 0.9543666014190325, 172.6901469593888, 115.14495591639728)"
+       id="g17760">
+      <text
+         font-weight="normal"
+         font-size="16"
+         font-family="Liberation Sans"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text17758">(plasma) </text>
+    </g>
+    <!-- transform -->
+  </g>
+  <g
+     transform="matrix(0.9543666,0,0,0.9543666,864.45351,452.40131)"
+     id="g17558-99"
+     style="fill:#c4649f;fill-opacity:1;stroke:#c4649f;stroke-opacity:1">
+    <g
+       stroke-opacity="0.7843137383460999"
+       stroke-width="5"
+       fill="none"
+       stroke="#ff3333"
+       stroke-linecap="butt"
+       id="g17556-7"
+       style="fill:#c4649f;fill-opacity:1;stroke:#c4649f;stroke-opacity:1">
+      <path
+         d="m -340.18179,-18.204405 h 10 v 10.0000002 h -10 z"
+         id="path17554-0"
+         style="fill:#c4649f;fill-opacity:1;stroke:#c4649f;stroke-opacity:1" />
+    </g>
+    <!-- drawing style -->
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="604.20483"
+     y="282.64661"
+     id="text2860-1"><tspan
+       sodipodi:role="line"
+       id="tspan2858-4"
+       x="604.20483"
+       y="282.64661"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Liver</tspan></text>
+  <!-- default stroke -->
+  <rect
+     style="fill:none;fill-opacity:0.157895;fill-rule:evenodd;stroke:#000000;stroke-width:2.1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect367"
+     width="571.94202"
+     height="127.19646"
+     x="90.025925"
+     y="46.843773"
+     ry="8.5338593" />
+  <rect
+     style="fill:#efd5e5;fill-opacity:0.380952;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect367-8"
+     width="571.78394"
+     height="209.03633"
+     x="90.964592"
+     y="258.93112"
+     ry="14.024657" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="595.77753"
+     y="69.239128"
+     id="text2860"><tspan
+       sodipodi:role="line"
+       id="tspan2858"
+       x="595.77753"
+       y="69.239128"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Blood</tspan></text>
+</svg>
+<!-- bounding box -->
+

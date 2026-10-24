@@ -1,0 +1,37 @@
+study	individual	group	intervention	measurement_x	measurement_y	substance_x	tissue_x	time	time_unit	value_x	value_y	value_x_unit	value_y_unit	label_x	label_y	comments
+Sandberg1988	CR_1	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	22.549185	3.716518	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_2	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	26.07782	10.0592785	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_3	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	32.58276	8.240099	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_4	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	39.47246	2.3230765	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_5	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	69.26178	11.758951	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_6	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	76.05464	14.881734	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_7	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	143.72404	13.001162	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_8	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	154.6721	9.03432	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_9	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	180.13023	15.051938	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_10	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	224.96152	17.68805	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_11	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	256.7686	16.42092	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	CR_12	all	METO_CR_1, METO_CR_2, METO_CR_3, METO_CR_4, METO_CR_5	caverage	EHR change average	metoprolol	plasma	24	hr	283.96884	17.863092	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_1	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	28.557817	5.604784	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_2	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	52.120407	4.2117105	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_3	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	62.437923	5.9694047	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_4	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	67.89216	2.9457452	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_5	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	98.066055	11.079088	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_6	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	122.953125	9.39002	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_7	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	233.01976	13.460708	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_8	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	284.0219	15.934003	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_9	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	291.06393	14.40576	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_10	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	304.5862	12.292334	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_11	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	363.48203	17.65976	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M24_12	all	METO_100_1, METO_100_2, METO_100_3, METO_100_4, METO_100_5	caverage	EHR change average	metoprolol	plasma	24	hr	380.3538	17.863092	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_1	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	22.08171	4.594384	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_2	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	53.936462	9.350236	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_3	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	67.87681	5.189651	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_4	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	74.785835	9.320597	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_5	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	83.23286	16.931314	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_6	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	92.72721	14.558278	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_7	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	241.23697	14.566707	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_8	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	243.74956	15.249726	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_9	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	253.99774	20.583435	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_10	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	275.27756	15.738605	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_11	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	371.12473	18.18027	nmol/l	percent	Fig4_X	Fig4_Y	NA
+Sandberg1988	M12_12	all	METO_50_1,METO_50_2,METO_50_3, METO_50_4, METO_50_5, METO_50_6,METO_50_7,METO_50_8,METO_50_9,METO_50_10	caverage	EHR change average	metoprolol	plasma	12	hr	447.9206	14.897367	nmol/l	percent	Fig4_X	Fig4_Y	NA

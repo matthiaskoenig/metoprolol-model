@@ -1,0 +1,13 @@
+study	group	intervention	measurement	substance	tissue	time	time_unit	mean	mean_pm	mean_sd	mean_se	min	max	label	comment	mean_unit
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	1.0086	hr	1.1325934579439255e-06						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	2.2422	hr	3.6042640186915894e-06						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	3.1844	hr	5.614047897196263e-06						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	4.1529	hr	6.9696261682243005e-06						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	5.1007	hr	8.072429906542057e-06						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	6.1826	hr	8.9227511682243e-06						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	7.118	hr	9.564544392523367e-06						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	8.0301	hr	1.001285046728972e-05						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	12.0706	hr	1.1316588785046732e-05						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	23.8335	hr	1.2580023364485983e-05						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	48.0	hr	1.2877044392523368e-05						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
+Regardh1974	all	met_oral	recovery	metoh+mam	urine	72.0	hr	1.300773948598131e-05						Fig6_rmoral	unclear if metoprolol is part of metoprolol metabolites	count*mole
